@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T16:26:21.351263+08:00",
-  "total_titles_processed": 1439,
+  "generated_at": "2025-10-14T17:19:32.842765+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时19分]"
         },
         {
           "title": "加沙战争结束",
@@ -61,8 +61,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 16时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 17时19分]"
         },
         {
           "title": "以总理：加沙战争结束",
@@ -85,6 +85,19 @@
           "time_info": "[00时33分 ~ 15时18分]"
         },
         {
+          "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时20分 ~ 17时19分]"
+        },
+        {
           "title": "兄弟反目,阿塔与巴塔濒临战争边缘",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E4%B8%8E%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
           "source": "贴吧",
@@ -95,19 +108,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时07分 ~ 14时26分]"
-        },
-        {
-          "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时20分 ~ 16时26分]"
         },
         {
           "title": "川普与中国一致发声,力促加沙战争终结",
@@ -126,11 +126,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "兄弟反目,阿塔巴塔濒临战争边缘",
@@ -138,11 +139,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时19分]"
         },
         {
           "title": "美国总统特朗普：加沙战争已经结束。",
@@ -180,11 +182,12 @@
           "ranks": [
             8,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时07分 ~ 16时26分]"
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 17时19分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -196,8 +199,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时21分 ~ 15时18分]"
+          "appearance_count": 10,
+          "time_info": "[07时21分 ~ 17时19分]"
         },
         {
           "title": "OpenAI或将成为最大的无人公司",
@@ -471,11 +474,12 @@
           "ranks": [
             4,
             2,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时26分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时19分]"
         },
         {
           "title": "金价疯狂涨势还能持续多久",
