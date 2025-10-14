@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T03:14:51.462243+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2025-10-15T04:20:26.746152+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "金价飙升带火洗沙盘",
@@ -70,7 +70,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -82,8 +82,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
@@ -91,11 +91,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "中美一致发声,力促加沙战争终结",
@@ -105,8 +106,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
         },
         {
           "title": "兄弟反目,阿塔巴塔濒临战争边缘",
@@ -116,8 +117,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "抗美援朝战争的意义是什么？",
+          "url": "https://www.zhihu.com/question/11747415247",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
         }
       ]
     },
@@ -163,6 +175,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "德银：OpenAI在欧洲的订阅用户“增长停滞”",
+          "url": "https://flash.jin10.com/detail/20251015030536349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -176,24 +217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
         }
       ]
     }
