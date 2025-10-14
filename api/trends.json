@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-10-14T13:18:31.408029+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-10-14T14:26:25.043227+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 11,
       "titles": [
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 14时26分]"
+        },
         {
           "title": "OpenAI或将成为最大的无人公司",
           "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
@@ -24,19 +37,6 @@
           "time_info": "[00时33分 ~ 07时21分]"
         },
         {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时18分]"
-        },
-        {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
           "url": "https://wallstreetcn.com/articles/3757107",
           "source": "华尔街见闻",
@@ -46,8 +46,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时18分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时26分]"
         },
         {
           "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
@@ -311,8 +311,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 14时26分]"
         },
         {
           "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
@@ -324,11 +324,12 @@
             12,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 14时26分]"
         },
         {
           "title": "以总理：加沙战争结束",
@@ -343,11 +344,12 @@
             16,
             28,
             26,
-            23
+            23,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时18分]"
+          "appearance_count": 14,
+          "time_info": "[00时33分 ~ 14时26分]"
         },
         {
           "title": "川普与中国一致发声,力促加沙战争终结",
@@ -365,22 +367,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E4%B8%8E%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时07分 ~ 14时26分]"
         },
         {
           "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
           "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 14时26分]"
         },
         {
           "title": "美国总统特朗普：加沙战争已经结束。",
@@ -508,7 +512,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
