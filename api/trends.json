@@ -1,787 +1,139 @@
 {
-  "generated_at": "2025-10-14T23:21:22.636435+08:00",
-  "total_titles_processed": 2125,
+  "generated_at": "2025-10-15T00:23:30.173994+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
-          "url": "https://wallstreetcn.com/articles/3757125",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时07分 ~ 23时21分]"
-        },
-        {
-          "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
-          "url": "https://wallstreetcn.com/articles/3757107",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 19时16分]"
-        },
-        {
-          "title": "OpenAI或将成为最大的无人公司",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%88%96%E5%B0%86%E6%88%90%E4%B8%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%A0%E4%BA%BA%E5%85%AC%E5%8F%B8",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            24,
-            22,
-            18,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时21分]"
-        },
-        {
-          "title": "甲骨文CEO：OpenAI每年支付600亿美元“当然没问题”",
-          "url": "https://www.cls.cn/detail/2168234",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时07分 ~ 13时18分]"
-        },
-        {
-          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
-          "url": "https://wallstreetcn.com/livenews/2987569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时18分]"
-        },
-        {
-          "title": "一份诉讼文件显示：微软造成OpenAI对ChatGPT提高价格。 微软被控对OpenAI限制算力供应，进而违反美国联邦和加州反垄断法律。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2986954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
-          "url": "https://wallstreetcn.com/livenews/2986906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 02时35分]"
-        },
-        {
-          "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
-          "url": "https://www.cls.cn/detail/2168170",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时07分]"
-        },
-        {
-          "title": "微软遭遇反垄断集体诉讼，被指抬高ChatGPT价格",
-          "url": "https://flash.jin10.com/detail/20251014055122671800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时21分]"
-        },
-        {
-          "title": "甲骨文CEO：OpenAI有能力承担每年600亿美元的云基础设施服务费用",
-          "url": "https://flash.jin10.com/detail/20251014030431270800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
-          "title": "美股三大股指低开，道指跌0.42%，标普500指数跌0.95%，纳指跌1.37%。AMD涨超1%，英伟达跌超2%；沃尔玛涨1.8%，将与OpenAI合作，在ChatGPT平台上提供购物服务；富国银行股价上涨4.9%，创4月23日以来最大涨幅；美股稀土概念股大涨，USA Rare Earth涨超6%；美股加密货币概念股普跌，Coinbase跌超4%。纳斯达克中国金龙指数跌2.5%，阿里巴巴跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/2987574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "Arm(ARM.O)盘后直线拉升涨超8%，据悉OpenAI正为博通AI芯片研发而与Arm合作。",
-          "url": "https://flash.jin10.com/detail/20251014062648196800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "市场消息：OpenAI正为了博通AI芯片研发而与软银集团旗下Arm控股合作。",
-          "url": "https://flash.jin10.com/detail/20251014062346558800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
-          "url": "https://news.ifeng.com/c/8nR93yiNTjh",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时52分 ~ 17时19分]"
-        },
-        {
-          "title": "加沙战争结束",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%93%E6%9D%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            3,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时07分]"
-        },
-        {
-          "title": "特朗普称「加沙战争已结束，哈马斯将解除武装」，加沙地区会迎来持久的和平吗？",
-          "url": "https://www.zhihu.com/question/1961110110400116359",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            1,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 11时07分]"
-        },
-        {
-          "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时20分 ~ 23时21分]"
-        },
-        {
-          "title": "737天！特朗普与内塔尼亚胡双双宣布：加沙战争结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31770585",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12,
-            13,
-            14,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时33分 ~ 18时19分]"
-        },
-        {
-          "title": "以总理：加沙战争结束",
-          "url": "https://www.douyin.com/hot/2268657",
-          "source": "抖音",
-          "ranks": [
-            20,
-            19,
-            24,
-            21,
-            22,
-            16,
-            28,
-            26,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时33分 ~ 15时18分]"
-        },
-        {
-          "title": "中美一致发声,力促加沙战争终结",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            11,
-            12,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 23时21分]"
-        },
-        {
-          "title": "兄弟反目,阿塔巴塔濒临战争边缘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            12,
-            13,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 23时21分]"
-        },
-        {
-          "title": "兄弟反目,阿塔与巴塔濒临战争边缘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E4%B8%8E%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时07分 ~ 14时26分]"
-        },
-        {
-          "title": "川普与中国一致发声,力促加沙战争终结",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E5%B7%9D%E6%99%AE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 13时18分]"
-        },
-        {
-          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 23时21分]"
-        },
-        {
-          "title": "美国总统特朗普：加沙战争已经结束。",
-          "url": "https://wallstreetcn.com/livenews/2986924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "埃及总统塞西：加沙战争的结束应该是该地区所有战争的结束。",
-          "url": "https://flash.jin10.com/detail/20251014005454945800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "谷歌公司将与印度Andhra Pradesh签署1 GW数据中心协议。",
-          "url": "https://wallstreetcn.com/livenews/2986910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 03时20分]"
-        },
-        {
-          "title": "谷歌公司宣布：到2027年将在美国南卡莱罗纳州投资90亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2986933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 04时29分]"
-        },
-        {
-          "title": "谷歌与世界银行构建合作伙伴关系。 双方将围绕新兴市场数字基础设施展开合作。",
-          "url": "https://wallstreetcn.com/livenews/2987586",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时21分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超5.4%，谷歌和英伟达至少涨超2.8%",
-          "url": "https://wallstreetcn.com/livenews/2986963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时25分]"
-        },
-        {
-          "title": "市场消息：谷歌(GOOG.O)宣布至2027年将在南卡罗来纳州投资90亿美元。",
-          "url": "https://flash.jin10.com/detail/20251014020340523800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时35分 ~ 03时20分]"
-        },
-        {
-          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
-          "url": "https://wallstreetcn.com/livenews/2987601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：加密擦除技术助力我们迈向更可持续、循环经济。",
-          "url": "https://flash.jin10.com/detail/20251014001420617800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：由于当今现代媒体的规模和技术复杂性，数据覆盖过程已难以为继。",
-          "url": "https://flash.jin10.com/detail/20251014001408269800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：今后媒体清理的方法将采用加密擦除。",
-          "url": "https://flash.jin10.com/detail/20251014001354232800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "谷歌：自11月起，将开始转变媒体清理方式，完全依赖分层加密策略。",
-          "url": "https://flash.jin10.com/detail/20251014001216097800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Nano Banana即将登陆谷歌搜索、NotebookLM和照片功能。",
-          "url": "https://flash.jin10.com/detail/20251014000355871800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "谷歌将与印度安得拉邦签署1吉瓦数据中心合作协议。",
-          "url": "https://flash.jin10.com/detail/20251013235710945800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "金价银价跳水",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26band_rank%3D4%26filter_type%3Drealtimehot%26realpos%3D4%26c_type%3D31%26cate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26pos%3D4%26display_time%3D1760426090%26pre_seqid%3D17604260904220379092395",
-          "source": "微博",
-          "ranks": [
-            4,
-            2,
-            16,
-            21,
-            22,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时17分 ~ 23时21分]"
-        },
         {
           "title": "金价这么高 到底谁在买",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%99%E4%B9%88%E9%AB%98+%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E4%B9%B0",
           "source": "百度热搜",
           "ranks": [
-            28,
-            1,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 23时21分]"
-        },
-        {
-          "title": "目前的金价，你还敢追吗？",
-          "url": "https://www.zhihu.com/question/1960053472419378672",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 07时21分]"
-        },
-        {
-          "title": "景顺：预计各国央行将持续增加黄金储备，金价涨势有望延续",
-          "url": "https://wallstreetcn.com/livenews/2987235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "金价疯狂涨势还能持续多久",
-          "url": "https://www.toutiao.com/trending/7560952972620860947/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时26分]"
-        },
-        {
-          "title": "业内：黄金价格仍然有上涨冲动",
-          "url": "https://www.toutiao.com/trending/7561048370240818727/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时18分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26filter_type%3Drealtimehot%26flag%3D1%26c_type%3D31%26band_rank%3D5%26realpos%3D5%26cate%3D5001%26pos%3D5%26display_time%3D1760455168%26pre_seqid%3D17604551686130864141118",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "现货黄金突破4100美元/盎司关口，刷新历史高位至4103.90美元，日内涨幅超过2.0%。 2025年迄今，金价累计上涨1479美元，累计涨幅超过56%。",
-          "url": "https://wallstreetcn.com/livenews/2986893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时23分]"
-        },
-        {
-          "title": "金价离10000美元不远了吗",
-          "url": "https://www.toutiao.com/trending/7560904267347791369/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时48分 ~ 13时18分]"
+          "time_info": "00时23分"
         },
         {
           "title": "金价飙升带火洗沙盘",
           "url": "https://www.toutiao.com/trending/7561063810480475711/",
           "source": "今日头条",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "金十图示：2025年10月14日（周二）上海金早盘价为945.32元/克，较国际金价(950.27元/克)低4.95元/克",
-          "url": "https://flash.jin10.com/detail/20251014102105537800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "IMF总裁格奥尔基耶娃：人工智能的监管和伦理基础“仍待建立”。",
-          "url": "https://flash.jin10.com/detail/20251014030101026800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时29分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-14）",
-          "url": "https://flash.jin10.com/detail/20251014115417041800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时16分 ~ 12时48分]"
-        },
-        {
-          "title": "人工智能领域有哪些精妙的数学原理？",
-          "url": "https://www.zhihu.com/question/508649281",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时22分]"
-        },
-        {
-          "title": "美国财政部：我们并没有批准10月21日由美国财长贝森特主持的人工智能私人活动的宣传方案。",
-          "url": "https://flash.jin10.com/detail/20251014033233401800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时22分]"
-        },
-        {
-          "title": "人工智能初创公司Lila Sciences获得英伟达1.15亿美元新融资。",
-          "url": "https://flash.jin10.com/detail/20251014180042647800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "贝莱德CEO芬克：人工智能并非泡沫，但未来仍会出现失败。AI是最值得投入的资本。",
-          "url": "https://flash.jin10.com/detail/20251014215408099800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
-          "title": "甲骨文云自2026年下半年起将部署5万块AMD人工智能芯片",
-          "url": "https://flash.jin10.com/detail/20251014200836647800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时36分"
-        },
-        {
-          "title": "上海：到2027年人工智能计算机、人工智能手机、人工智能新终端规模各达到千万台以上",
-          "url": "https://wallstreetcn.com/livenews/2987433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "Arm控股美股盘后上涨超8.7%。据The Information报道，OpenAI正为了博通人工智能（AI）芯片研发而与日本软银集团旗下Arm控股合作。",
-          "url": "https://wallstreetcn.com/livenews/2986990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "人工智能（AI）图片生成器Black Forest Labs Inc.洽谈按32.5亿美元估值融资。",
-          "url": "https://wallstreetcn.com/livenews/2986987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "盛屯矿业：全资下属公司盛屯黄金安大略拟以每股1.38加元的价格，现金方式收购Loncor现有全部已发行且流通的普通股及待稀释股份。收购完成后，公司将通过买方持有Loncor 100%股权。本次收购的交易金额约为2.61亿加元，约合1.9亿美元，人民币13.5亿元。",
-          "url": "https://wallstreetcn.com/livenews/2987520",
-          "source": "华尔街见闻-快讯",
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D21%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D22%26stream_entry_id%3D31%26flag%3D0%26band_rank%3D21%26dgr%3D0%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26display_time%3D1760458948%26pre_seqid%3D1760458948636019061699",
+          "source": "微博",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时36分"
+          "time_info": "00时23分"
+        },
+        {
+          "title": "金价银价跳水",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E8%B7%B3%E6%B0%B4%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D22%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26pos%3D23%26stream_entry_id%3D31%26flag%3D2%26band_rank%3D22%26dgr%3D0%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E8%25B7%25B3%25E6%25B0%25B4%2523%26display_time%3D1760458948%26pre_seqid%3D1760458948636019061699",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31770540",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "中美一致发声,力促加沙战争终结",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345771&amp;topic_name=%E4%B8%AD%E7%BE%8E%E4%B8%80%E8%87%B4%E5%8F%91%E5%A3%B0%2C%E5%8A%9B%E4%BF%83%E5%8A%A0%E6%B2%99%E6%88%98%E4%BA%89%E7%BB%88%E7%BB%93",
+          "source": "贴吧",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "兄弟反目,阿塔巴塔濒临战争边缘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345767&amp;topic_name=%E5%85%84%E5%BC%9F%E5%8F%8D%E7%9B%AE%2C%E9%98%BF%E5%A1%94%E5%B7%B4%E5%A1%94%E6%BF%92%E4%B8%B4%E6%88%98%E4%BA%89%E8%BE%B9%E7%BC%98",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌未来五年将在印度南部投资150亿美元打造数据中心，那将是该公司在美国之外最大的数据中心枢纽。",
+          "url": "https://wallstreetcn.com/livenews/2987601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
+          "url": "https://wallstreetcn.com/articles/3757125",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     }
