@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T13:18:56.085981+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-10-15T14:27:34.375379+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -174,8 +174,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时15分 ~ 13时18分]"
+          "appearance_count": 5,
+          "time_info": "[09时15分 ~ 14时27分]"
         },
         {
           "title": "OpenAI拟在阿根廷投资250亿美元 打造拉美首个“星门”项目",
@@ -211,8 +211,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时03分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时03分 ~ 14时27分]"
         },
         {
           "title": "英媒：OpenAI制定了五年商业计划 以实现1万亿美元的支出承诺",
@@ -391,8 +391,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "中美一致发声,力促加沙战争终结",
@@ -405,8 +405,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "兄弟反目,阿塔巴塔濒临战争边缘",
@@ -419,8 +419,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "圆桌｜美以宣布“加沙战争”结束，模糊的协议承载不了巴以和平",
@@ -478,11 +478,12 @@
           "ranks": [
             7,
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 13时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时14分 ~ 14时27分]"
         }
       ]
     }
