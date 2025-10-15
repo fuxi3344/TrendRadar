@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T18:20:45.031512+08:00",
-  "total_titles_processed": 1709,
+  "generated_at": "2025-10-15T19:16:13.123978+08:00",
+  "total_titles_processed": 1813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "金价这么高 到底谁在买",
@@ -89,6 +89,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "金价银价大涨原因",
+          "url": "https://www.douyin.com/hot/2270986",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "英国央行行长：全球不确定性与央行购金推高金价",
