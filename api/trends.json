@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T22:18:11.132462+08:00",
-  "total_titles_processed": 2123,
+  "generated_at": "2025-10-16T23:28:55.772667+08:00",
+  "total_titles_processed": 2206,
   "failed_sources": [],
   "trends": [
     {
@@ -383,6 +383,18 @@
           "time_info": "[00时20分 ~ 04时21分]"
         },
         {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时17分 ~ 23时28分]"
+        },
+        {
           "title": "专家：金价到5000美元将比预期快",
           "url": "https://www.douyin.com/hot/2272129",
           "source": "抖音",
@@ -418,17 +430,6 @@
           "time_info": "[05时17分 ~ 06时16分]"
         },
         {
-          "title": "是什么一直支持黄金价格一路飙升",
-          "url": "https://www.toutiao.com/trending/7561799628442570266/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时17分 ~ 22时18分]"
-        },
-        {
           "title": "下周金价会重演2015年行情吗",
           "url": "https://www.toutiao.com/trending/7561615409112157705/",
           "source": "今日头条",
@@ -439,6 +440,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时02分 ~ 12时20分]"
+        },
+        {
+          "title": "金价年内涨幅超50% 专家提醒",
+          "url": "https://www.toutiao.com/trending/7560578938016432191/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 23时28分]"
         },
         {
           "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
@@ -496,17 +509,6 @@
           "time_info": "07时16分"
         },
         {
-          "title": "金价年内涨幅超50% 专家提醒",
-          "url": "https://www.toutiao.com/trending/7560578938016432191/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
           "title": "金十图示：2025年10月16日（周四）上海金早盘价为967.36元/克，较国际金价(971.33元/克)，低3.97元/克",
           "url": "https://flash.jin10.com/detail/20251016110308601800",
           "source": "金十数据",
@@ -521,7 +523,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "硬刚sora2谷歌发布Veo3.1",
@@ -559,6 +561,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
+        },
+        {
+          "title": "纳斯达克100指数上涨1%，刷新日高，成分股美光科技涨6.4%，电商Shopify涨3.4%，Doordash涨3.1%，博通涨2.9%，Arm控股涨2.5%，谷歌A涨1.8%，英伟达涨1.7%，特许通讯则跌2.8%，VRSK跌4.4%。",
+          "url": "https://wallstreetcn.com/livenews/2989087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -611,6 +624,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时19分 ~ 23时28分]"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们将实现战争的所有目标。",
           "url": "https://flash.jin10.com/detail/20251016170425494800",
           "source": "金十数据",
@@ -620,18 +645,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
-        },
-        {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时19分 ~ 21时30分]"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯：即使乌克兰战争结束，危险也不会消失。显然，我们需要加强针对俄罗斯的防御。",
