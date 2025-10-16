@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T12:20:22.677375+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-10-16T13:18:52.699989+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -73,8 +73,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时16分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[09时16分 ~ 13时18分]"
         },
         {
           "title": "澳新银行将今年底黄金价格预测上调至每盎司4400美元，预计到2026年6月将达到近每盎司4600美元的峰值。",
@@ -118,9 +118,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
+        },
+        {
+          "title": "金价除以10=历史性的1979年牛市？",
+          "url": "https://www.cls.cn/detail/2171118",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "澳新银行：明年6月黄金价格将达到4600美元的峰值",
@@ -134,13 +145,24 @@
           "time_info": "11时02分"
         },
         {
+          "title": "金价站上4200美元还不是终点 华尔街解析贵金属后续上涨核心逻辑",
+          "url": "https://www.cls.cn/detail/2171004",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
+        },
+        {
           "title": "金价飙升日本散户蜂拥抢购金条 小克重产品库存告急被迫停售",
           "url": "https://www.cls.cn/detail/2170784",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -173,7 +195,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -181,7 +203,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
@@ -190,7 +212,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -218,6 +240,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 03时14分]"
+        },
+        {
+          "title": "凯文·凯利：五年内，中国或做出世界上最好的人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/2988685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
@@ -285,12 +318,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "汇丰：人工智能对劳动力市场造成巨大影响",
+          "url": "https://flash.jin10.com/detail/20251016122308329800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -302,6 +346,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时25分]"
+        },
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
