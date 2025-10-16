@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T21:30:05.316302+08:00",
-  "total_titles_processed": 2025,
+  "generated_at": "2025-10-16T22:18:11.132462+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
@@ -207,7 +207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         },
@@ -270,7 +270,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "金店老板说金价跌起来像泄洪",
@@ -416,6 +416,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时16分]"
+        },
+        {
+          "title": "是什么一直支持黄金价格一路飙升",
+          "url": "https://www.toutiao.com/trending/7561799628442570266/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 22时18分]"
         },
         {
           "title": "下周金价会重演2015年行情吗",
@@ -657,7 +668,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         }
@@ -685,7 +696,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时30分"
         }
