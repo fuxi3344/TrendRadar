@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T11:40:23.310209+08:00",
-  "total_titles_processed": 1108,
+  "generated_at": "2025-10-17T12:22:36.302155+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时22分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -150,7 +150,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
@@ -162,8 +162,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 11时40分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 12时22分]"
+        },
+        {
+          "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
+          "url": "https://flash.jin10.com/detail/20251017112205880800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时22分]"
         },
         {
           "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
@@ -178,15 +190,15 @@
           "time_info": "[02时26分 ~ 03时12分]"
         },
         {
-          "title": "德意志银行分析师：强劲的人工智能需求可能会挤占台积电的产能",
-          "url": "https://flash.jin10.com/detail/20251017112205880800",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-17）",
+          "url": "https://flash.jin10.com/detail/20251017113854837800",
           "source": "金十数据",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时40分"
+          "time_info": "12时22分"
         },
         {
           "title": "美联储理事米兰：人工智能有潜力提高生产率增长。",
@@ -203,8 +215,19 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "“距离下一场战争打响还有0日”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9D%E7%A6%BB%E4%B8%8B%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89%E6%89%93%E5%93%8D%E8%BF%98%E6%9C%890%E6%97%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
         {
           "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
@@ -214,8 +237,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时14分 ~ 12时22分]"
         },
         {
           "title": "匈牙利总理：欧洲陷入战争的危险达到俄乌冲突以来最高水平",
@@ -254,19 +277,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 12时22分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
           "url": "https://wallstreetcn.com/livenews/2989420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时22分]"
         }
       ]
     }
