@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T15:18:48.557375+08:00",
-  "total_titles_processed": 1419,
+  "generated_at": "2025-10-17T16:24:14.625732+08:00",
+  "total_titles_processed": 1543,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 15时18分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 16时24分]"
         },
         {
           "title": "金价一夜暴涨有投资者彻夜难眠",
@@ -24,11 +24,12 @@
           "source": "微博",
           "ranks": [
             4,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 16时24分]"
         },
         {
           "title": "今年金价已经创45次新高",
@@ -290,23 +291,23 @@
           "time_info": "[09时14分 ~ 14时24分]"
         },
         {
-          "title": "曾为侵华战争道歉的日本前首相去世",
-          "url": "https://www.toutiao.com/trending/7562036270437335078/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 15时18分]"
-        },
-        {
           "title": "日本前首相村山富市去世，曾发表谈话承认侵略并向战争受害国道歉",
           "url": "https://m.thepaper.cn/newsDetail_forward_31796966",
           "source": "澎湃新闻",
           "ranks": [
             18,
             15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时24分]"
+        },
+        {
+          "title": "曾为侵华战争道歉的日本前首相去世",
+          "url": "https://www.toutiao.com/trending/7562036270437335078/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -349,8 +350,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时13分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 16时24分]"
         },
         {
           "title": "OpenAI模型Sora 2上线微软Azure AI Foundry（国际版）",
