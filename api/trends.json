@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T19:15:48.885022+08:00",
-  "total_titles_processed": 1824,
+  "generated_at": "2025-10-17T20:37:10.140291+08:00",
+  "total_titles_processed": 1936,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "【早报】俄美总统再通话，或将在两周内会面；加速拉升！国际金价涨破4300美元",
@@ -43,6 +43,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时13分 ~ 11时40分]"
+        },
+        {
+          "title": "金价暴涨时4万5黄金订单蒸发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%97%B64%E4%B8%875%E9%BB%84%E9%87%91%E8%AE%A2%E5%8D%95%E8%92%B8%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26c_type%3D31%26realpos%3D4%26cate%3D5001%26stream_entry_id%3D31%26pos%3D3%26filter_type%3Drealtimehot%26dgr%3D0%26lcate%3D5001%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E6%2597%25B64%25E4%25B8%25875%25E9%25BB%2584%25E9%2587%2591%25E8%25AE%25A2%25E5%258D%2595%25E8%2592%25B8%25E5%258F%2591%2523%26band_rank%3D4%26display_time%3D1760704127%26pre_seqid%3D176070412752302735355159",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
+          "title": "金价暴涨有新人用“金包银”省5万",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 20时37分]"
         },
         {
           "title": "是什么一直支持黄金价格一路飙升",
@@ -128,6 +150,17 @@
           "time_info": "[04时18分 ~ 04时19分]"
         },
         {
+          "title": "国内金价突破千元大关 机构密集预警",
+          "url": "https://www.toutiao.com/trending/7562135310537068041/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
           "title": "金十整理：金价一度冲高至4380美元，对比历史暴涨纪录，黄金本轮牛市还能走多远？",
           "url": "https://flash.jin10.com/detail/20251017121913899800",
           "source": "金十数据",
@@ -172,17 +205,6 @@
           "time_info": "09时14分"
         },
         {
-          "title": "金价暴涨有新人用“金包银”省5万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E6%9C%89%E6%96%B0%E4%BA%BA%E7%94%A8%E2%80%9C%E9%87%91%E5%8C%85%E9%93%B6%E2%80%9D%E7%9C%815%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
           "title": "金价突破历史高位至4380美元后回落",
           "url": "https://www.toutiao.com/trending/7562020092754529818/",
           "source": "今日头条",
@@ -203,6 +225,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日本前首相村山富市去世，曾发表谈话承认侵略并向战争受害国道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31796966",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            10,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时24分 ~ 20时37分]"
+        },
+        {
+          "title": "“距离下一场战争打响还有0日”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9D%E7%A6%BB%E4%B8%8B%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89%E6%89%93%E5%93%8D%E8%BF%98%E6%9C%890%E6%97%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时22分 ~ 15时18分]"
+        },
+        {
+          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 14时24分]"
+        },
+        {
+          "title": "曾为侵华战争道歉的日本前首相去世",
+          "url": "https://www.toutiao.com/trending/7562036270437335078/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时18分]"
+        },
+        {
+          "title": "匈牙利总理：欧洲陷入战争的危险达到俄乌冲突以来最高水平",
+          "url": "https://flash.jin10.com/detail/20251017100655846800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
+        },
+        {
+          "title": "惠誉评级：乌克兰城市在战争相关干扰下面临日益增长的预算压力。",
+          "url": "https://flash.jin10.com/detail/20251017195947525800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "匈牙利总理：欧洲陷入战争的危险达到俄乌冲突以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/2989377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时02分"
         }
       ]
     },
@@ -285,85 +397,6 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“距离下一场战争打响还有0日”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E8%B7%9D%E7%A6%BB%E4%B8%8B%E4%B8%80%E5%9C%BA%E6%88%98%E4%BA%89%E6%89%93%E5%93%8D%E8%BF%98%E6%9C%890%E6%97%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 15时18分]"
-        },
-        {
-          "title": "日本前首相村山富市去世，曾发表谈话承认侵略并向战争受害国道歉",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31796966",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时24分 ~ 19时15分]"
-        },
-        {
-          "title": "一图看懂｜特朗普对委内瑞拉发动“毒品战争”，真能禁毒？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31791900",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时14分 ~ 14时24分]"
-        },
-        {
-          "title": "曾为侵华战争道歉的日本前首相去世",
-          "url": "https://www.toutiao.com/trending/7562036270437335078/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 15时18分]"
-        },
-        {
-          "title": "匈牙利总理：欧洲陷入战争的危险达到俄乌冲突以来最高水平",
-          "url": "https://flash.jin10.com/detail/20251017100655846800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        },
-        {
-          "title": "匈牙利总理：欧洲陷入战争的危险达到俄乌冲突以来最高水平",
-          "url": "https://wallstreetcn.com/livenews/2989377",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -391,6 +424,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时40分 ~ 13时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国竞争与市场管理局批准解除对谷歌的限制措施。",
+          "url": "https://flash.jin10.com/detail/20251017200137863800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     }
