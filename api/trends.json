@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T02:23:23.535918+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-10-19T03:14:25.153672+08:00",
+  "total_titles_processed": 379,
   "failed_sources": [],
   "trends": [
     {
@@ -15,41 +15,44 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
           "url": "https://wallstreetcn.com/livenews/2990084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
           "url": "https://wallstreetcn.com/livenews/2990073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
           "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         }
       ]
     },
@@ -62,11 +65,12 @@
           "url": "https://wallstreetcn.com/articles/3757430",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
