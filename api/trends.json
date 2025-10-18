@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T15:16:50.239899+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2025-10-18T16:22:32.396358+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             4,
             22,
             25,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时53分 ~ 15时16分]"
+          "appearance_count": 7,
+          "time_info": "[10时53分 ~ 16时22分]"
         },
         {
           "title": "金价",
@@ -121,11 +122,12 @@
           "ranks": [
             5,
             8,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 16时22分]"
         },
         {
           "title": "我国生成式人工智能用户规模超5亿",
@@ -221,11 +223,12 @@
           "ranks": [
             2,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 16时22分]"
         },
         {
           "title": "美国总统军事施压委内瑞拉 美国议员强调战争须经国会授权",
