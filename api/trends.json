@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T17:17:11.975849+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-10-18T18:17:57.322850+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             22,
             25,
             23,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时53分 ~ 17时17分]"
+          "appearance_count": 10,
+          "time_info": "[10时53分 ~ 18时17分]"
         },
         {
           "title": "金价银价大跳水 国内金饰价格下调",
@@ -45,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 18时17分]"
         },
         {
           "title": "金价",
@@ -236,11 +237,12 @@
             9,
             12,
             16,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时17分 ~ 17时17分]"
+          "appearance_count": 6,
+          "time_info": "[13时17分 ~ 18时17分]"
         },
         {
           "title": "美国总统军事施压委内瑞拉 美国议员强调战争须经国会授权",
