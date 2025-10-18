@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T14:24:45.588557+08:00",
-  "total_titles_processed": 1095,
+  "generated_at": "2025-10-18T15:16:50.239899+08:00",
+  "total_titles_processed": 1146,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "ranks": [
             4,
             22,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时53分 ~ 14时24分]"
+          "appearance_count": 6,
+          "time_info": "[10时53分 ~ 15时16分]"
         },
         {
           "title": "金价",
@@ -114,6 +115,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
+          "url": "https://wallstreetcn.com/livenews/2990007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时16分]"
+        },
+        {
           "title": "我国生成式人工智能用户规模超5亿",
           "url": "https://wallstreetcn.com/livenews/2989973",
           "source": "华尔街见闻-快讯",
@@ -136,18 +150,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时16分 ~ 07时15分]"
-        },
-        {
-          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
-          "url": "https://wallstreetcn.com/livenews/2990007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时24分]"
         },
         {
           "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
@@ -218,11 +220,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时16分]"
         },
         {
           "title": "美国总统军事施压委内瑞拉 美国议员强调战争须经国会授权",
@@ -230,11 +233,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时16分]"
         },
         {
           "title": "美国总统特朗普：普京本应该在一周内赢得这场战争。",
