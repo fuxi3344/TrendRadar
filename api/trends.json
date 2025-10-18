@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T04:18:17.932490+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2025-10-19T05:14:13.398015+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             11,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -38,11 +39,12 @@
           "ranks": [
             14,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
@@ -71,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 05时14分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -80,11 +82,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 05时14分]"
         }
       ]
     },
@@ -92,6 +95,18 @@
       "keyword_group": "战争",
       "match_count": 2,
       "titles": [
+        {
+          "title": "战争中为了保命，为何很少人将尸体压在自己身上装死？",
+          "url": "https://www.zhihu.com/question/629160901",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时18分 ~ 05时14分]"
+        },
         {
           "title": "博主：美对华“芯片战争”重伤自己",
           "url": "https://www.toutiao.com/trending/7562518747143999039/",
@@ -102,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 02时23分]"
-        },
-        {
-          "title": "战争中为了保命，为何很少人将尸体压在自己身上装死？",
-          "url": "https://www.zhihu.com/question/629160901",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         }
       ]
     }
