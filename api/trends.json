@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T12:21:10.867564+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-10-19T13:17:07.048162+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             15,
             21,
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
@@ -57,11 +58,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 13时17分]"
         },
         {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
@@ -93,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "金价为何下跌",
@@ -102,11 +104,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 12时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时23分 ~ 13时17分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -126,7 +129,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "战争中为了保命，为何很少人将尸体压在自己身上装死？",
@@ -141,8 +144,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时18分 ~ 12时21分]"
+          "appearance_count": 13,
+          "time_info": "[04时18分 ~ 13时17分]"
+        },
+        {
+          "title": "唐驳虎：中国打赢了没有硝烟的战争",
+          "url": "https://www.toutiao.com/trending/7562736721016655386/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
         },
         {
           "title": "博主：美对华“芯片战争”重伤自己",
@@ -167,11 +181,12 @@
           "source": "金十数据",
           "ranks": [
             6,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时16分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时16分 ~ 13时17分]"
         }
       ]
     }
