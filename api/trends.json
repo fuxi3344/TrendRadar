@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T20:30:52.245219+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2025-10-19T21:23:42.338125+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,32 @@
           "time_info": "[09时23分 ~ 16时21分]"
         },
         {
+          "title": "金价涨了 印度人节日买金习惯变了",
+          "url": "https://flash.jin10.com/detail/20251019175330077800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时23分]"
+        },
+        {
+          "title": "金价涨了，印度人节日买金习惯变了",
+          "url": "https://news.ifeng.com/c/8na31dSR83g",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时21分 ~ 21时23分]"
+        },
+        {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
@@ -49,31 +75,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时20分 ~ 06时15分]"
-        },
-        {
-          "title": "金价涨了 印度人节日买金习惯变了",
-          "url": "https://flash.jin10.com/detail/20251019175330077800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时30分]"
-        },
-        {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 20时30分]"
         },
         {
           "title": "金价银价创新高后跳水，白银跌超 6%，黄金跌破 4200 美元，如何看待此次调整？白银能否打破 50 美元魔咒？",
@@ -204,11 +205,12 @@
           "ranks": [
             6,
             11,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 20时30分]"
+          "appearance_count": 4,
+          "time_info": "[18时17分 ~ 21时23分]"
         },
         {
           "title": "唐驳虎：中国打赢了没有硝烟的战争",
