@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T15:17:13.123761+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-10-19T16:21:06.537949+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -105,11 +105,12 @@
           "ranks": [
             2,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时23分 ~ 15时17分]"
+          "appearance_count": 11,
+          "time_info": "[09时23分 ~ 16时21分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -145,8 +146,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[04时18分 ~ 15时17分]"
+          "appearance_count": 18,
+          "time_info": "[04时18分 ~ 16时21分]"
         },
         {
           "title": "唐驳虎：中国打赢了没有硝烟的战争",
