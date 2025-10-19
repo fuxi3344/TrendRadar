@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T14:25:24.431629+08:00",
-  "total_titles_processed": 780,
+  "generated_at": "2025-10-19T15:17:13.123761+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
@@ -95,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 14时25分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 15时17分]"
         },
         {
           "title": "金价为何下跌",
@@ -108,8 +108,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 13时17分]"
+          "appearance_count": 9,
+          "time_info": "[09时23分 ~ 15时17分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -145,8 +145,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[04时18分 ~ 14时25分]"
+          "appearance_count": 16,
+          "time_info": "[04时18分 ~ 15时17分]"
         },
         {
           "title": "唐驳虎：中国打赢了没有硝烟的战争",
@@ -185,11 +185,12 @@
             6,
             11,
             17,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 14时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时16分 ~ 15时17分]"
         }
       ]
     }
