@@ -1,302 +1,89 @@
 {
-  "generated_at": "2025-10-20T23:19:14.972276+08:00",
-  "total_titles_processed": 1922,
+  "generated_at": "2025-10-21T00:23:17.611517+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 4,
       "titles": [
         {
-          "title": "远景科技集团董事长张雷：未来能源企业核心竞争力，将是人工智能资产",
-          "url": "https://wallstreetcn.com/livenews/2990192",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1963642369963426172",
+          "source": "知乎",
           "ranks": [
-            16,
-            19,
-            20,
-            24,
-            27,
-            28
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时14分]"
-        },
-        {
-          "title": "财政部原副部长朱光耀：未来几年中国经济增速有望保持4.5%~5%，可再生能源、人工智能等领域将成重要推动力",
-          "url": "https://wallstreetcn.com/livenews/2990723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时29分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
           "source": "百度热搜",
           "ranks": [
-            30,
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 23时19分]"
-        },
-        {
-          "title": "Adobe（奥多比）推出企业级生成式人工智能（AI）模型。",
-          "url": "https://wallstreetcn.com/livenews/2990732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            18
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时17分 ~ 23时19分]"
+          "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-20）",
-          "url": "https://flash.jin10.com/detail/20251020115503116800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时24分 ~ 13时19分]"
-        },
-        {
-          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
-          "url": "https://www.zhihu.com/question/1963642369963426172",
-          "source": "知乎",
+          "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
+          "url": "https://www.cls.cn/detail/2174661",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "DeepSeek新模型 用视觉方式压缩一切",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B+%E7%94%A8%E8%A7%86%E8%A7%89%E6%96%B9%E5%BC%8F%E5%8E%8B%E7%BC%A9%E4%B8%80%E5%88%87",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时18分 ~ 23时19分]"
-        },
-        {
-          "title": "IBM(IBM.N)：IBM与GROQ合作，助力企业人工智能部署实现速度与规模的双重提升。",
-          "url": "https://flash.jin10.com/detail/20251020181126040800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
-          "url": "https://wallstreetcn.com/livenews/2990621",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达(NVDA.O)：与谷歌云宣布加速推动企业级人工智能和工业数字化进程。搭载NVIDIA RTX Pro 6000 Blackwell GPU的Google Cloud G4虚拟机现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20251021000347745800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "IBM与美国人工智能公司Groq合作，加速企业AI部署",
-          "url": "https://wallstreetcn.com/livenews/2990615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI：所有受影响的服务现已完全恢复。",
-          "url": "https://flash.jin10.com/detail/20251020181236971800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！",
-          "url": "https://www.cls.cn/detail/2174516",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时17分 ~ 21时29分]"
-        },
-        {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://wallstreetcn.com/livenews/2990557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时21分 ~ 18时19分]"
-        },
-        {
-          "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
-          "url": "https://flash.jin10.com/detail/20251020164600924800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://flash.jin10.com/detail/20251020164457909800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "OpenAI：正在观察受影响服务的恢复情况，我们正在密切关注。",
-          "url": "https://flash.jin10.com/detail/20251020174853570800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金价涨了，印度人节日买金习惯变了",
-          "url": "https://news.ifeng.com/c/8na31dSR83g",
-          "source": "凤凰网",
+          "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31784199",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            12
           ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时15分]"
-        },
-        {
-          "title": "金十图示：2025年10月20日（周一）上海金午盘价为972.39元/克，较国际金价(974.39元/克)，低2元/克",
-          "url": "https://flash.jin10.com/detail/20251020154109815800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "金十图示：2025年10月20日（周一）上海金早盘价为976.81元/克，较国际金价(976.16元/克)，高0.65元/克",
-          "url": "https://flash.jin10.com/detail/20251020101801273800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时14分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "以色列为加沙作战改名：“铁剑行动”改为“复兴战争”",
-          "url": "https://wallstreetcn.com/livenews/2990454",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时27分 ~ 15时20分]"
-        },
-        {
-          "title": "巴基斯坦警告印度：没有战争的余地",
-          "url": "https://www.toutiao.com/trending/7562149922758901779/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时19分 ~ 19时17分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯总统普京希望拿下整个顿涅茨克和卢甘斯克地区，以显示他已赢得这场战争。",
-          "url": "https://flash.jin10.com/detail/20251020150229007800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国银行：将谷歌(GOOG.O)目标股价从252美元上调至280美元。",
-          "url": "https://flash.jin10.com/detail/20251020183823789800",
+          "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
+          "url": "https://flash.jin10.com/detail/20251021001348500800",
           "source": "金十数据",
           "ranks": [
-            21
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时17分"
+          "time_info": "00时23分"
         }
       ]
     }
