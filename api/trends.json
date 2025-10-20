@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T02:38:02.527717+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2025-10-21T03:21:38.516166+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 02时38分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 03时21分]"
         },
         {
           "title": "英伟达(NVDA.O)：与谷歌云宣布加速推动企业级人工智能和工业数字化进程。搭载NVIDIA RTX Pro 6000 Blackwell GPU的Google Cloud G4虚拟机现已全面上线。",
@@ -68,8 +69,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 03时21分]"
         }
       ]
     },
