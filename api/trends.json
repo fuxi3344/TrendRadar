@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T21:32:47.038268+08:00",
-  "total_titles_processed": 1881,
+  "generated_at": "2025-10-21T22:17:41.304386+08:00",
+  "total_titles_processed": 1964,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 21时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时22分 ~ 22时17分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -49,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时04分 ~ 21时32分]"
+          "appearance_count": 13,
+          "time_info": "[11时04分 ~ 22时17分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 21时32分]"
+          "appearance_count": 7,
+          "time_info": "[16时24分 ~ 22时17分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -94,11 +94,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时17分]"
         },
         {
           "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
@@ -206,7 +207,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -295,22 +296,35 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            30
+            30,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时36分 ~ 21时32分]"
+          "appearance_count": 3,
+          "time_info": "[20时36分 ~ 22时17分]"
         },
         {
           "title": "国际金价突然大跌",
           "url": "https://m.thepaper.cn/newsDetail_forward_31819189",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 22时17分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "22时17分"
         },
         {
           "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
@@ -333,6 +347,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "国际金价大跌原因",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26flag%3D0%26pos%3D28%26lcate%3D5001%26dgr%3D0%26realpos%3D27%26band_rank%3D27%26filter_type%3Drealtimehot%26q%3D%2523%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E5%25A4%25A7%25E8%25B7%258C%25E5%258E%259F%25E5%259B%25A0%2523%26display_time%3D1761056060%26pre_seqid%3D17610560603380229932491",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "全球消费者买金习惯发生改变：印度消费者节日购金倾向以旧换新，金价高位运行推动韩国白银价格屡创新高",
@@ -415,11 +440,12 @@
             10,
             4,
             5,
-            3
+            3,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时21分 ~ 21时32分]"
+          "appearance_count": 14,
+          "time_info": "[12时21分 ~ 22时17分]"
         },
         {
           "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
@@ -501,7 +527,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
@@ -513,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "现货金银价格深度回调，美股黄金概念股普遍下挫，科尔黛伦矿业(CDE.N)跌16.5%，金罗斯黄金(KGC.N)、哈莫尼黄金(HMY.N)跌约10%，金田(GFI.N)跌超9%，纽蒙特矿业(NEM.N)跌8.3%。",
+          "url": "https://flash.jin10.com/detail/20251021215932334800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         }
       ]
     }
