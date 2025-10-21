@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T19:16:40.904539+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2025-10-21T20:36:39.422733+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时04分 ~ 19时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时04分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -44,11 +44,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 19时16分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 20时36分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -60,8 +61,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时16分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 20时36分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -193,7 +194,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "财晓得｜金价幕后推手：他们在买黄金时，买的到底是什么？",
@@ -252,6 +253,17 @@
           "time_info": "[15时18分 ~ 19时16分]"
         },
         {
+          "title": "金价延续跌势，现货黄金失守4230美元/盎司，日内跌幅2.91%；纽约期金失守4250美元/盎司，日内跌幅2.51%。",
+          "url": "https://flash.jin10.com/detail/20251021201116740800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "金价银价大反攻",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%A4%A7%E5%8F%8D%E6%94%BB%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26realpos%3D9%26c_type%3D31%26lcate%3D5001%26filter_type%3Drealtimehot%26flag%3D1%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E9%2593%25B6%25E4%25BB%25B7%25E5%25A4%25A7%25E5%258F%258D%25E6%2594%25BB%2523%26pos%3D10%26cate%3D5001%26dgr%3D0%26display_time%3D1761009227%26pre_seqid%3D17610092271340230781134",
           "source": "微博",
@@ -297,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "金价大涨影响年轻人结婚",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E5%BD%B1%E5%93%8D%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
@@ -367,11 +390,12 @@
             9,
             10,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 19时16分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 20时36分]"
         },
         {
           "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
