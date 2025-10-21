@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T13:19:07.225836+08:00",
-  "total_titles_processed": 1100,
+  "generated_at": "2025-10-21T14:27:45.421414+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            5
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时27分]"
+        },
+        {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时19分]"
+          "time_info": "[12时22分 ~ 14时27分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 11时04分]"
-        },
-        {
-          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
-          "url": "https://wallstreetcn.com/articles/3757530",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时19分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -123,7 +124,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
@@ -142,11 +143,12 @@
             13,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时23分 ~ 14时27分]"
         },
         {
           "title": "新加坡银行：投资者可能仍热衷于在金价回落时增加黄金配置",
@@ -158,6 +160,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
+          "url": "https://www.cls.cn/detail/2175165",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时04分 ~ 14时27分]"
         },
         {
           "title": "金价银价大反攻",
@@ -172,19 +187,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时16分 ~ 12时22分]"
-        },
-        {
-          "title": "金价再创历史新高！瑞银唱多：明年一季度前有望站上4700美元",
-          "url": "https://www.cls.cn/detail/2175165",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时04分 ~ 13时19分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）上海金早盘价为993.35元/克，较国际金价(995.35元/克)，低2元/克",
@@ -273,11 +275,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 14时27分]"
         },
         {
           "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
@@ -319,8 +322,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时16分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时16分 ~ 14时27分]"
         },
         {
           "title": "日立与OpenAI建立战略合作伙伴关系",
@@ -329,7 +332,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
