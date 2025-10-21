@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T18:20:21.042029+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2025-10-21T19:16:40.904539+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时04分 ~ 18时20分]"
+          "appearance_count": 10,
+          "time_info": "[11时04分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -47,8 +47,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时22分 ~ 18时20分]"
+          "appearance_count": 8,
+          "time_info": "[12时22分 ~ 19时16分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时16分]"
         },
         {
           "title": "日立与OpenAI合作扩建全球人工智能数据中心。",
@@ -244,11 +244,12 @@
           "ranks": [
             22,
             17,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时18分 ~ 18时20分]"
+          "appearance_count": 6,
+          "time_info": "[15时18分 ~ 19时16分]"
         },
         {
           "title": "金价银价大反攻",
@@ -369,8 +370,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时16分]"
         },
         {
           "title": "美国总统特朗普：若未能达成结束乌克兰战争的协议，代价将极其高昂。",
