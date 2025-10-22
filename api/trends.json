@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T06:16:37.785656+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-10-23T07:14:46.495459+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
         },
@@ -69,6 +69,18 @@
           "time_info": "[03时15分 ~ 04时22分]"
         },
         {
+          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
+          "url": "https://wallstreetcn.com/livenews/2992097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时14分]"
+        },
+        {
           "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
           "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
@@ -79,17 +91,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
-          "url": "https://wallstreetcn.com/livenews/2992097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
         },
         {
           "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
@@ -248,23 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时16分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26pos%3D24%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26realpos%3D25%26cate%3D5001%26display_time%3D1761150158%26pre_seqid%3D17611501584580326279138",
-          "source": "微博",
-          "ranks": [
-            25,
-            28,
-            26,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时14分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -278,8 +264,23 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时22分 ~ 06时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时22分 ~ 07时14分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26pos%3D24%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26realpos%3D25%26cate%3D5001%26display_time%3D1761150158%26pre_seqid%3D17611501584580326279138",
+          "source": "微博",
+          "ranks": [
+            25,
+            28,
+            26,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时14分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -368,11 +369,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时14分]"
         }
       ]
     }
