@@ -1,366 +1,12 @@
 {
-  "generated_at": "2025-10-23T23:20:53.748653+08:00",
-  "total_titles_processed": 2146,
+  "generated_at": "2025-10-24T00:22:59.314241+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "马斯克表示，特斯拉之所以更专注于自己的芯片，而不是仅仅依靠英伟达的gpu或人工智能加速器，是因为黄仁勋的公司必须为更广泛的客户提供服务。 马斯克的观点是，特斯拉最好保持简单，使用专门为他们需要完成的任务而设计的芯片（训练和运行支持基于视觉的自动驾驶的模型）。",
-          "url": "https://wallstreetcn.com/livenews/2992110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/2992018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时15分]"
-        },
-        {
-          "title": "【全国人大常委会法工委：网络安全法拟增加促进AI安全与发展内容】全国人大常委会法制工作委员会今天（23日）举行记者会。据发言人介绍，十四届全国人大常委会第十八次会议将于明天至28日在北京举行，拟继续审议网络安全法修正草案，草案拟增加促进人工智能安全与发展的内容。根据各方面意见，草案拟作以下主要修改：一是充实网络安全工作指导原则；二是增加促进人工智能安全与发展的内容；三是在个人信息保护方面进一步做好与民法典和个人信息保护法的衔接；四是进一步完善相关处罚规定。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/2992520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时15分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
-          "url": "https://flash.jin10.com/detail/20251023115414341800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时17分]"
-        },
-        {
-          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
-          "url": "https://flash.jin10.com/detail/20251023005554826800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时26分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
-          "url": "https://flash.jin10.com/detail/20251023013440544800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时26分 ~ 03时15分]"
-        },
-        {
-          "title": "瑞典北欧思安银行：继续在多个新领域开发人工智能解决方案，包括风险管理、交易监控等。",
-          "url": "https://flash.jin10.com/detail/20251023123905139800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
-          "url": "https://wallstreetcn.com/livenews/2992261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时04分 ~ 12时21分]"
-        },
-        {
-          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
-          "url": "https://wallstreetcn.com/livenews/2992039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 04时22分]"
-        },
-        {
-          "title": "马斯克在电话会开始时谈及人工智能（AI），称他希望扩大产能，但没有给出时间线。 Optimus将是一台不可思议的“外科医生”。 “它（optimus）甚至看起来不像机器人。它是如此的真实，以至于你要戳它才相信那真的是一台机器。”",
-          "url": "https://wallstreetcn.com/livenews/2992097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时14分]"
-        },
-        {
-          "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "上海新增2款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/2992546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
-          "url": "https://wallstreetcn.com/livenews/2992314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "标普：由于强劲的人工智能势头和持续的市场领导地位，已将英伟达(NVDA.O)的前景修订为“正面”，评级维持不变。",
-          "url": "https://flash.jin10.com/detail/20251023031513906800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时22分"
-        },
-        {
-          "title": "卡塔尔能源部长：积极前景源于亚洲经济增长，以及数据中心和人工智能领域强劲的电力需求。",
-          "url": "https://flash.jin10.com/detail/20251023173458691800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：全球人工智能行业泡沫可能出现回调。",
-          "url": "https://wallstreetcn.com/livenews/2992249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
-          "title": "美媒：Meta将削减人工智能部门约600个职位",
-          "url": "https://flash.jin10.com/detail/20251022230938289800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "IBM(IBM.N)首席财务官：市场对人工智能的信心推动了咨询业务增长的转折点。",
-          "url": "https://flash.jin10.com/detail/20251023041431868800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "成龙谈人工智能",
-          "url": "https://www.toutiao.com/trending/7563810946825912359/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "通用汽车(GM.N)：未来，通用汽车将推出专为车辆量身定制的自主人工智能系统。",
-          "url": "https://flash.jin10.com/detail/20251022230614759800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 17,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
-          "url": "https://wallstreetcn.com/articles/3757632",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时23分 ~ 13时17分]"
-        },
-        {
-          "title": "金价下跌的关键原因是什么",
-          "url": "https://www.toutiao.com/trending/7564035029894958638/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28,
-            26,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26pos%3D24%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26realpos%3D25%26cate%3D5001%26display_time%3D1761150158%26pre_seqid%3D17611501584580326279138",
-          "source": "微博",
-          "ranks": [
-            25,
-            28,
-            26,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "黄金价格为何突然大幅回调",
-          "url": "https://www.toutiao.com/trending/7564185395232001575/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时03分 ~ 14时27分]"
-        },
-        {
-          "title": "金价一夜跌50元顾客相中直接买走",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%80%E5%A4%9C%E8%B7%8C50%E5%85%83%E9%A1%BE%E5%AE%A2%E7%9B%B8%E4%B8%AD%E7%9B%B4%E6%8E%A5%E4%B9%B0%E8%B5%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D12%26band_rank%3D11%26filter_type%3Drealtimehot%26realpos%3D11%26cate%3D5001%26c_type%3D31%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%2580%25E5%25A4%259C%25E8%25B7%258C50%25E5%2585%2583%25E9%25A1%25BE%25E5%25AE%25A2%25E7%259B%25B8%25E4%25B8%25AD%25E7%259B%25B4%25E6%258E%25A5%25E4%25B9%25B0%25E8%25B5%25B0%2523%26dgr%3D0%26lcate%3D5001%26display_time%3D1761188527%26pre_seqid%3D17611885278470367760465",
-          "source": "微博",
-          "ranks": [
-            11,
-            23,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时03分 ~ 15时19分]"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 18时20分]"
-        },
-        {
-          "title": "金十图示：2025年10月23日（周四）上海金午盘价为941.53元/克，较国际金价(943.31元/克)，低1.78元/克",
-          "url": "https://flash.jin10.com/detail/20251023150404201800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
-          "url": "https://wallstreetcn.com/livenews/2992304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时17分]"
-        },
-        {
-          "title": "金价回调可以“上车”了吗",
-          "url": "https://www.toutiao.com/trending/7564198979416624682/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时03分 ~ 12时21分]"
-        },
         {
           "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
           "url": "https://wallstreetcn.com/articles/3757691",
@@ -369,54 +15,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时36分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时22分"
         },
         {
-          "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
-          "url": "https://wallstreetcn.com/livenews/2992013",
-          "source": "华尔街见闻-快讯",
+          "title": "金价高位震荡部分投资者开始卖金",
+          "url": "https://www.douyin.com/hot/2279834",
+          "source": "抖音",
           "ranks": [
-            7,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
-        },
-        {
-          "title": "黄金价格大跳水 金价到顶了吗",
-          "url": "https://www.toutiao.com/trending/7563965781701037609/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 05时15分]"
-        },
-        {
-          "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
-          "url": "https://flash.jin10.com/detail/20251023145502019800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时19分"
-        },
-        {
-          "title": "美国财长贝森特：金价上涨对我们有很大帮助。",
-          "url": "https://flash.jin10.com/detail/20251023041705567800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "00时22分"
         },
         {
           "title": "摩根大通：金价未来三年内可能会翻倍",
@@ -425,295 +36,60 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
-        },
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "小摩预测2026年金价均值突破5000美元 长期看多至6000美元",
-          "url": "https://flash.jin10.com/detail/20251023223937597800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "摩根大通策略师团队：金价未来三年内可能会翻倍",
-          "url": "https://wallstreetcn.com/livenews/2992623",
+          "title": "据知情人士透露，沙特主权财富基金PIF考虑在NEOM试点人工智能（AI）和高科技（项目）。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992671",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 1,
       "titles": [
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
           "url": "https://wallstreetcn.com/articles/3757674",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时16分 ~ 23时20分]"
-        },
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时19分]"
-        },
-        {
-          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
-          "url": "https://wallstreetcn.com/livenews/2992002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时26分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "谷歌发布了Willow芯片的量子计算突破",
-          "url": "https://wallstreetcn.com/livenews/2991999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时17分]"
-        },
-        {
-          "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
-          "url": "https://flash.jin10.com/detail/20251023004153523800",
-          "source": "金十数据",
-          "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "马斯克对谷歌CEO桑达尔·皮查伊表示：“恭喜。看起来量子计算正在变得越来越重要。”",
-          "url": "https://flash.jin10.com/detail/20251023011201131800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
-          "url": "https://flash.jin10.com/detail/20251022230757813800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
-          "url": "https://flash.jin10.com/detail/20251022230602930800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
-          "url": "https://flash.jin10.com/detail/20251022230157213800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI发首款AI浏览器",
-          "url": "https://www.douyin.com/hot/2278309",
-          "source": "抖音",
-          "ranks": [
-            30,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时26分 ~ 05时15分]"
-        },
-        {
-          "title": "爱彼迎（Airbnb）CEO Chesky：ChatGPT还没有足够强大到能被整合到（本公司的）旅行APP。",
-          "url": "https://wallstreetcn.com/livenews/2992057",
+          "title": "OpenAI向丹麦医药公司Lundbeck提供ChatGPT Enterprise。",
+          "url": "https://wallstreetcn.com/livenews/2992672",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时15分]"
-        },
-        {
-          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
-          "url": "https://wallstreetcn.com/livenews/2992635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时20分 ~ 23时20分]"
-        },
-        {
-          "title": "市场消息：英国政府与OpenAI达成协议，以扩大数据托管范围。",
-          "url": "https://flash.jin10.com/detail/20251023184120647800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "市场消息：OpenAI向丹麦制药公司Lundbeck提供ChatGPT企业版服务。",
-          "url": "https://flash.jin10.com/detail/20251023224255171800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "OpenAI：Vantage和甲骨文(ORCL.N)将创造1000多个长期工作岗位和数千个间接工作岗位。",
-          "url": "https://flash.jin10.com/detail/20251023040848407800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31823333",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 13时17分]"
-        },
-        {
-          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
-          "url": "https://flash.jin10.com/detail/20251023160720156800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "【中国共产党第二十届中央委员会第四次全体会议公报】中国共产党第二十届中央委员会第四次全体会议，于2025年10月20日至23日在北京举行。全会充分肯定党的二十届三中全会以来中央政治局的工作。一致认为，中央政治局认真落实党的二十大和二十届历次全会精神，坚持稳中求进工作总基调，完整准确全面贯彻新发展理念，统筹推进“五位一体”总体布局，协调推进“四个全面”战略布局，统筹国内国际两个大局，统筹发展和安全，进一步全面深化改革，扎实推动高质量发展，推进社会主义民主法治建设，加强宣传思想文化工作，切实抓好民生保障和生态环境保护，维护国家安全和社会稳定，开展深入贯彻中央八项规定精神学习教育、纵深推进全面从严治党，加强国防和军队现代化建设，做好港澳工作和对台工作，深入推进中国特色大国外交，推动经济持续回升向好，“十四五”主要目标任务即将胜利完成。隆重纪念中国人民抗日战争暨世界反法西斯战争胜利80周年，极大振奋民族精神、激发爱国热情、凝聚奋斗力量。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/2992478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
-          "title": "匈牙利总理欧尔班：我们将不会卷入这场战争。",
-          "url": "https://flash.jin10.com/detail/20251023203141664800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
+          "time_info": "00时22分"
         }
       ]
     }
