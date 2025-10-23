@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T07:14:46.495459+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-10-23T09:16:55.158670+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马斯克表示，特斯拉之所以更专注于自己的芯片，而不是仅仅依靠英伟达的gpu或人工智能加速器，是因为黄仁勋的公司必须为更广泛的客户提供服务。 马斯克的观点是，特斯拉最好保持简单，使用专门为他们需要完成的任务而设计的芯片（训练和运行支持基于视觉的自动驾驶的模型）。",
@@ -126,6 +126,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "成龙谈人工智能",
+          "url": "https://www.toutiao.com/trending/7563810946825912359/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
           "title": "通用汽车(GM.N)：未来，通用汽车将推出专为车辆量身定制的自主人工智能系统。",
           "url": "https://flash.jin10.com/detail/20251022230614759800",
           "source": "金十数据",
@@ -140,7 +151,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -178,6 +189,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -249,8 +271,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时16分]"
         },
         {
           "title": "金价下跌的关键原因是什么",
@@ -373,8 +395,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时14分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时16分]"
         }
       ]
     }
