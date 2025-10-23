@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T15:19:13.863729+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-10-23T16:25:08.119709+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -285,9 +285,23 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时17分 ~ 16时25分]"
         },
         {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
@@ -312,19 +326,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时03分 ~ 12时21分]"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时19分]"
         },
         {
           "title": "金价大跌之际，黄金ETF持仓量创2022年以来新高",
@@ -357,7 +358,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         },
@@ -389,8 +390,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时16分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[09时16分 ~ 16时25分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -398,11 +399,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[12时21分 ~ 16时25分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -541,7 +543,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -556,6 +558,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时23分 ~ 13时17分]"
+        },
+        {
+          "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普对俄罗斯的决定就像是对俄罗斯的战争行为。特朗普与“疯狂的”欧洲结盟。",
+          "url": "https://flash.jin10.com/detail/20251023160720156800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     }
