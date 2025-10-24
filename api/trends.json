@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T21:30:43.909119+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2025-10-24T22:18:03.833195+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时16分]"
+        },
+        {
+          "title": "市场消息：在对人工智能泡沫的担忧下，英国央行对数据中心贷款情况进行调查。",
+          "url": "https://flash.jin10.com/detail/20251024220603932800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "美法官承认：使用人工智能导致法院裁决出错",
@@ -262,8 +273,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时25分 ~ 21时30分]"
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 22时18分]"
         },
         {
           "title": "金价又大涨了",
