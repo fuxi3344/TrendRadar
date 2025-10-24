@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T17:19:58.549983+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-10-24T18:20:13.357364+08:00",
+  "total_titles_processed": 1676,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         },
@@ -256,11 +256,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -291,7 +292,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时19分"
         }
