@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T13:19:07.050626+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2025-10-24T14:25:31.800230+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 14时25分]"
         },
         {
           "title": "美法官承认使用人工智能导致法院裁决出错",
@@ -95,7 +95,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -208,8 +208,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时58分 ~ 13时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时58分 ~ 14时25分]"
         },
         {
           "title": "分析人士：国际金价长期仍看涨",
@@ -220,8 +220,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 14时25分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金早盘价为942.46元/克，较国际金价(942.81元/克)，低0.35元/克",
@@ -250,8 +250,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 13时19分]"
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时25分]"
         },
         {
           "title": "Anthropic确认，与谷歌公司达成的云协议价值数十亿美元。 谷歌云协议包括100万TPUs和到2026年增加超过1 GW算力。",
