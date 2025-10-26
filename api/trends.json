@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T17:17:21.687141+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2025-10-26T18:18:09.101228+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek新突破能否打破大模型瓶颈",
@@ -35,6 +35,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时17分 ~ 16时22分]"
+        },
+        {
+          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
+          "url": "https://www.zhihu.com/question/1965049071443075345",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 18时18分]"
         },
         {
           "title": "巴克莱首席执行官：人工智能领域存在资本，因为人们看到了从中获得的回报，虽然会出现资源配置不当的情况，但这种情况在每个周期都会发生。",
@@ -71,11 +82,12 @@
           "ranks": [
             24,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 18时18分]"
         },
         {
           "title": "金价暴跌 大学生把生活费亏没了",
@@ -86,8 +98,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时23分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[14时23分 ~ 18时18分]"
         }
       ]
     },
@@ -115,8 +127,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 18时18分]"
         }
       ]
     },
@@ -133,8 +145,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 17时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 18时18分]"
         }
       ]
     }
