@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T13:18:55.580688+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-10-27T14:30:34.146871+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "第一批金价下跌受害者出现了",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
+        },
+        {
+          "title": "业内：金价急跌套牢Z世代",
+          "url": "https://www.toutiao.com/trending/7565736865819528746/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         }
       ]
     },
@@ -97,7 +108,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴基斯坦发出“公开战争”警告",
@@ -109,6 +120,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "朝鲜谴责日本暴露战争国家嘴脸",
+          "url": "https://news.ifeng.com/c/8nnAT5a4bMF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时30分"
         }
       ]
     }
