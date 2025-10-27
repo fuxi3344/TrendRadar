@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T12:27:59.600284+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2025-10-27T13:18:55.580688+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -71,6 +71,18 @@
           "time_info": "[00时20分 ~ 06时18分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027114944856800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时18分]"
+        },
+        {
           "title": "经合组织秘书长：人工智能将使主要国家劳动生产率每年提升0.2至0.4个百分点。",
           "url": "https://flash.jin10.com/detail/20251027103719740800",
           "source": "金十数据",
@@ -80,17 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时20分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027114944856800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         }
       ]
     },
