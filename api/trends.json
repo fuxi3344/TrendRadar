@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T16:25:56.936075+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2025-10-27T17:24:07.360323+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 17时24分]"
         },
         {
           "title": "金十图示：2025年10月27日（周一）上海金早盘价为932.11元/克，较国际金价(931.45元/克)，高0.66元/克",
@@ -72,7 +72,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
@@ -142,8 +142,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时30分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时30分 ~ 17时24分]"
         },
         {
           "title": "美国总统特朗普：普京应该结束战争而不是试验导弹。",
