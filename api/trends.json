@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T16:23:42.315059+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-10-28T17:19:24.077283+08:00",
+  "total_titles_processed": 1470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时20分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时20分 ~ 17时19分]"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -113,7 +113,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -124,9 +124,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "十五五规划建议：全面实施“人工智能+”行动，抢占人工智能产业应用制高点",
+          "url": "https://wallstreetcn.com/livenews/2994948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时19分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-28）",
@@ -308,11 +319,12 @@
           "ranks": [
             9,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时22分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 17时19分]"
         },
         {
           "title": "印度2025年排灯节头两天的黄金购买量超过40吨。 相比珠宝，印度消费者更青睐金币和金条。 投资动机对黄金购买行为的影响力超过消费需求。 摩根士丹利认为，印度家庭所持黄金价值大约3.8万亿美元。",
@@ -329,6 +341,19 @@
           "time_info": "[00时56分 ~ 03时15分]"
         },
         {
+          "title": "金价突然杀跌原因何在",
+          "url": "https://www.toutiao.com/trending/7565674495126847531/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时19分 ~ 17时19分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26band_rank%3D21%26filter_type%3Drealtimehot%26realpos%3D21%26display_time%3D1761614174%26pre_seqid%3D176161417484201942585155",
           "source": "微博",
@@ -338,18 +363,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时19分 ~ 11时07分]"
-        },
-        {
-          "title": "金价突然杀跌原因何在",
-          "url": "https://www.toutiao.com/trending/7565674495126847531/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时19分 ~ 16时23分]"
         },
         {
           "title": "金十图示：2025年10月28日（周二）上海金早盘价为914.25元/克，较国际金价(913.54元/克)，高0.71元/克",
