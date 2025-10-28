@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T05:17:38.669441+08:00",
-  "total_titles_processed": 642,
+  "generated_at": "2025-10-29T06:17:40.173528+08:00",
+  "total_titles_processed": 667,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
           "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
@@ -244,19 +244,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
           "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
           "url": "https://www.cls.cn/detail/2183840",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
@@ -343,17 +344,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "金价银价暴跌原因",
-          "url": "https://www.douyin.com/hot/2285515",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 04时22分]"
-        },
-        {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
           "url": "https://wallstreetcn.com/articles/3758018",
           "source": "华尔街见闻",
@@ -361,8 +351,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -376,8 +366,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 06时17分]"
+        },
+        {
+          "title": "金价银价暴跌原因",
+          "url": "https://www.douyin.com/hot/2285515",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 04时22分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
@@ -388,8 +389,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时17分]"
         }
       ]
     }
