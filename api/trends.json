@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T04:22:05.478994+08:00",
-  "total_titles_processed": 596,
+  "generated_at": "2025-10-29T05:17:38.669441+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
@@ -103,7 +103,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
         },
@@ -244,8 +244,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时17分]"
+        },
+        {
+          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
+          "url": "https://www.cls.cn/detail/2183840",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
@@ -257,17 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
-        },
-        {
-          "title": "PayPal成为ChatGPT首个支付钱包 盘前一度涨超15%",
-          "url": "https://www.cls.cn/detail/2183840",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
         },
         {
           "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
@@ -361,8 +361,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -376,19 +376,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 05时17分]"
         },
         {
           "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
           "url": "https://wallstreetcn.com/articles/3758026",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 04时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 05时17分]"
         }
       ]
     }
