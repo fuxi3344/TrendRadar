@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T20:38:44.558143+08:00",
-  "total_titles_processed": 1898,
+  "generated_at": "2025-10-29T21:32:12.436858+08:00",
+  "total_titles_processed": 1993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -66,6 +66,18 @@
           "time_info": "[00时24分 ~ 04时22分]"
         },
         {
+          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
+          "url": "https://www.cls.cn/detail/2185058",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时32分]"
+        },
+        {
           "title": "商务部等5部门：完善智能导引、精准营销、云上购物、沉浸体验等智慧商业新模式，推广一批“人工智能+消费”场景",
           "url": "https://wallstreetcn.com/livenews/2995646",
           "source": "华尔街见闻-快讯",
@@ -76,17 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 15时18分]"
-        },
-        {
-          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
-          "url": "https://www.cls.cn/detail/2185058",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
         },
         {
           "title": "英伟达(NVDA.O)：正在与甲骨文(ORCL.N)和美国能源部合作，打造美国能源部用于科学发现的规模最大人工智能超级计算机。",
@@ -175,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时19分"
+        },
+        {
+          "title": "上交所副总经理王泊：将以更大力度推动人工智能与交易所核心生产力融合创新",
+          "url": "https://wallstreetcn.com/livenews/2996002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "超微电脑(SMCI.O)：扩大与英伟达(NVDA.O)的合作，并加强合规性、数据完整性以及面向政府应用优化的人工智能基础设施解决方案的美国本土制造质量。",
@@ -315,7 +327,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         },
@@ -329,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)宣布成立美国联邦实体，进一步拓展联邦市场。针对联邦生态系统的人工智能服务器产品组合将在美国本土进行大规模制造。",
+          "url": "https://flash.jin10.com/detail/20251029210626078800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "诺基亚(NOK.N)：此次投资是其在人工智能无线接入网（AI-RAN）战略合作及数据中心网络演进基础上的补充。",
@@ -359,7 +382,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
@@ -367,7 +390,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "金价跌破3900美元 未来会是什么走势",
@@ -455,8 +478,19 @@
             20
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时18分 ~ 21时32分]"
+        },
+        {
+          "title": "金价剧震如何改变了水贝",
+          "url": "https://www.toutiao.com/trending/7566505063359712822/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时18分 ~ 20时38分]"
+          "time_info": "[21时31分 ~ 21时32分]"
         },
         {
           "title": "金价是否会重现上世纪80年代到上世纪末的最长熊市？",
@@ -693,7 +727,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时38分"
         }
