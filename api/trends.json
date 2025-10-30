@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T13:17:39.411650+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2025-10-30T14:26:34.183813+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -368,8 +368,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时17分]"
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时26分]"
         },
         {
           "title": "微软因投资OpenAI而面临31亿美元冲击。",
@@ -400,11 +400,12 @@
           "url": "https://www.zhihu.com/question/1966652250177893275",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 14时26分]"
         },
         {
           "title": "OpenAI回应筹备IPO",
@@ -457,6 +458,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界黄金协会：黄金需求与价格同步上升到新高度",
+          "url": "https://flash.jin10.com/detail/20251030141350740800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     }
