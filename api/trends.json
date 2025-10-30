@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T02:25:29.917406+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2025-10-31T03:14:35.144803+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时14分]"
         },
         {
           "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
           "url": "https://flash.jin10.com/detail/20251031015822268800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时25分 ~ 03时14分]"
         }
       ]
     },
@@ -61,8 +62,25 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时26分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 03时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国防部痛批赖清德鼓吹战争",
+          "url": "https://www.douyin.com/hot/2289008",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时14分"
         }
       ]
     }
