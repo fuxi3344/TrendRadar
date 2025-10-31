@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T17:20:52.229881+08:00",
-  "total_titles_processed": 1487,
+  "generated_at": "2025-10-31T18:18:36.254777+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时21分 ~ 17时20分]"
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 18时18分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
@@ -167,7 +167,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -211,7 +211,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时20分"
         },
@@ -381,6 +381,18 @@
           "time_info": "[04时20分 ~ 09时16分]"
         },
         {
+          "title": "金价涨涨跌跌 旧首饰如何处理",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
+        },
+        {
           "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
           "url": "https://flash.jin10.com/detail/20251031101827586800",
           "source": "金十数据",
@@ -412,17 +424,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
-        },
-        {
-          "title": "金价涨涨跌跌 旧首饰如何处理",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         }
       ]
     },
@@ -473,9 +474,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时18分]"
         }
       ]
     },
