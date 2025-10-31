@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:17:52.367871+08:00",
-  "total_titles_processed": 1999,
+  "generated_at": "2025-10-31T23:18:26.070740+08:00",
+  "total_titles_processed": 2081,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时21分 ~ 22时17分]"
+          "appearance_count": 12,
+          "time_info": "[12时21分 ~ 23时18分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
@@ -80,6 +80,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
+          "url": "https://wallstreetcn.com/livenews/2997794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "共和党参议员称谷歌人工智能模型针对保守派",
+          "url": "https://wallstreetcn.com/livenews/2997771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时18分]"
         },
         {
           "title": "苹果(AAPL.O)CFO：正在大幅增加对人工智能的投资。",
@@ -185,17 +208,6 @@
           "time_info": "11时09分"
         },
         {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
           "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
           "url": "https://flash.jin10.com/detail/20251031142729217800",
           "source": "金十数据",
@@ -262,6 +274,17 @@
           "time_info": "15时17分"
         },
         {
+          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20251031222512027800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
           "url": "https://wallstreetcn.com/livenews/2997155",
           "source": "华尔街见闻-快讯",
@@ -304,6 +327,96 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金价涨涨跌跌 旧首饰如何处理",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 21时30分]"
+        },
+        {
+          "title": "金价狂飙婚事耽搁2年女子发声",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D28%26pos%3D28%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
+          "source": "微博",
+          "ranks": [
+            28,
+            15,
+            12,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时20分 ~ 09时16分]"
+        },
+        {
+          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
+          "url": "https://wallstreetcn.com/livenews/2997790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
+          "url": "https://flash.jin10.com/detail/20251031101827586800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时09分"
+        },
+        {
+          "title": "金十图示：2025年10月31日（周五）上海金午盘价为920.45元/克，较国际金价(920.12元/克)，高0.33元/克",
+          "url": "https://flash.jin10.com/detail/20251031153527274800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "金价再度回落 但仍有望录得连续第三个月上涨",
+          "url": "https://flash.jin10.com/detail/20251031112238872800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "摩根士丹利：金价或在2026年年中升至4500美元",
+          "url": "https://flash.jin10.com/detail/20251031222052069800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
@@ -386,74 +499,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金价涨涨跌跌 旧首饰如何处理",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E6%B6%A8%E8%B7%8C%E8%B7%8C+%E6%97%A7%E9%A6%96%E9%A5%B0%E5%A6%82%E4%BD%95%E5%A4%84%E7%90%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            22,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 21时30分]"
-        },
-        {
-          "title": "金价狂飙婚事耽搁2年女子发声",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99%E5%A9%9A%E4%BA%8B%E8%80%BD%E6%90%812%E5%B9%B4%E5%A5%B3%E5%AD%90%E5%8F%91%E5%A3%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26band_rank%3D28%26pos%3D28%26cate%3D5001%26realpos%3D28%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E7%258B%2582%25E9%25A3%2599%25E5%25A9%259A%25E4%25BA%258B%25E8%2580%25BD%25E6%2590%25812%25E5%25B9%25B4%25E5%25A5%25B3%25E5%25AD%2590%25E5%258F%2591%25E5%25A3%25B0%2523%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1761855005%26pre_seqid%3D17618550055790247164112",
-          "source": "微博",
-          "ranks": [
-            28,
-            15,
-            12,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时20分 ~ 09时16分]"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
-          "url": "https://flash.jin10.com/detail/20251031101827586800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时09分"
-        },
-        {
-          "title": "金十图示：2025年10月31日（周五）上海金午盘价为920.45元/克，较国际金价(920.12元/克)，高0.33元/克",
-          "url": "https://flash.jin10.com/detail/20251031153527274800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "金价再度回落 但仍有望录得连续第三个月上涨",
-          "url": "https://flash.jin10.com/detail/20251031112238872800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -478,8 +523,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[17时20分 ~ 23时18分]"
         },
         {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
