@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T19:15:14.786044+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2025-10-31T20:35:40.858008+08:00",
+  "total_titles_processed": 1805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
@@ -15,11 +15,12 @@
             12,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 19时15分]"
+          "appearance_count": 9,
+          "time_info": "[12时21分 ~ 20时35分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
@@ -228,6 +229,17 @@
           "time_info": "13时18分"
         },
         {
+          "title": "Getty Images：合作涵盖在Perplexity基于人工智能的搜索与发现工具中展示来自Getty Images的图片。",
+          "url": "https://flash.jin10.com/detail/20251031200221203800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时35分"
+        },
+        {
           "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
           "url": "https://flash.jin10.com/detail/20251031141930569800",
           "source": "金十数据",
@@ -388,11 +400,12 @@
           "ranks": [
             26,
             22,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[17时20分 ~ 20时35分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）上海金早盘价为918.81元/克，较国际金价(917.28元/克)，高1.53元/克",
@@ -447,6 +460,17 @@
           "time_info": "[00时26分 ~ 09时16分]"
         },
         {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时35分]"
+        },
+        {
           "title": "谷歌Q3业绩全面超预期，云亮眼，上调资本支出至930亿美元，盘后涨超7% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3758229",
           "source": "华尔街见闻",
@@ -457,17 +481,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时20分 ~ 06时17分]"
-        },
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时15分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
