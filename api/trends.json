@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T01:16:50.708696+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2025-11-01T02:27:25.086960+08:00",
+  "total_titles_processed": 450,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -47,7 +48,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         }
@@ -75,7 +76,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         }
@@ -93,8 +94,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
         }
       ]
     }
