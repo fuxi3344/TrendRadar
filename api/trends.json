@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T03:13:25.811058+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-11-01T04:21:32.417455+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
@@ -94,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         }
       ]
     }
