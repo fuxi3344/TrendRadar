@@ -1,199 +1,8 @@
 {
-  "generated_at": "2025-11-01T23:16:23.408263+08:00",
-  "total_titles_processed": 1609,
+  "generated_at": "2025-11-02T00:19:50.839218+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时20分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：亚太经济体应加大努力，为人工智能弹性基础设施投资营造有利环境。",
-          "url": "https://flash.jin10.com/detail/20251101125245344800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时18分]"
-        },
-        {
-          "title": "亚太经合组织人工智能倡议：人工智能在推动解决亚太地区共同优先事项方面具有巨大潜力。",
-          "url": "https://flash.jin10.com/detail/20251101125236158800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 15时18分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
-          "url": "https://wallstreetcn.com/livenews/2997940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时10分 ~ 13时17分]"
-        },
-        {
-          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
-          "url": "https://flash.jin10.com/detail/20251101090947123800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 12时18分]"
-        },
-        {
-          "title": "联合国：美国人工智能相关投资激增，但并购活动大幅下降。",
-          "url": "https://flash.jin10.com/detail/20251031235402298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
-          "url": "https://wallstreetcn.com/livenews/2997823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
-          "url": "https://www.cls.cn/detail/2188436",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7,
-            8,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时18分 ~ 23时16分]"
-        },
-        {
-          "title": "金价10月份涨3.7%，现货白银涨约4.3%",
-          "url": "https://wallstreetcn.com/livenews/2997897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时16分]"
-        },
-        {
-          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
-          "url": "https://wallstreetcn.com/livenews/2997790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金价短线跳水，从4020美元一线跌向3970美元",
-          "url": "https://wallstreetcn.com/livenews/2997824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时18分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
-          "url": "https://wallstreetcn.com/livenews/2997895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时18分 ~ 07时16分]"
-        }
-      ]
-    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -203,48 +12,39 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时18分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            19,
-            9,
-            10,
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 23时16分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     },
     {
-      "keyword_group": "战争",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "匈牙利总理说欧洲正走向战争",
-          "url": "https://flash.jin10.com/detail/20251101135036001800",
-          "source": "金十数据",
+          "title": "黄金回调是机会！摩根士丹利预测：金价将在2026年年中升至4500美元",
+          "url": "https://www.cls.cn/detail/2188436",
+          "source": "财联社热门",
           "ranks": [
-            6,
-            8,
-            22,
-            30
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 17时17分]"
+          "appearance_count": 1,
+          "time_info": "00时19分"
         }
       ]
     }
