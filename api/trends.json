@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T22:14:38.709439+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2025-11-01T23:16:23.408263+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -120,11 +120,12 @@
             11,
             7,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时18分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[06时18分 ~ 23时16分]"
         },
         {
           "title": "金价10月份涨3.7%，现货白银涨约4.3%",
@@ -208,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时18分 ~ 22时14分]"
+          "appearance_count": 9,
+          "time_info": "[15时18分 ~ 23时16分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
@@ -218,11 +219,12 @@
           "ranks": [
             19,
             9,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 22时14分]"
+          "appearance_count": 5,
+          "time_info": "[20时31分 ~ 23时16分]"
         }
       ]
     },
