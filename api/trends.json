@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T05:15:48.115193+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2025-11-03T06:17:17.490398+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
@@ -59,8 +60,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
@@ -71,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时19分 ~ 06时17分]"
         }
       ]
     },
