@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T20:31:42.739476+08:00",
-  "total_titles_processed": 1181,
+  "generated_at": "2025-11-02T21:22:01.176581+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 20时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 21时22分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -200,19 +200,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 21时22分]"
         },
         {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 21时22分]"
         }
       ]
     }
