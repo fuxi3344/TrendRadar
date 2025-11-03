@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T01:16:29.037244+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2025-11-04T02:24:21.299622+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -14,18 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "据CNBC：微软(MSFT.O)与Lambda达成数十亿美元的人工智能基础设施协议。",
-          "url": "https://flash.jin10.com/detail/20251104004648621800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -34,9 +23,21 @@
           "url": "https://wallstreetcn.com/livenews/2998681",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时24分]"
+        },
+        {
+          "title": "据CNBC：微软(MSFT.O)与Lambda达成数十亿美元的人工智能基础设施协议。",
+          "url": "https://flash.jin10.com/detail/20251104004648621800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
         },
@@ -61,6 +62,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "Lambda：战略合作意味着英伟达(NVDA.O)将在未来多年进行大规模人工智能基础设施部署。",
+          "url": "https://flash.jin10.com/detail/20251104010445850800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金一夜“变贵”！深圳水贝金价每克上涨60元，多家金店加价前暂停出货",
+          "url": "https://wallstreetcn.com/livenews/2998697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "盛宝银行大宗商品策略主管Ole Hansen：当前黄金市场的基调已从亢奋转为审慎反思。预计金价未来仍有进一步上涨的空间，只是何时启动这一涨势尚不确定。",
+          "url": "https://flash.jin10.com/detail/20251104002849099800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时16分"
         }
       ]
     },
@@ -74,39 +114,41 @@
           "source": "百度热搜",
           "ranks": [
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 01时16分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 02时24分]"
         },
         {
           "title": "专访厄瓜多尔前外长：美“禁毒战争”背后，门罗主义转向针对中国经济影响力",
           "url": "https://m.thepaper.cn/newsDetail_forward_31843387",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "盛宝银行大宗商品策略主管Ole Hansen：当前黄金市场的基调已从亢奋转为审慎反思。预计金价未来仍有进一步上涨的空间，只是何时启动这一涨势尚不确定。",
-          "url": "https://flash.jin10.com/detail/20251104002849099800",
-          "source": "金十数据",
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "02时24分"
         }
       ]
     },
@@ -119,11 +161,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
           "source": "澎湃新闻",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         }
       ]
     }
