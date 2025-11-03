@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T05:17:55.510322+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2025-11-04T06:17:25.824213+08:00",
+  "total_titles_processed": 595,
   "failed_sources": [],
   "trends": [
     {
@@ -174,11 +174,12 @@
             16,
             15,
             24,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时17分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "专访厄瓜多尔前外长：美“禁毒战争”背后，门罗主义转向针对中国经济影响力",
@@ -189,8 +190,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -204,11 +222,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时17分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时17分]"
         }
       ]
     }
