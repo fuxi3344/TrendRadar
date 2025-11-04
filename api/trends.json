@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T15:18:16.437367+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2025-11-04T16:25:09.958811+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -156,7 +156,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -251,8 +251,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时17分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[06时17分 ~ 16时25分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -332,8 +332,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 15时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 16时25分]"
         }
       ]
     }
