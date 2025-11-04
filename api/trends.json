@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T20:38:08.023658+08:00",
-  "total_titles_processed": 1792,
+  "generated_at": "2025-11-04T21:33:00.132387+08:00",
+  "total_titles_processed": 1883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -52,6 +52,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时16分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
+          "url": "https://flash.jin10.com/detail/20251104210638002800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
         },
         {
           "title": "据CNBC：微软(MSFT.O)与Lambda达成数十亿美元的人工智能基础设施协议。",
@@ -217,22 +228,24 @@
           "url": "https://news.ifeng.com/c/8o0qloQZRDp",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时33分]"
         },
         {
           "title": "美国前副总统切尼去世，被认为曾鼓动小布什发动伊拉克战争",
           "url": "https://wallstreetcn.com/livenews/2999194",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时33分]"
         },
         {
           "title": "以色列财政部长斯莫特里奇：以色列经济具备从战争迅速转向增长的工具。",
@@ -244,6 +257,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
+          "url": "https://flash.jin10.com/detail/20251104210818012800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时33分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
+          "url": "https://wallstreetcn.com/livenews/2998716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时14分 ~ 04时22分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
+          "url": "https://wallstreetcn.com/livenews/2998693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时14分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
+          "url": "https://wallstreetcn.com/livenews/2998790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -299,47 +364,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet将美元债券发行金额定在175亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时22分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet的美元债券发行吸引到大约900亿美元认购需求。",
-          "url": "https://wallstreetcn.com/livenews/2998693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时14分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet美元债和欧元债总计发售250亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -354,8 +378,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时17分 ~ 20时38分]"
+          "appearance_count": 14,
+          "time_info": "[06时17分 ~ 21时33分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
