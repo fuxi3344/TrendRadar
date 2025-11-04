@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T17:20:37.795107+08:00",
-  "total_titles_processed": 1524,
+  "generated_at": "2025-11-04T18:21:19.009362+08:00",
+  "total_titles_processed": 1606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时16分"
+        },
+        {
+          "title": "西班牙桑坦德银行首席执行官：我认为人工智能的实施不会摧毁大量工作岗位，而是会促使工人进行技能再培训。",
+          "url": "https://flash.jin10.com/detail/20251104180444058800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "美联储理事库克：人工智能可能对劳动力市场产生重大负面影响。",
@@ -248,11 +259,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时17分 ~ 17时20分]"
+          "appearance_count": 11,
+          "time_info": "[06时17分 ~ 18时21分]"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
@@ -283,7 +295,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "台湾不能再吃战争的苦",
@@ -314,6 +326,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时16分]"
+        },
+        {
+          "title": "以色列财政部长斯莫特里奇：以色列经济具备从战争迅速转向增长的工具。",
+          "url": "https://flash.jin10.com/detail/20251104174119817800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         }
       ]
     },
