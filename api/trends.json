@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T17:20:27.602990+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-11-05T18:20:19.535699+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
@@ -327,6 +327,17 @@
           "time_info": "[06时16分 ~ 07时24分]"
         },
         {
+          "title": "美元走强金价又跌了",
+          "url": "https://www.douyin.com/hot/2295060",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时23分 ~ 18时20分]"
+        },
+        {
           "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
           "url": "https://www.zhihu.com/question/1968706446079299701",
           "source": "知乎",
@@ -337,17 +348,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时24分 ~ 11时11分]"
-        },
-        {
-          "title": "美元走强金价又跌了",
-          "url": "https://www.douyin.com/hot/2295060",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
@@ -367,6 +367,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时11分 ~ 18时20分]"
+        },
+        {
           "title": "美国前副总统切尼去世，被认为曾鼓动小布什发动伊拉克战争",
           "url": "https://news.ifeng.com/c/8o0qloQZRDp",
           "source": "凤凰网",
@@ -376,18 +388,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时22分 ~ 07时24分]"
-        },
-        {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时11分 ~ 17时20分]"
         }
       ]
     }
