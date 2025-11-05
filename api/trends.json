@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T12:23:12.351536+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2025-11-05T13:18:13.012904+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,18 @@
           "time_info": "[01时17分 ~ 03时14分]"
         },
         {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时18分 ~ 13时18分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：与Vitality宣布合作推出Vitality AI。",
           "url": "https://flash.jin10.com/detail/20251105000406065800",
           "source": "金十数据",
@@ -45,18 +57,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 02时25分]"
-        },
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时18分 ~ 12时23分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -89,6 +89,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105115714525800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时23分 ~ 13时18分]"
+        },
+        {
           "title": "AMD(AMD.O)：人工智能芯片的机遇超过5000亿美元。",
           "url": "https://flash.jin10.com/detail/20251105065410267800",
           "source": "金十数据",
@@ -109,17 +121,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-05）",
-          "url": "https://flash.jin10.com/detail/20251105115714525800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时23分"
         },
         {
           "title": "AMD(AMD.O)CEO：人工智能业务将在2027年达到数百亿美元，PC业务营收增长速度将超过市场平均水平。",
@@ -221,8 +222,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时11分 ~ 12时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 13时18分]"
         },
         {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
@@ -253,7 +254,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
@@ -283,8 +284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 12时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时11分 ~ 13时18分]"
         }
       ]
     }
