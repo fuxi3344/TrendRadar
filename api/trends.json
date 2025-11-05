@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T22:20:17.543964+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2025-11-05T23:18:58.114469+08:00",
+  "total_titles_processed": 2091,
   "failed_sources": [],
   "trends": [
     {
@@ -292,7 +292,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时20分"
         }
@@ -386,8 +386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 22时20分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 23时18分]"
         },
         {
           "title": "美国前副总统切尼去世，被认为曾鼓动小布什发动伊拉克战争",
