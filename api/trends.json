@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T16:24:05.116645+08:00",
-  "total_titles_processed": 1457,
+  "generated_at": "2025-11-05T17:20:27.602990+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -92,7 +92,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         },
@@ -103,7 +103,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
         }
@@ -346,8 +346,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时23分 ~ 16时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时20分]"
         },
         {
           "title": "金十图示：2025年11月05日（周三）上海金早盘价为904.68元/克，较国际金价(903.54元/克)，高1.14元/克",
@@ -386,8 +386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时24分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 17时20分]"
         }
       ]
     }
