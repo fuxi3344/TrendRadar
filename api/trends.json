@@ -1,62 +1,11 @@
 {
-  "generated_at": "2025-11-07T01:18:29.796997+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-11-07T02:26:14.158337+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "金价暴涨三四线城市金店撑不住了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
@@ -76,9 +25,111 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
+          "url": "https://flash.jin10.com/detail/20251107013905662800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美联储哈玛克：人工智能是一种结构性经济变革，不太适合通过货币政策来应对。",
+          "url": "https://flash.jin10.com/detail/20251107013445448800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        },
+        {
+          "title": "美联储哈玛克：人工智能的繁荣可能类似于当年互联网基础设施建设时期的情形。",
+          "url": "https://flash.jin10.com/detail/20251107013439983800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价一波大涨过后，为何三四线城市金店先撑不住了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31906822",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 02时26分]"
+        },
+        {
+          "title": "金价暴涨三四线城市金店撑不住了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E4%B8%89%E5%9B%9B%E7%BA%BF%E5%9F%8E%E5%B8%82%E9%87%91%E5%BA%97%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D29%26lcate%3D5001%26pos%3D29%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E6%259A%25B4%25E6%25B6%25A8%25E4%25B8%2589%25E5%259B%259B%25E7%25BA%25BF%25E5%259F%258E%25E5%25B8%2582%25E9%2587%2591%25E5%25BA%2597%25E6%2592%2591%25E4%25B8%258D%25E4%25BD%258F%25E4%25BA%2586%2523%26dgr%3D0%26band_rank%3D29%26cate%3D5001%26flag%3D0%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D28%26lcate%3D5001%26pos%3D28%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26band_rank%3D28%26cate%3D5001%26flag%3D1%26display_time%3D1762445652%26pre_seqid%3D176244565203203611051&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
+          "url": "https://wallstreetcn.com/livenews/3000693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时26分"
         }
       ]
     },
@@ -95,8 +146,25 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2025 年 11 月米哈游《崩坏星穹铁道》3.7 版本新玩法【货币战争】？",
+          "url": "https://www.zhihu.com/question/1969156870657807061",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "time_info": "[02时25分 ~ 02时26分]"
         }
       ]
     }
