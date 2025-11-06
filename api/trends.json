@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T07:16:55.392829+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2025-11-06T09:18:03.225273+08:00",
+  "total_titles_processed": 810,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "鸿海首席执行官：未来数月内将在美国部署人形机器人，生产人工智能服务器。",
+          "url": "https://flash.jin10.com/detail/20251106090940518800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "OpenAI首席财务官：市场应当对人工智能的潜力拥有更多的信心。",
@@ -55,6 +66,17 @@
           "time_info": "[02时26分 ~ 03时15分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
+          "url": "https://wallstreetcn.com/livenews/3000201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
           "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
           "url": "https://flash.jin10.com/detail/20251106043443479800",
           "source": "金十数据",
@@ -64,6 +86,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：人工智能会消灭部分工作岗位，但也会创造岗位。",
+          "url": "https://wallstreetcn.com/livenews/3000200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：“中国将赢得人工智能竞赛”",
+          "url": "https://flash.jin10.com/detail/20251106085715580800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         },
         {
           "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
@@ -243,7 +287,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -256,6 +300,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 01时17分]"
+        },
+        {
+          "title": "中信证券：金价仍将上行",
+          "url": "https://flash.jin10.com/detail/20251106081622630800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        },
+        {
+          "title": "中信证券：展望明年，预计金价主线仍是上行",
+          "url": "https://wallstreetcn.com/livenews/3000181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
         }
       ]
     }
