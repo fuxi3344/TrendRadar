@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T11:11:05.581947+08:00",
-  "total_titles_processed": 972,
+  "generated_at": "2025-11-07T12:20:15.233599+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时20分]"
         },
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -32,8 +32,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 11时11分]"
+          "appearance_count": 4,
+          "time_info": "[07时18分 ~ 12时20分]"
+        },
+        {
+          "title": "OpenAI高管言论引风暴 纳指跌近2%",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 12时20分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -60,18 +73,6 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
-          "title": "OpenAI高管言论引风暴 纳指跌近2%",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 11时11分]"
-        },
-        {
           "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
           "url": "https://flash.jin10.com/detail/20251107032458905800",
           "source": "金十数据",
@@ -82,6 +83,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
         },
         {
           "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
@@ -96,6 +108,18 @@
           "time_info": "[04时19分 ~ 05时15分]"
         },
         {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时11分 ~ 12时20分]"
+        },
+        {
           "title": "AI泡沫担忧隐现，OpenAI创始人谈营收和投资承诺",
           "url": "https://flash.jin10.com/detail/20251107043817547800",
           "source": "金十数据",
@@ -105,28 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时11分"
         }
       ]
     },
@@ -143,8 +145,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时11分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时20分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -158,8 +160,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时18分 ~ 11时11分]"
+          "appearance_count": 14,
+          "time_info": "[01时18分 ~ 12时20分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -183,7 +185,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         },
@@ -205,7 +207,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时11分"
         },
@@ -310,8 +312,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时18分 ~ 12时20分]"
+        },
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时18分 ~ 11时11分]"
+          "time_info": "[11时10分 ~ 12时20分]"
         },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
@@ -337,17 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "如何评价 gemini-3-pro-preview-11-2025？",
-          "url": "https://www.zhihu.com/question/1969709439335530787",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时10分 ~ 11时11分]"
         }
       ]
     },
