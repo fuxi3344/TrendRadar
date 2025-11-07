@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-08T00:19:15.859796+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-11-08T01:15:39.214699+08:00",
+  "total_titles_processed": 362,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
+          "url": "https://flash.jin10.com/detail/20251108010615120800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
@@ -14,9 +31,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时15分]"
         }
       ]
     }
