@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T22:18:00.026161+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2025-11-07T23:18:23.871364+08:00",
+  "total_titles_processed": 2068,
   "failed_sources": [],
   "trends": [
     {
@@ -255,8 +255,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时11分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 23时18分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -481,7 +481,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
@@ -533,6 +533,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
+        },
+        {
+          "title": "美股明星科技股普跌，特斯拉(TSLA.O)、AMD(AMD.O)跌约3.5%，甲骨文(ORCL.N)、英伟达(NVDA.O)跌约2%，谷歌(GOOG.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251107223609043800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
