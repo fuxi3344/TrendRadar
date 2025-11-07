@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-07T14:28:20.734841+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-11-07T15:17:08.707771+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            9
+            9,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 14时28分]"
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 15时17分]"
         },
         {
           "title": "市场消息：谷歌将在澳大利亚位于印度洋的一个小前哨基地建设新的人工智能数据中心。",
@@ -141,7 +142,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         },
@@ -171,8 +172,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时18分 ~ 14时28分]"
+          "appearance_count": 7,
+          "time_info": "[07时18分 ~ 15时17分]"
         },
         {
           "title": "机器人工业场景加速推进，测量机“卖爆了” 王兴兴现身谈具身智能的“ChatGPT”时刻",
@@ -191,6 +192,30 @@
           "time_info": "[00时23分 ~ 14时28分]"
         },
         {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时17分]"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时11分 ~ 15时17分]"
+        },
+        {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
           "url": "https://www.baidu.com/s?wd=OpenAI%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%E5%BC%95%E9%A3%8E%E6%9A%B4+%E7%BA%B3%E6%8C%87%E8%B7%8C%E8%BF%912%25",
           "source": "百度热搜",
@@ -202,17 +227,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时17分 ~ 12时20分]"
-        },
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时28分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
@@ -237,19 +251,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
-        },
-        {
-          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
-          "url": "https://www.cls.cn/detail/2193718",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时11分 ~ 14时28分]"
         },
         {
           "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
@@ -299,11 +300,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时23分 ~ 14时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时23分 ~ 15时17分]"
         },
         {
           "title": "金价暴涨三四线城市金店撑不住了",
@@ -394,8 +396,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时18分 ~ 14时28分]"
+          "appearance_count": 8,
+          "time_info": "[06时18分 ~ 15时17分]"
         },
         {
           "title": "如何评价 gemini-3-pro-preview-11-2025？",
