@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T16:20:53.138713+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2025-11-08T17:16:24.493421+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时16分 ~ 16时20分]"
+          "appearance_count": 10,
+          "time_info": "[07时16分 ~ 17时16分]"
         },
         {
           "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
@@ -79,11 +79,12 @@
           "url": "https://wallstreetcn.com/livenews/3001525",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 17时16分]"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
@@ -100,7 +101,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
@@ -125,6 +126,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     },
