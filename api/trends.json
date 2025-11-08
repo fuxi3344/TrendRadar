@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T18:16:21.595023+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-11-08T19:14:50.789927+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -68,11 +68,12 @@
           "ranks": [
             5,
             13,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 18时16分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 19时14分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -122,11 +123,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时16分 ~ 18时16分]"
+          "appearance_count": 3,
+          "time_info": "[17时16分 ~ 19时14分]"
         },
         {
           "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
