@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T14:24:46.965844+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-11-08T15:17:21.822745+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时16分 ~ 14时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时16分 ~ 15时17分]"
+        },
+        {
+          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
+          "url": "https://flash.jin10.com/detail/20251108112121105800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4,
+            9,
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时40分 ~ 15时17分]"
         },
         {
           "title": "Meta Platforms(META.O)：到2028年，将在美国投入超过6000亿美元，以支持人工智能技术、基础设施和员工队伍的扩展。",
@@ -30,20 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
-        },
-        {
-          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
-          "url": "https://flash.jin10.com/detail/20251108112121105800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 14时24分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -117,6 +118,35 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "消息人士称，美国支持欧盟使用冻结的俄罗斯资产来支持乌克兰并帮助结束战争。",
+          "url": "https://flash.jin10.com/detail/20251108015520183800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 03时16分]"
+        },
+        {
+          "title": "俄乌战争转机再现？特朗普：“普特会”正讨论中，地点还是布达佩斯！",
+          "url": "https://www.cls.cn/detail/2194868",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -149,24 +179,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时01分 ~ 11时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息人士称，美国支持欧盟使用冻结的俄罗斯资产来支持乌克兰并帮助结束战争。",
-          "url": "https://flash.jin10.com/detail/20251108015520183800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时24分 ~ 03时16分]"
         }
       ]
     }
