@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T11:40:02.204833+08:00",
-  "total_titles_processed": 863,
+  "generated_at": "2025-11-08T12:20:06.150802+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -19,17 +19,6 @@
           "time_info": "01时15分"
         },
         {
-          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
-          "url": "https://flash.jin10.com/detail/20251108112121105800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
           "url": "https://wallstreetcn.com/articles/3758922",
           "source": "华尔街见闻",
@@ -39,8 +28,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时16分 ~ 11时40分]"
+          "appearance_count": 5,
+          "time_info": "[07时16分 ~ 12时20分]"
+        },
+        {
+          "title": "DeepSeek时刻再次出现，Kimi K2 Thinking智能推理能力超过GPT-5",
+          "url": "https://flash.jin10.com/detail/20251108112121105800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时20分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -48,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时20分]"
         },
         {
           "title": "碳达峰碳中和的中国行动白皮书：深化人工智能、大数据、云计算等在电力系统、工农业生产、交通运输、建筑建设运行等领域应用",
@@ -60,11 +62,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 11时40分]"
+          "appearance_count": 3,
+          "time_info": "[11时01分 ~ 12时20分]"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
