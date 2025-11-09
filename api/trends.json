@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-09T19:13:05.485084+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-11-09T20:31:32.322624+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
       "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时18分 ~ 20时31分]"
+        },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
           "url": "https://flash.jin10.com/detail/20251109085033064800",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时21分 ~ 12时21分]"
-        },
-        {
-          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
-          "url": "https://wallstreetcn.com/articles/3758988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时18分 ~ 19时13分]"
         }
       ]
     },
