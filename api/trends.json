@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-11T02:26:11.612006+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2025-11-11T03:15:03.152629+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
+        {
+          "title": "金价涨超2% 创本月最大涨幅",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 03时15分]"
+        },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
           "url": "https://wallstreetcn.com/livenews/3002234",
@@ -18,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 02时26分]"
         },
         {
           "title": "金价大涨但黄金首饰难卖了",
