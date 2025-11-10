@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T20:36:56.303677+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-11-10T21:30:27.298906+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "ranks": [
             14,
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时30分]"
         },
         {
           "title": "国家发改委等部门：拓展物联网、云计算、大数据、人工智能、区块链等技术在物流领域的规模化应用",
@@ -115,8 +116,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时20分 ~ 20时36分]"
+          "appearance_count": 4,
+          "time_info": "[18时20分 ~ 21时30分]"
         },
         {
           "title": "经济疲软助推降息预期 黄金价格跳涨至两周高点",
@@ -153,7 +154,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时36分"
         },
