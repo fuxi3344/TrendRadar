@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T13:21:16.917559+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2025-11-10T14:28:35.462757+08:00",
+  "total_titles_processed": 1040,
   "failed_sources": [],
   "trends": [
     {
@@ -36,7 +36,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
         }
@@ -52,11 +52,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 13时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 14时28分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
