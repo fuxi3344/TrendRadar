@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T04:19:30.466121+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2025-11-12T05:16:34.571177+08:00",
+  "total_titles_processed": 539,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时16分]"
         },
         {
           "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
@@ -130,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时16分]"
         },
         {
           "title": "OpenAI用德国音乐人创作歌词训练模型被判侵权",
