@@ -1,542 +1,95 @@
 {
-  "generated_at": "2025-11-11T23:19:00.056283+08:00",
-  "total_titles_processed": 2044,
+  "generated_at": "2025-11-12T00:23:44.569675+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 14,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "市场消息：韩国拟建的大型数据中心或将成为首个由人工智能建设和运营的数据中心，该数据中心将由人工智能设计和运营，仅需极少的人工监管。",
-          "url": "https://flash.jin10.com/detail/20251111124909809800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "微软公司宣布，将投资100亿美元在葡萄牙海岸建设一个人工智能数据中心。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3002756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时16分 ~ 20时35分]"
-        },
-        {
-          "title": "上海市新增2款已完成备案的生成式人工智能服务，累计已完成106款生成式人工智能服务备案。（网信上海）",
-          "url": "https://wallstreetcn.com/livenews/3002800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 21时30分]"
-        },
-        {
-          "title": "美国财长贝森特：人工智能投资有望带来显著的就业增长。",
-          "url": "https://wallstreetcn.com/livenews/3002822",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时30分 ~ 22时18分]"
-        },
-        {
-          "title": "【中国央行：研究制定“十五五”时期金融科技发展规划，稳妥有序推进金融领域人工智能大模型应用】央行指出，当前，新一轮技术革命孕育兴起，金融与数字技术的融合方兴未艾，发展空间广阔。下一步，央行将充分发挥“数字技术+数据要素”双轮驱动作用，持续深化金融供给侧结构性改革，研究制定“十五五”时期金融科技发展规划，稳妥有序推进金融领域人工智能大模型应用，深化征信数据治理与产品创新，推动完善新型工业化金融服务体系，加强金融服务质效评估，为加快金融强国建设、经济高质量发展提供坚实支撑。",
-          "url": "https://wallstreetcn.com/livenews/3002683",
+          "title": "谷歌公司将在德国数据中心和办公室投资55亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3002895",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "00时23分"
         },
         {
-          "title": "市场消息：欧盟计划简化数据和人工智能规则，以促进商业发展。",
-          "url": "https://flash.jin10.com/detail/20251111003834643800",
+          "title": "谷歌高管贾斯图斯：数据中心不存在德国政府补贴。",
+          "url": "https://flash.jin10.com/detail/20251111234557842800",
           "source": "金十数据",
           "ranks": [
-            8
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时16分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国财长贝森特：可从人工智能投资中看到大量就业增长。",
-          "url": "https://flash.jin10.com/detail/20251111205855692800",
+          "title": "谷歌高管贾斯图斯：投资将确保在德国创造9000个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20251111232740907800",
           "source": "金十数据",
           "ranks": [
-            9
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "英伟达拉美主管Marcio Aguiar：英伟达支持创新。 在墨西哥，人工智能（AI）机会大于挑战。 英伟达的合作伙伴们现在计划在墨西哥投资。 他们将在墨西哥数据中心投资200万-400万美元。",
-          "url": "https://wallstreetcn.com/livenews/3002295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "国家医保局：加强跨省异地就医管理，探索开展移动支付、信用支付和人工智能经办等创新服务方式",
-          "url": "https://wallstreetcn.com/livenews/3002813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时30分"
-        },
-        {
-          "title": "Meta美股盘前扩大跌幅，一度跌1.7%。据英国金融时报，Meta Platforms首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
-          "url": "https://wallstreetcn.com/livenews/3002781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-11）",
-          "url": "https://flash.jin10.com/detail/20251111115317382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "据英国金融时报：Meta Platforms(META.O)首席人工智能科学家Yann Lecun计划离职创办自己的初创公司。",
-          "url": "https://flash.jin10.com/detail/20251111193633322800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "新增73款生成式人工智能服务在国家网信办完成备案",
-          "url": "https://wallstreetcn.com/livenews/3002762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
-          "title": "中国央行：研究制定“十五五”时期金融科技发展规划，稳妥有序推进金融领域人工智能大模型应用",
-          "url": "https://wallstreetcn.com/livenews/3002683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 11,
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
       "titles": [
         {
-          "title": "最高至1500元！国际金价重回4100美元后，多家银行今日再上调积存金起购门槛",
-          "url": "https://www.cls.cn/detail/2197016",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时20分 ~ 23时18分]"
-        },
-        {
-          "title": "金价涨超2% 创本月最大涨幅",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B6%A8%E8%B6%852%25+%E5%88%9B%E6%9C%AC%E6%9C%88%E6%9C%80%E5%A4%A7%E6%B6%A8%E5%B9%85",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时25分 ~ 06时17分]"
-        },
-        {
-          "title": "摩根大通私人银行：到2026年底，金价可能达到5200-5300美元",
-          "url": "https://flash.jin10.com/detail/20251111034728559800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "金价大涨但黄金首饰难卖了",
-          "url": "https://www.toutiao.com/trending/7571079598381731371/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 07时17分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股指收涨约2%，兰特涨超0.8%，追随金价一度涨穿4100美元的表现",
-          "url": "https://wallstreetcn.com/livenews/3002234",
+          "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3002880",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "摩根大通私人银行：黄金价格到明年底有望突破5,000美元",
-          "url": "https://wallstreetcn.com/livenews/3002303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时17分]"
-        },
-        {
-          "title": "金十图示：2025年11月11日（周二）上海金早盘价为948.23元/克，较国际金价(947.89元/克)，高0.34元/克",
-          "url": "https://flash.jin10.com/detail/20251111110107281800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        },
-        {
-          "title": "德商银行：预计未来一年白银价格将为50美元/盎司，铂金价格将达到1,700美元/盎司，钯金价格将达到1,400美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251111185400884800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "德商银行：预计未来一年黄金价格将达到4,200美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251111185300227800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "国际金价直线拉升",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E7%9B%B4%E7%BA%BF%E6%8B%89%E5%8D%87&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D28%26c_type%3D31%26flag%3D1%26cate%3D5001%26band_rank%3D27%26q%3D%25E5%259B%25BD%25E9%2599%2585%25E9%2587%2591%25E4%25BB%25B7%25E7%259B%25B4%25E7%25BA%25BF%25E6%258B%2589%25E5%258D%2587%26stream_entry_id%3D31%26lcate%3D5001%26realpos%3D27%26dgr%3D0%26display_time%3D1762823857%26pre_seqid%3D17628238573790280273072&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时18分"
-        },
-        {
-          "title": "金价继续上涨",
-          "url": "https://www.toutiao.com/trending/7571363368502562345/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
         {
           "title": "重注AI股大赚！软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
           "url": "https://wallstreetcn.com/articles/3759120",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时16分 ~ 23时18分]"
-        },
-        {
-          "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
-          "url": "https://wallstreetcn.com/livenews/3002253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时26分]"
-        },
-        {
-          "title": "美国参议员联名致信抨击Meta、OpenAI、Alphabet和Oracle。",
-          "url": "https://flash.jin10.com/detail/20251111004153687800",
-          "source": "金十数据",
-          "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时16分"
-        },
-        {
-          "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
-          "url": "https://wallstreetcn.com/articles/3759120",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "OpenAI挖走英特尔印度大将",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
-          "url": "https://wallstreetcn.com/livenews/3002355",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "OpenAI寻求变现又一招？这次瞄准AI医疗 或开发个人健康助理",
-          "url": "https://www.cls.cn/detail/2196380",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "软银集团：OpenAI的共同投资者承诺参与全部100亿美元的银团融资。",
-          "url": "https://flash.jin10.com/detail/20251111144640620800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "软银：已于10月以58.3亿美元的价格出售了英伟达的股份。 在6月至9月期间出售了价值91.7亿美元的T-MOBILE股份。 与OpenAI签署了修订协议，承诺将追加投资225亿美元。 将于12月通过愿景基金2完成全部投资。",
-          "url": "https://wallstreetcn.com/livenews/3002563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "谷歌：计划在德国的云基础设施上投资55亿欧元，计划在迪岑巴赫建设数据中心。",
-          "url": "https://flash.jin10.com/detail/20251111230617845800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "DownDetector：一名用户报告称，谷歌旗下YouTube出现故障。",
-          "url": "https://wallstreetcn.com/livenews/3002853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时18分 ~ 23时18分]"
-        },
-        {
-          "title": "标普500指数初步收涨1.5%，科技、电信板块涨超2%，可选消费、原材料板块涨超1%，日用品板块跌0.3%。 纳斯达克100指数初步收2.2%，成分股中，Palantir涨8.7%，美光科技涨6.6%，英伟达涨5.7%，Applovin涨5.1%，AMD在投资者日活动前夕涨4.5%，谷歌A涨4%，星巴克跌0.8%，Strategy跌1%，亿滋国际跌1.5%，Axon跌3%，特许通讯跌4%。 英伟达、微软、3M、亚马逊、IBM、卡特彼勒、思科、高盛等至少涨超1%，在道指成分股领跑，耐克则跌0.6%，联合健康跌0.8%，宝洁跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3002328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "据消息人士称，谷歌计划在德国的基础设施领域投资数亿欧元。",
-          "url": "https://flash.jin10.com/detail/20251111180516272800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "Gemini Space Station Inc.（GEMI）低开14%。",
-          "url": "https://wallstreetcn.com/livenews/3002863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
-          "url": "https://flash.jin10.com/detail/20251111115423827800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时18分"
-        },
-        {
-          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3002225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "纽交所金矿股指数涨3.7%，创10月16日以来最佳盘中表现。 GAU涨13.2%，赫克拉矿业涨7.7%，ASM涨7%，THM涨7.2%，PPTA涨6%，AG涨5.3%，巴里克矿业涨5.3%，金田公司涨5.2%，哈莫尼黄金和B2gold涨5%，泛美白银涨4.9%，科尔黛伦矿业涨4%，金矿股ETF涨3.2%，黄金矿工因素指数ETF涨3.2%，白银ETF涨2.7%，金条价格ETF涨2.1%，黄金ETF涨1.9%。 此外，多伦多上市的Santacruz Silver Mining Ltd.涨17%，创最近14周最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3002210",
+          "title": "金价跌穿4100美元",
+          "url": "https://wallstreetcn.com/livenews/3002885",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "俄乌战争中的欧洲抉择",
-          "url": "https://www.toutiao.com/trending/7571314467863023110/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时20分]"
+          "time_info": "00时23分"
         }
       ]
     }
