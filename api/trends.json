@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T03:15:03.094429+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2025-11-14T04:20:45.324162+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时15分]"
+          "appearance_count": 3,
+          "time_info": "[02时25分 ~ 04时20分]"
         },
         {
           "title": "美联储哈玛克：时间将证明人工智能公司的估值是否合理。",
@@ -59,7 +60,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         },
@@ -70,7 +71,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
         }
@@ -89,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时20分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -101,8 +102,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时20分]"
         }
       ]
     },
@@ -136,8 +137,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 04时20分]"
         }
       ]
     }
