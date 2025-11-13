@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T19:16:30.165875+08:00",
-  "total_titles_processed": 1733,
+  "generated_at": "2025-11-13T20:37:52.438705+08:00",
+  "total_titles_processed": 1840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -20,6 +20,17 @@
           "time_info": "[16时25分 ~ 18时20分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时16分 ~ 20时37分]"
+        },
+        {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
           "url": "https://flash.jin10.com/detail/20251113050804559800",
           "source": "金十数据",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
         },
         {
           "title": "OpenAI发布GPT-5.1",
@@ -67,6 +67,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
           "url": "https://www.zhihu.com/question/1972154575545955995",
           "source": "知乎",
@@ -88,17 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "阿里股价直线拉升！报道：公司计划全面改版“通义”AI应用，新一代Qwen直接对标ChatGPT",
@@ -132,6 +133,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
+        },
+        {
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -170,7 +182,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
@@ -247,6 +259,17 @@
           "time_info": "[12时23分 ~ 13时18分]"
         },
         {
+          "title": "据华尔街日报：人工智能编码初创公司Cursor融资23亿美元，估值293亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113200430334800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "雪佛龙选择美国得州为旗下首个人工智能（AI）数据中心电力（供应）项目（的地址）。",
           "url": "https://wallstreetcn.com/livenews/3003523",
           "source": "华尔街见闻-快讯",
@@ -272,7 +295,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
@@ -281,7 +304,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -292,7 +315,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -303,7 +326,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时16分"
         },
@@ -317,6 +340,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
+          "url": "https://wallstreetcn.com/livenews/3004151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "谷歌：欧盟新的反垄断调查或将损害欧洲用户利益。",
+          "url": "https://flash.jin10.com/detail/20251113191351975800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "报道：欧盟准备就新闻媒体排名问题对谷歌启动新的调查",
@@ -398,6 +443,17 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "欧洲多国相继警告或将与俄罗斯爆发战争",
+          "url": "https://news.ifeng.com/c/8oFczqMXc9t",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时20分 ~ 20时37分]"
+        },
+        {
           "title": "巴基斯坦防长：国家处于战争状态",
           "url": "https://www.toutiao.com/trending/7570581306276790299/",
           "source": "今日头条",
@@ -408,17 +464,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 06时17分]"
-        },
-        {
-          "title": "欧洲多国相继警告或将与俄罗斯爆发战争",
-          "url": "https://news.ifeng.com/c/8oFczqMXc9t",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时16分]"
         },
         {
           "title": "巴基斯坦为何进行大规模战争动员",
