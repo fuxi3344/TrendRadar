@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T00:22:03.753331+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-14T01:18:15.879929+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3759294",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -25,9 +26,26 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：Cognizant将收购3Cloud，打造微软Azure服务和企业人工智能转型领域的领先力量。",
+          "url": "https://flash.jin10.com/detail/20251114005555049800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
+          "time_info": "01时18分"
         }
       ]
     },
@@ -42,9 +60,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 01时18分]"
         }
       ]
     }
