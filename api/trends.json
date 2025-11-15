@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T04:17:36.209053+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-16T05:14:13.030772+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -43,11 +43,12 @@
             20,
             16,
             18,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 05时14分]"
         },
         {
           "title": "埃及外长和巴勒斯坦副总统强调，要确保联合国安理会对加沙的决议有助于巩固战争结束，并为实现公正、全面的和平创造条件。",
@@ -57,8 +58,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     },
@@ -74,8 +75,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时17分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 05时14分]"
         }
       ]
     }
