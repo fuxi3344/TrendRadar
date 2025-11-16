@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T11:16:50.759887+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2025-11-16T12:23:39.082678+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 11时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 12时23分]"
         },
         {
           "title": "埃及外长和巴勒斯坦副总统强调，要确保联合国安理会对加沙的决议有助于巩固战争结束，并为实现公正、全面的和平创造条件。",
@@ -43,11 +43,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 11时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时23分 ~ 12时23分]"
         }
       ]
     },
@@ -64,8 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 11时16分]"
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 12时23分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
