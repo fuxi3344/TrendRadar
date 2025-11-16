@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:22:29.468309+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-11-16T22:15:07.763501+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 21时22分]"
+          "appearance_count": 7,
+          "time_info": "[16时20分 ~ 22时15分]"
         },
         {
           "title": "高市不收回恶劣言论，美学者评“存亡危机事态” ：日军曾借此发动侵华战争",
@@ -71,11 +72,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E7%85%BD%E5%8A%A8%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E4%25B8%258D%25E9%259C%2580%25E8%25A6%2581%25E7%2585%25BD%25E5%258A%25A8%25E6%2588%2598%25E4%25BA%2589%25E7%259A%2584%25E9%25A6%2596%25E7%259B%25B8%2523%26dgr%3D0%26flag%3D1%26pos%3D19%26cate%3D5001%26band_rank%3D19%26stream_entry_id%3D31%26realpos%3D19%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26display_time%3D1763298238%26pre_seqid%3D17632982382700200557559&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时22分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时22分 ~ 22时15分]"
         }
       ]
     },
@@ -83,6 +85,19 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时20分 ~ 22时15分]"
+        },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
           "url": "https://www.cls.cn/detail/2201480",
@@ -107,19 +122,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时14分]"
-        },
-        {
-          "title": "Gemini3.0能碾压GPT-5.1吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时20分 ~ 21时22分]"
         }
       ]
     },
@@ -144,11 +146,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时31分 ~ 21时22分]"
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 22时15分]"
         }
       ]
     }
