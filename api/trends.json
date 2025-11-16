@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:17:02.486756+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2025-11-16T18:17:32.117436+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,19 @@
           "time_info": "[00时18分 ~ 17时17分]"
         },
         {
+          "title": "高市不收回恶劣言论，美学者评“存亡危机事态” ：日军曾借此发动侵华战争",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31973113",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时23分 ~ 18时17分]"
+        },
+        {
           "title": "埃及外长和巴勒斯坦副总统强调，要确保联合国安理会对加沙的决议有助于巩固战争结束，并为实现公正、全面的和平创造条件。",
           "url": "https://flash.jin10.com/detail/20251115182817875800",
           "source": "金十数据",
@@ -41,19 +54,6 @@
           "time_info": "[00时18分 ~ 07时16分]"
         },
         {
-          "title": "高市不收回恶劣言论，美学者评“存亡危机事态” ：日军曾借此发动侵华战争",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31973113",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时23分 ~ 17时17分]"
-        },
-        {
           "title": "日本学者：如果日本同中国爆发战争，日本将被毁灭",
           "url": "https://news.ifeng.com/c/8oK1dOjbJSh",
           "source": "凤凰网",
@@ -62,8 +62,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时20分 ~ 18时17分]"
         }
       ]
     },
@@ -80,8 +80,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 17时17分]"
+          "appearance_count": 17,
+          "time_info": "[00时18分 ~ 18时17分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -103,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 17时17分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 18时17分]"
         }
       ]
     },
