@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:14:40.907054+08:00",
-  "total_titles_processed": 771,
+  "generated_at": "2025-11-17T12:24:34.092698+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -16,11 +16,12 @@
             5,
             7,
             10,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 11时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 12时24分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -33,12 +34,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时22分 ~ 09时18分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "日本不需要煽动战争的首相",
@@ -63,12 +75,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "胡锡进：一场新的战争似乎迫在眉睫",
+          "url": "https://news.ifeng.com/c/8oLs3awMEWW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
@@ -84,6 +107,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117120035076800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         }
       ]
     },
@@ -98,7 +132,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
@@ -115,7 +149,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
         }
