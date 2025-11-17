@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T07:15:47.748068+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-11-17T09:18:47.083965+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时22分 ~ 07时15分]"
+          "appearance_count": 8,
+          "time_info": "[02时22分 ~ 09时18分]"
         }
       ]
     },
@@ -44,11 +45,12 @@
           "source": "微博",
           "ranks": [
             7,
-            6
+            6,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "日本学者：如果日本同中国爆发战争，日本将被毁灭",
