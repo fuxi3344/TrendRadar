@@ -1,8 +1,116 @@
 {
-  "generated_at": "2025-11-18T17:20:06.498801+08:00",
-  "total_titles_processed": 1494,
+  "generated_at": "2025-11-18T18:20:58.276381+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
+          "url": "https://flash.jin10.com/detail/20251118064556616800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "重庆：到2030年，人工智能终端产业规模达3000亿元以上",
+          "url": "https://wallstreetcn.com/livenews/3006446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
+          "url": "https://flash.jin10.com/detail/20251118120343282800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时18分]"
+        },
+        {
+          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
+          "url": "https://flash.jin10.com/detail/20251118004426248800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时17分 ~ 02时25分]"
+        },
+        {
+          "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
+          "url": "https://flash.jin10.com/detail/20251118051844797800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
+          "url": "https://flash.jin10.com/detail/20251118175557810800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
+          "url": "https://www.cls.cn/detail/2202782",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
+          "url": "https://flash.jin10.com/detail/20251117231526009800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 9,
@@ -115,92 +223,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
-          "url": "https://flash.jin10.com/detail/20251118064556616800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
-          "url": "https://flash.jin10.com/detail/20251118120343282800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251118004426248800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时25分]"
-        },
-        {
-          "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
-          "url": "https://flash.jin10.com/detail/20251118051844797800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
-          "url": "https://flash.jin10.com/detail/20251118154840821800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
-          "url": "https://www.cls.cn/detail/2202782",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
-          "url": "https://flash.jin10.com/detail/20251117231526009800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 7,
       "titles": [
@@ -213,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时18分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[09时18分 ~ 18时20分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -261,6 +283,18 @@
           "time_info": "11时11分"
         },
         {
+          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时20分]"
+        },
+        {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
           "url": "https://wallstreetcn.com/livenews/3006029",
           "source": "华尔街见闻-快讯",
@@ -271,17 +305,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
         }
       ]
     },
@@ -297,11 +320,12 @@
             19,
             4,
             14,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时25分 ~ 17时20分]"
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 18时20分]"
         },
         {
           "title": "高市早苗在战争边缘上演危险游戏",
