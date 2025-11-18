@@ -1,467 +1,95 @@
 {
-  "generated_at": "2025-11-18T23:20:13.927523+08:00",
-  "total_titles_processed": 1920,
+  "generated_at": "2025-11-19T00:24:10.111179+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 14,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
       "titles": [
         {
-          "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
-          "url": "https://flash.jin10.com/detail/20251118064556616800",
+          "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
+          "url": "https://flash.jin10.com/detail/20251119000857307800",
           "source": "金十数据",
           "ranks": [
-            1
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "00时24分"
         },
         {
-          "title": "【上线仅一天 阿里千问App已冲入App Store免费应用总榜前四】截至11月18日18时许，阿里巴巴17日推出的AI应用千问App已迅速冲入苹果App Store免费应用总榜第四位，排名超越DeepSeek。其火爆人气一度导致服务器拥堵，“阿里巴巴千问崩了”的话题登上微博热搜，官方则以“我好着呢”幽默回应，侧面印证了其公测首日的火热流量。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3006520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "重庆：到2030年，人工智能终端产业规模达3000亿元以上",
-          "url": "https://wallstreetcn.com/livenews/3006446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时20分 ~ 19时17分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
-          "url": "https://flash.jin10.com/detail/20251118120343282800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时21分 ~ 13时18分]"
-        },
-        {
-          "title": "惠誉：在人工智能驱动的需求、政策转变和并购的背景下，北美发电商的评级保持稳定。",
-          "url": "https://flash.jin10.com/detail/20251118004426248800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时25分]"
-        },
-        {
-          "title": "美联储理事沃勒：如果不考虑人工智能行业，商业投资正在下降。",
-          "url": "https://flash.jin10.com/detail/20251118051844797800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时17分 ~ 07时16分]"
-        },
-        {
-          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
-          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "title": "谷歌：即日起，美国地区的Google AI Pro和Ultra订阅用户可以使用Gemini 3 Pro。",
+          "url": "https://flash.jin10.com/detail/20251119000659140800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时24分"
+          "time_info": "00时24分"
         },
         {
-          "title": "韩国与阿联酋签署人工智能战略合作框架。",
-          "url": "https://flash.jin10.com/detail/20251118184134113800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时17分"
-        },
-        {
-          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
-          "url": "https://flash.jin10.com/detail/20251118175557810800",
-          "source": "金十数据",
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
-        },
-        {
-          "title": "高盛：美股已消化了人工智能的大部分潜在收益 但仍可能继续涨…",
-          "url": "https://www.cls.cn/detail/2202782",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "据Axios：美国商务部延长特朗普时期人工智能出口计划期限。",
-          "url": "https://flash.jin10.com/detail/20251117231526009800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "美方高级官员：美国与沙特预计将达成国防、核能及人工智能相关协议",
-          "url": "https://flash.jin10.com/detail/20251118222538177800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "市场消息：人工智能云初创公司Lambda新一轮融资由TWG Global领投，本轮融资将用于购置英伟达GPU及扩建数据中心。",
-          "url": "https://flash.jin10.com/detail/20251118200703029800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
-          "url": "https://flash.jin10.com/detail/20251118222128333800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美股三大期指盘前涨跌不一 获巴菲特建仓谷歌涨近4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2202991",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时21分]"
-        },
-        {
-          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
-          "url": "https://wallstreetcn.com/articles/3759493",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时16分]"
-        },
-        {
-          "title": "如何看待谷歌用 AI 找 FFmpeg 的 bug 并逼维护者修复，遭怒怼「有本事自己修」？",
-          "url": "https://www.zhihu.com/question/1970226468920471782",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时10分 ~ 14时26分]"
-        },
-        {
-          "title": "标普500指数初步收跌约1%，金融、能源、科技、原材料、工业板块至多跌约2%，电信板块仍然涨超0.9%。 纳斯达克100指数初步收跌0.9%，成分股中，Booking、Trade Desk、Shopify、高通初步至多收跌4.8%，安进则涨1.4%，再生元制药涨1.7%，谷歌C涨2.9%，谷歌A涨3.1%。 美国运通初步收跌约4.3%，Salesforce、IBM至多跌2.7%，领跌道指成分股，英伟达跌1.9%，苹果跌1.8%，安进与强生则涨超1%。 半导体指数跌1.5%，银行指数跌2.6%，小盘股指跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3006051",
+          "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
+          "url": "https://wallstreetcn.com/livenews/3006643",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "谷歌：将投资建设两个面向跨印度洋地区的全新连接枢纽。",
-          "url": "https://flash.jin10.com/detail/20251117234205955800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "市场消息：美国最高法院拒绝受理针对苹果、谷歌和LG的专利上诉案。",
-          "url": "https://flash.jin10.com/detail/20251118002000418800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时17分"
-        },
-        {
-          "title": "谷歌A(GOOGL.O)：WeatherNext 2的预报速度提升了8倍。",
-          "url": "https://flash.jin10.com/detail/20251117230825709800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "市场消息：谷歌DeepMind和谷歌研究院正在开发先进天气预报模型Weathernext 2。",
-          "url": "https://flash.jin10.com/detail/20251117230741597800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "谷歌母公司Alphabet涨5.5%，盘中市值3.5万亿美元，13F报告显示，伯克希尔哈撒韦建仓做多该公司股票，为其第十大美股重仓股。",
-          "url": "https://wallstreetcn.com/livenews/3005936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股三大指数齐跌，美债美元走强，金价三连跌，加密货币再大跌",
           "url": "https://wallstreetcn.com/articles/3759498",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            3,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时18分 ~ 23时20分]"
-        },
-        {
-          "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时14分]"
-        },
-        {
-          "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时17分]"
-        },
-        {
-          "title": "美股三大指数下挫，美债美元走强，金价三连跌，加密货币再大跌",
-          "url": "https://wallstreetcn.com/articles/3759498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时16分"
-        },
-        {
-          "title": "金十图示：2025年11月18日（周二）上海金早盘价为921.22元/克，较国际金价(917.98元/克)，高3.24元/克",
-          "url": "https://flash.jin10.com/detail/20251118110222619800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时11分"
-        },
-        {
-          "title": "全球市场恐慌发酵：日本股债汇三杀，欧股全线下跌，比特币下破9万美元关口，金价跌破4000美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时20分 ~ 20时37分]"
-        },
-        {
-          "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
-          "url": "https://wallstreetcn.com/livenews/3006029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        },
-        {
-          "title": "市场消息：激进投资公司埃利奥特已持有巴里克黄金(GOLD.N)的大量股份。此前，由于运营受挫和成本超支，这家黄金生产商在金价飙升之际落后于同行。",
-          "url": "https://flash.jin10.com/detail/20251118224254818800",
-          "source": "金十数据",
-          "ranks": [
-            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 15时18分]"
-        },
-        {
-          "title": "网络安全公司Cloudflare发生故障 ChatGPT、X等网站访问受阻",
-          "url": "https://flash.jin10.com/detail/20251118203407775800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        },
-        {
-          "title": "OpenAI状态页面：部分用户无法访问ChatGPT和平台官网。",
-          "url": "https://flash.jin10.com/detail/20251118202012120800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "00时24分"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "中国已经不是甲午战争后的中国",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E7%94%B2%E5%8D%88%E6%88%98%E4%BA%89%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26cate%3D5001%26stream_entry_id%3D31%26dgr%3D0%26pos%3D19%26realpos%3D19%26c_type%3D31%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E5%25B7%25B2%25E7%25BB%258F%25E4%25B8%258D%25E6%2598%25AF%25E7%2594%25B2%25E5%258D%2588%25E6%2588%2598%25E4%25BA%2589%25E5%2590%258E%25E7%259A%2584%25E4%25B8%25AD%25E5%259B%25BD%2523%26filter_type%3Drealtimehot%26band_rank%3D19%26display_time%3D1763445636%26pre_seqid%3D176344563682102812416155&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E7%94%B2%E5%8D%88%E6%88%98%E4%BA%89%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26pos%3D17%26realpos%3D17%26lcate%3D5001%26band_rank%3D17%26filter_type%3Drealtimehot%26q%3D%2523%25E4%25B8%25AD%25E5%259B%25BD%25E5%25B7%25B2%25E7%25BB%258F%25E4%25B8%258D%25E6%2598%25AF%25E7%2594%25B2%25E5%258D%2588%25E6%2588%2598%25E4%25BA%2589%25E5%2590%258E%25E7%259A%2584%25E4%25B8%25AD%25E5%259B%25BD%2523%26c_type%3D31%26flag%3D0%26display_time%3D1763457662%26pre_seqid%3D17634576620800280340176&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            19,
-            4,
-            14,
-            10,
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时25分 ~ 23时20分]"
-        },
-        {
-          "title": "高市早苗在战争边缘上演危险游戏",
-          "url": "https://www.douyin.com/hot/2309539",
-          "source": "抖音",
-          "ranks": [
-            15,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时10分 ~ 13时18分]"
-        },
-        {
-          "title": "如何评价希腊独立战争（1821 年 2 月 22 日—1829 年 9 月 12 日）？",
-          "url": "https://www.zhihu.com/question/1967615714648126737",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 02时25分]"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 00时24分]"
         }
       ]
     }
