@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T18:20:58.276381+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2025-11-18T19:17:09.889355+08:00",
+  "total_titles_processed": 1691,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/livenews/3006446",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时20分 ~ 19时17分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
@@ -77,13 +78,24 @@
           "time_info": "16时24分"
         },
         {
+          "title": "韩国与阿联酋签署人工智能战略合作框架。",
+          "url": "https://flash.jin10.com/detail/20251118184134113800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
           "url": "https://flash.jin10.com/detail/20251118175557810800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时20分"
         },
@@ -235,8 +247,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时18分 ~ 18时20分]"
+          "appearance_count": 10,
+          "time_info": "[09时18分 ~ 19时17分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -288,11 +300,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时17分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -324,8 +337,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时25分 ~ 18时20分]"
+          "appearance_count": 11,
+          "time_info": "[14时25分 ~ 19时17分]"
         },
         {
           "title": "高市早苗在战争边缘上演危险游戏",
