@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T19:17:09.889355+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2025-11-18T20:37:36.895226+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "英伟达(NVDA.O)表示，与日本理化学研究所（RIKEN）推出了用于人工智能和量子计算的新型超级计算机，推动了日本的科学前沿。两台新的超级计算机将于2026年春季投入使用，而FugakuNEXT的目标则是在2030年投入使用。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "【上线仅一天 阿里千问App已冲入App Store免费应用总榜前四】截至11月18日18时许，阿里巴巴17日推出的AI应用千问App已迅速冲入苹果App Store免费应用总榜第四位，排名超越DeepSeek。其火爆人气一度导致服务器拥堵，“阿里巴巴千问崩了”的话题登上微博热搜，官方则以“我好着呢”幽默回应，侧面印证了其公测首日的火热流量。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3006520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "重庆：到2030年，人工智能终端产业规模达3000亿元以上",
@@ -84,7 +95,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -120,6 +131,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "市场消息：人工智能云初创公司Lambda新一轮融资由TWG Global领投，本轮融资将用于购置英伟达GPU及扩建数据中心。",
+          "url": "https://flash.jin10.com/detail/20251118200703029800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -247,8 +269,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时18分 ~ 19时17分]"
+          "appearance_count": 11,
+          "time_info": "[09时18分 ~ 20时37分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -304,8 +326,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时20分 ~ 19时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时20分 ~ 20时37分]"
         },
         {
           "title": "高盛：各国央行可能在11月大量购金，维持明年底4900的金价预期",
@@ -318,6 +340,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时21分 ~ 15时18分]"
+        },
+        {
+          "title": "网络安全公司Cloudflare发生故障 ChatGPT、X等网站访问受阻",
+          "url": "https://flash.jin10.com/detail/20251118203407775800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "OpenAI状态页面：部分用户无法访问ChatGPT和平台官网。",
+          "url": "https://flash.jin10.com/detail/20251118202012120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         }
       ]
     },
@@ -337,8 +400,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时25分 ~ 19时17分]"
+          "appearance_count": 13,
+          "time_info": "[14时25分 ~ 20时37分]"
         },
         {
           "title": "高市早苗在战争边缘上演危险游戏",
@@ -365,25 +428,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 02时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时21分 ~ 15时18分]"
         }
       ]
     }
