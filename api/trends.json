@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T18:19:50.445457+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-11-19T19:15:56.238317+08:00",
+  "total_titles_processed": 1491,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时17分 ~ 18时19分]"
+          "appearance_count": 10,
+          "time_info": "[09时17分 ~ 19时15分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -31,11 +32,26 @@
             7,
             19,
             20,
-            28
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时10分 ~ 19时15分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时10分 ~ 18时19分]"
+          "time_info": "[11时11分 ~ 19时15分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -51,19 +67,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时26分 ~ 09时17分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 18时19分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -110,11 +113,12 @@
           "ranks": [
             9,
             18,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 19时15分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -201,7 +205,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：通过在微软(MSFT.O)全新Fairwater人工智能超级工厂中采用英伟达Spectrum-X以太网交换机，扩大与微软的合作范围。",
@@ -224,6 +228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
+        },
+        {
+          "title": "一个名为“人工智能基础设施联盟”的科技友好型组织将于周三晚在美国白宫附近举行招待会，正式启动。",
+          "url": "https://flash.jin10.com/detail/20251119191139085800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
@@ -404,8 +419,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 18时19分]"
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 19时15分]"
+        },
+        {
+          "title": "中方：日本战争殖民罪行不容翻案",
+          "url": "https://www.toutiao.com/trending/7573764930160246793/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 19时15分]"
         },
         {
           "title": "《崩坏•星穹铁道》3.7 版本最新推出的常驻玩法货币战争是否在很大程度上提高了玩家活跃度？",
@@ -428,17 +454,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 11时11分]"
-        },
-        {
-          "title": "中方：日本战争殖民罪行不容翻案",
-          "url": "https://www.toutiao.com/trending/7573764930160246793/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         }
       ]
     },
@@ -452,11 +467,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时17分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 19时15分]"
         }
       ]
     },
