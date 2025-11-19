@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T16:23:47.442234+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-11-19T17:20:33.668060+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,29 @@
           "url": "https://wallstreetcn.com/articles/3759657",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 16时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时17分 ~ 17时20分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            12,
+            13,
+            6,
+            7,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时10分 ~ 17时20分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -48,20 +66,17 @@
           "time_info": "[11时11分 ~ 16时23分]"
         },
         {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            12,
-            13,
-            6,
+            10,
             7,
-            19
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[11时10分 ~ 16时23分]"
+          "time_info": "[11时11分 ~ 17时20分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -77,18 +92,6 @@
           "time_info": "[00时24分 ~ 07时16分]"
         },
         {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 16时23分]"
-        },
-        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -98,6 +101,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时17分 ~ 13时18分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 17时20分]"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -122,18 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时17分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时23分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -399,8 +403,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 16时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时20分]"
         },
         {
           "title": "《崩坏•星穹铁道》3.7 版本最新推出的常驻玩法货币战争是否在很大程度上提高了玩家活跃度？",
@@ -439,8 +443,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 15时17分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 17时20分]"
         }
       ]
     },
