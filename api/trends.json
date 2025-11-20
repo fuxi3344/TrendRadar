@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T12:20:38.559552+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2025-11-20T13:18:37.840792+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-20）",
+          "url": "https://flash.jin10.com/detail/20251120115321334800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时18分]"
+        },
+        {
           "title": "沙特人工智能初创公司Humain：和xAI建立合作伙伴关系，将在沙特阿拉伯建设下一代AI计算能力，并在该王国部署Grok，以支持沙特“最具AI赋能国家”的目标。",
           "url": "https://flash.jin10.com/detail/20251120020650627800",
           "source": "金十数据",
@@ -41,17 +53,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时15分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-20）",
-          "url": "https://flash.jin10.com/detail/20251120115321334800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "据英国金融时报：华纳音乐(WMG.O)已与人工智能初创公司UDIO达成授权协议，将以其歌曲为基础，驱动一个新的流媒体平台。",
@@ -86,6 +87,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时15分]"
+        },
+        {
+          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251120114107161800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时18分]"
         },
         {
           "title": "沙特人工智能初创公司Humain：和Adobe(ADBE.O)在美沙投资论坛上宣布全球战略伙伴关系，将为阿拉伯世界构建定制的AI模型和AI驱动的应用程序。",
@@ -189,17 +202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
-        },
-        {
-          "title": "美联储10月会议纪要显示，许多与会者反对12月再次降息。英伟达强劲业绩和乐观展望缓解人工智能泡沫担忧。纳指隔夜收涨近0.6%，现货黄金早盘一度走高，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251120114107161800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "美国批准向沙特和阿联酋人工智能公司出口芯片",
@@ -307,8 +309,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时16分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时16分 ~ 13时18分]"
         },
         {
           "title": "Gemini3是目前最强AI吗",
@@ -323,8 +325,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 13时18分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -337,8 +339,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时25分 ~ 12时20分]"
+          "appearance_count": 10,
+          "time_info": "[02时25分 ~ 13时18分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -403,11 +405,12 @@
           "url": "https://www.zhihu.com/question/1974483598263476355",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -566,8 +569,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时22分 ~ 12时20分]"
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 13时18分]"
         },
         {
           "title": "藤田高景人民日报刊文：日本不能再次滑向战争深渊",
