@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T21:29:17.390868+08:00",
-  "total_titles_processed": 1790,
+  "generated_at": "2025-11-20T22:18:23.839637+08:00",
+  "total_titles_processed": 1890,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：AI（人工智能）已经达到一个“临界点”。",
@@ -185,6 +185,17 @@
           "time_info": "[11时08分 ~ 12时20分]"
         },
         {
+          "title": "NORM AI宣布获得黑石集团5000万美元投资，并推出全新原生人工智能律师事务所NORM LAW。",
+          "url": "https://flash.jin10.com/detail/20251120220815549800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
           "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
           "url": "https://flash.jin10.com/detail/20251120104126755800",
           "source": "金十数据",
@@ -216,6 +227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "思科：思科投资公司对空间智能人工智能初创企业世界实验室科技（World Labs）公司进行投资。",
+          "url": "https://flash.jin10.com/detail/20251120220726945800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "据华尔街日报：美国批准向中东出售人工智能芯片的交易，政府官员表示，商务部计划批准向阿联酋和沙特出口7万枚先进人工智能芯片。官员表示，出口协议包括批准英伟达的GB300或等效芯片。",
@@ -260,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "谷歌：西屋公司与谷歌云合作，利用双方的专用模型开发定制的人工智能平台。",
+          "url": "https://flash.jin10.com/detail/20251120220558855800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "据AXIOS：美国企业将与白宫官员就人工智能出口问题会面。",
@@ -364,7 +397,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "Gemini3有哪些新功能",
@@ -442,6 +475,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时17分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3008020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -573,7 +628,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
@@ -689,6 +744,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "OpenAI数据中心工厂将于2026年第一季度尽快开业。（The Information）",
+          "url": "https://flash.jin10.com/detail/20251120220406915800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        },
+        {
+          "title": "软银将向OpenAI数据中心工厂投资高达30亿美元。",
+          "url": "https://flash.jin10.com/detail/20251120220240882800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
         }
       ]
     },
@@ -704,8 +781,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时19分 ~ 21时29分]"
+          "appearance_count": 5,
+          "time_info": "[18时19分 ~ 22时18分]"
         },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
