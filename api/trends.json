@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T22:18:23.839637+08:00",
-  "total_titles_processed": 1890,
+  "generated_at": "2025-11-20T23:18:53.538018+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：AI（人工智能）已经达到一个“临界点”。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "普京：俄应在生成式人工智能领域掌握全套自主技术",
+          "url": "https://wallstreetcn.com/livenews/3008037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "联想集团董事长杨元庆：我们并不认为存在人工智能泡沫",
@@ -65,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时15分]"
+        },
+        {
+          "title": "美联储理事Barr：人工智能（AI）给美国GDP带来重大的增长。 AI还没有带来生产力增长的效应。",
+          "url": "https://wallstreetcn.com/livenews/3008036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "据英国金融时报：华纳音乐(WMG.O)已与人工智能初创公司UDIO达成授权协议，将以其歌曲为基础，驱动一个新的流媒体平台。",
@@ -185,13 +207,24 @@
           "time_info": "[11时08分 ~ 12时20分]"
         },
         {
+          "title": "美联储理事巴尔：人工智能尚未转化为生产力提升。",
+          "url": "https://flash.jin10.com/detail/20251120224606160800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "NORM AI宣布获得黑石集团5000万美元投资，并推出全新原生人工智能律师事务所NORM LAW。",
           "url": "https://flash.jin10.com/detail/20251120220815549800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -205,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时08分"
+        },
+        {
+          "title": "美联储理事巴尔：人工智能正在推动GDP实现显著增长。",
+          "url": "https://flash.jin10.com/detail/20251120224412279800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "市场消息：Meta Platforms(META.O)首席人工智能科学家Yann LeCun拟最快于本周宣布离职并创办新公司，Meta将与Yann LeCun的新初创公司合作。",
@@ -235,7 +279,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -290,7 +334,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -397,7 +441,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "Gemini3有哪些新功能",
@@ -477,26 +521,15 @@
           "time_info": "[00时23分 ~ 06时17分]"
         },
         {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
-          "url": "https://wallstreetcn.com/livenews/3008020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
           "url": "https://www.zhihu.com/question/1974854700256944776",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
@@ -531,6 +564,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时35分 ~ 21时29分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3008020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时18分]"
         },
         {
           "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
@@ -590,6 +635,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时17分"
+        },
+        {
+          "title": "谷歌涨3.2%总市值达到3.65万亿美元，略超过微软公司，进入美股总市值前三。",
+          "url": "https://wallstreetcn.com/livenews/3008034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "谷歌总市值超过微软 进入美股前三",
+          "url": "https://flash.jin10.com/detail/20251120224014841800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "美股盘前，英伟达延续此前涨势，现上涨超5%；AMD涨超5%；特斯拉、谷歌A涨超2%，Meta、亚马逊、微软涨1%。",
@@ -752,7 +819,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -763,7 +830,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
@@ -781,8 +848,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时19分 ~ 22时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时19分 ~ 23时18分]"
         },
         {
           "title": "英伟达业绩提振全球市场情绪，日经225涨超3%，纳指100期货涨1.9%，比特币升至9.2万美元，金价跌至4070美元",
