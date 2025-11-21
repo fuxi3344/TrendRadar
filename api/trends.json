@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T17:19:00.737490+08:00",
-  "total_titles_processed": 1599,
+  "generated_at": "2025-11-21T18:18:56.335307+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "Merck KGaA与Valo将利用人工智能（AI）技术，针对帕金森疾病开发药物。",
@@ -110,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时09分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：我们将讨论扩大可再生能源、数字治理和人工智能的规模。",
+          "url": "https://flash.jin10.com/detail/20251121175007535800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时18分"
         },
         {
           "title": "鸿海旗下VisionBay AI：计划在2026年上半年部署27兆瓦的GB300芯片。将成为台湾地区最大的先进GPU集群，也是亚太地区首个GB300人工智能数据中心。",
