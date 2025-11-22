@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T07:16:20.789173+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-22T09:14:41.325961+08:00",
+  "total_titles_processed": 694,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 07时16分]"
+          "appearance_count": 5,
+          "time_info": "[04时20分 ~ 09时14分]"
         },
         {
           "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时16分]"
+          "appearance_count": 3,
+          "time_info": "[06时18分 ~ 09时14分]"
         },
         {
           "title": "【美国四分之一失业者拥有本科或以上学历，创纪录水平】9月，美国25岁及以上、拥有至少本科学历的失业人口超过190万人，占全美失业总人数的四分之一。自1992年有数据记录以来，这一比例在2025年之前从未达到如此之高。摩根大通美国首席经济学家Michael Feroli指出，受过大学教育的人群失业率上升“应该会进一步加剧对人工智能引发失业的担忧”。与此同时，一系列大型企业宣布裁员，包括亚马逊、塔吉特和星巴克。就业服务公司Challenger, Gray & Christmas的最新报告显示，随着人工智能重塑行业格局以及成本削减加速，美国企业10月份宣布的裁员规模是二十多年来同期最高水平。",
@@ -83,7 +85,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -120,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时24分 ~ 03时15分]"
+        },
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时14分"
         },
         {
           "title": "谷歌：我们推出BigQuery AI。",
