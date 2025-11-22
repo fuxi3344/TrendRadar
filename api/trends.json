@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T18:16:50.099174+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2025-11-22T19:13:33.234084+08:00",
+  "total_titles_processed": 1296,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 18时16分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 19时13分]"
         },
         {
           "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
@@ -29,11 +29,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时02分 ~ 18时16分]"
+          "appearance_count": 9,
+          "time_info": "[11时02分 ~ 19时13分]"
         },
         {
           "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
@@ -44,8 +45,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时16分 ~ 18时16分]"
+          "appearance_count": 7,
+          "time_info": "[13时16分 ~ 19时13分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -107,12 +108,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时24分"
+        },
+        {
+          "title": "Gemini3适合用来编程吗",
+          "url": "https://www.douyin.com/hot/2314319",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "集体诉讼显示：Figma Inc.在训练自家人工智能（AI）模型方面并没有（事前）征求用户的意见。",
@@ -179,6 +191,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时15分]"
+        },
+        {
+          "title": "加拿大政府：（加法两国）领导人继续聚焦关键全球优先事项，如关键矿物、清洁能源和人工智能。",
+          "url": "https://flash.jin10.com/detail/20251122182257243800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "市场消息：花旗警告称，由于人工智能乐观情绪动摇，应对做多标普500指数保持谨慎。",
