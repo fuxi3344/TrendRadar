@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T01:14:39.134838+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2025-11-24T02:23:02.675254+08:00",
+  "total_titles_processed": 365,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
+        },
+        {
+          "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
+          "url": "https://flash.jin10.com/detail/20251123221310746800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "火箭军发视频：假如战争今天爆发",
@@ -24,17 +35,6 @@
           "source": "抖音",
           "ranks": [
             9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
-        },
-        {
-          "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
-          "url": "https://flash.jin10.com/detail/20251123221310746800",
-          "source": "金十数据",
-          "ranks": [
             11
           ],
           "is_new": false,
@@ -53,11 +53,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时14分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时23分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
