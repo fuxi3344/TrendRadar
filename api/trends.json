@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-24T06:16:35.367795+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2025-11-24T07:16:00.288913+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
       "match_count": 3,
       "titles": [
+        {
+          "title": "火箭军发视频：假如战争今天爆发",
+          "url": "https://www.douyin.com/hot/2315248",
+          "source": "抖音",
+          "ranks": [
+            9,
+            11,
+            21,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
+        },
         {
           "title": "日本共产党党报揭批：高市早苗企图建立战争国家",
           "url": "https://news.ifeng.com/c/8oWIRgbTmKd",
@@ -16,22 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 06时16分]"
-        },
-        {
-          "title": "火箭军发视频：假如战争今天爆发",
-          "url": "https://www.douyin.com/hot/2315248",
-          "source": "抖音",
-          "ranks": [
-            9,
-            11,
-            21,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "美国财长贝森特：美国总统特朗普正向俄罗斯施压，要求其结束战争。",
@@ -62,11 +63,12 @@
             16,
             17,
             23,
-            21
+            21,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时19分 ~ 06时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 07时16分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
