@@ -1,8 +1,72 @@
 {
-  "generated_at": "2025-11-25T02:26:51.366499+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2025-11-25T03:13:08.675374+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时13分]"
+        },
+        {
+          "title": "OpenAI：还将在ChatGPT Pulse中提供购物搜索内容，目前该功能仅向ChatGPT专业版用户开放。",
+          "url": "https://flash.jin10.com/detail/20251125024002118800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
+          "url": "https://flash.jin10.com/detail/20251125020806120800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时13分]"
+        },
+        {
+          "title": "OpenAI：在ChatGPT提供购物搜索功能。",
+          "url": "https://wallstreetcn.com/livenews/3009721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时26分 ~ 03时13分]"
+        },
+        {
+          "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
+          "url": "https://wallstreetcn.com/livenews/3009672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时17分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 人工智能",
       "match_count": 4,
@@ -25,11 +89,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 02时26分]"
+          "appearance_count": 3,
+          "time_info": "[01时17分 ~ 03时13分]"
         },
         {
           "title": "美国银行：与人工智能（AI）相关的（股票）抛售“过头了”。",
@@ -53,57 +118,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时26分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT购物调研工具 为假期购物做准备",
-          "url": "https://flash.jin10.com/detail/20251125020806120800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "OpenAI：在ChatGPT提供购物搜索功能。",
-          "url": "https://wallstreetcn.com/livenews/3009721",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时26分"
-        },
-        {
-          "title": "新一轮AI超级周期正在开启，汇丰预计OpenAI到2030年或需高达2070亿美元新融资",
-          "url": "https://wallstreetcn.com/livenews/3009672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时20分 ~ 01时17分]"
         }
       ]
     },
