@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T09:22:56.305875+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2025-11-24T11:22:21.843519+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             23,
             21,
             28,
-            18
+            18,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时19分 ~ 09时22分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
@@ -32,7 +33,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -92,6 +93,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 05时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
+          "url": "https://flash.jin10.com/detail/20251124110330638800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     }
