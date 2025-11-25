@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T14:28:15.800938+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2025-11-25T15:18:33.958089+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 15时18分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -54,6 +55,18 @@
           "time_info": "[06时17分 ~ 07时17分]"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时18分 ~ 15时18分]"
+        },
+        {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
           "url": "https://www.zhihu.com/question/1976223014631733240",
           "source": "知乎",
@@ -64,18 +77,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时17分 ~ 11时13分]"
-        },
-        {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "英伟达盘后跌2%，报道称，Meta寻求为自家数据中心采用谷歌TPUs。",
@@ -120,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -191,7 +203,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -202,8 +214,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 14时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时18分 ~ 15时18分]"
         },
         {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
@@ -353,6 +365,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "日本将把人工智能列入6大战略技术领域",
+          "url": "https://flash.jin10.com/detail/20251125141659367800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         }
       ]
     },
