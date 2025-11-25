@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T15:18:33.958089+08:00",
-  "total_titles_processed": 1313,
+  "generated_at": "2025-11-25T16:25:16.603549+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 16时25分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -43,6 +43,19 @@
           "time_info": "05时17分"
         },
         {
+          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
+          "url": "https://www.cls.cn/detail/2209826",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时25分]"
+        },
+        {
           "title": "谷歌大涨美股反弹，专家警示假期交易清淡或放大波动",
           "url": "https://flash.jin10.com/detail/20251125052238827800",
           "source": "金十数据",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时17分 ~ 07时17分]"
-        },
-        {
-          "title": "垂直整合程度最高的AI大厂！“新王”谷歌登基：整个硅谷都在颤抖？",
-          "url": "https://www.cls.cn/detail/2209826",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时18分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -88,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时25分]"
         },
         {
           "title": "详解Gemini3测试单",
@@ -121,17 +133,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
-        },
-        {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超6.8%，谷歌A涨6.3%",
@@ -203,7 +204,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
@@ -211,11 +212,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时18分 ~ 15时18分]"
+          "appearance_count": 7,
+          "time_info": "[09时18分 ~ 16时25分]"
         },
         {
           "title": "亚马逊将投资高达500亿美元，为美国政府机构扩展人工智能和超级计算基础设施。",
@@ -345,6 +347,17 @@
           "time_info": "09时18分"
         },
         {
+          "title": "网信部门依法集中查处一批存在人工智能生成合成内容标识违法违规问题的移动互联网应用程序",
+          "url": "https://wallstreetcn.com/livenews/3010068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "市场消息：谷歌(GOOG.O)与风险投资基金Accel合作，共同孵化印度人工智能初创企业。谷歌基金表示，下一波人工智能创新很可能来自印度。",
           "url": "https://flash.jin10.com/detail/20251125083310960800",
           "source": "金十数据",
@@ -373,7 +386,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
