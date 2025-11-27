@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:18:01.070485+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2025-11-28T05:15:49.615095+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "英国央行货币政策委员格林：（就人工智能权重问题）修正可能会蔓延。",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -57,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     },
@@ -76,8 +76,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -87,8 +87,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     },
