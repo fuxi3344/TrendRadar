@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-11-28T01:15:08.016192+08:00",
-  "total_titles_processed": 359,
+  "generated_at": "2025-11-28T02:24:24.456568+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek开源新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 02时24分]"
+        },
+        {
+          "title": "英国央行货币政策委员格林：（就人工智能权重问题）修正可能会蔓延。",
+          "url": "https://flash.jin10.com/detail/20251128005350230800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -16,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -27,8 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         }
       ]
     },
@@ -41,11 +69,12 @@
           "url": "https://www.cls.cn/detail/2213059",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -55,25 +84,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 02时24分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 人工智能",
+      "keyword_group": "战争",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek开源新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "国台办：“台独”意味着战争，是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32055351",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时24分"
         }
       ]
     }
