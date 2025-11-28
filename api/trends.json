@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T20:35:55.244810+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2025-11-28T21:29:28.302152+08:00",
+  "total_titles_processed": 1801,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时16分 ~ 20时35分]"
+          "appearance_count": 13,
+          "time_info": "[07时16分 ~ 21时29分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时18分 ~ 20时35分]"
+          "appearance_count": 7,
+          "time_info": "[15时18分 ~ 21时29分]"
         },
         {
           "title": "国家能源局综合司发布关于组织开展“人工智能+”能源试点工作的通知",
@@ -227,7 +227,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -376,8 +376,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时19分 ~ 20时35分]"
+          "appearance_count": 5,
+          "time_info": "[17时19分 ~ 21时29分]"
         },
         {
           "title": "匈牙利总理欧尔班：将前往莫斯科与普京会面。 将与普京讨论石油和天然气供应、乌克兰战争。",
