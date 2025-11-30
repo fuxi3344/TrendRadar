@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T17:17:04.879916+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2025-11-30T18:17:21.256363+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             6,
             7,
             10,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时25分 ~ 17时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时25分 ~ 18时17分]"
         },
         {
           "title": "美战机在委海岸附近盘旋 委防长称“战争即将来临”",
@@ -171,8 +172,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时20分 ~ 17时17分]"
+          "appearance_count": 23,
+          "time_info": "[00时20分 ~ 18时17分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -199,11 +200,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 17时17分]"
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 18时17分]"
         }
       ]
     },
