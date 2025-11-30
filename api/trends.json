@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:32:29.304837+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-11-30T13:17:29.295823+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -27,19 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时32分]"
-        },
-        {
-          "title": "委内瑞拉防长：战争即将来临",
-          "url": "https://news.ifeng.com/c/8ohIvQwyqyb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时25分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时17分]"
         },
         {
           "title": "美战机在委海岸附近盘旋 委防长称“战争即将来临”",
@@ -48,6 +37,17 @@
           "ranks": [
             7,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时25分 ~ 13时17分]"
+        },
+        {
+          "title": "委内瑞拉防长：战争即将来临",
+          "url": "https://news.ifeng.com/c/8ohIvQwyqyb",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -116,8 +116,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时17分]"
         }
       ]
     },
@@ -135,11 +135,12 @@
             3,
             2,
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 13时17分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
