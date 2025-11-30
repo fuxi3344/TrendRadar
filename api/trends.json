@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:16:24.781589+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2025-11-30T09:27:13.138392+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时27分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时27分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -38,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时27分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时27分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -67,11 +68,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时13分 ~ 07时16分]"
+          "appearance_count": 6,
+          "time_info": "[03时13分 ~ 09时27分]"
         }
       ]
     },
@@ -84,11 +86,12 @@
           "url": "https://flash.jin10.com/detail/20251129220829620800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时27分]"
         },
         {
           "title": "日本民众要求高市撤回侵略战争宣言",
