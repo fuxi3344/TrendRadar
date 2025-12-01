@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T15:21:42.204075+08:00",
-  "total_titles_processed": 1107,
+  "generated_at": "2025-12-01T16:28:12.643300+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时20分 ~ 09时42分]"
+        },
+        {
+          "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
+          "url": "https://flash.jin10.com/detail/20251201160943754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         },
         {
           "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
@@ -50,7 +61,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -91,7 +102,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -123,8 +134,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时20分 ~ 15时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时20分 ~ 16时28分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -149,6 +160,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
+          "url": "https://www.cls.cn/detail/2215337",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时28分"
         }
       ]
     },
@@ -177,22 +199,24 @@
             9,
             26,
             23,
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时21分]"
+          "appearance_count": 8,
+          "time_info": "[11时48分 ~ 16时28分]"
         },
         {
           "title": "俄罗斯能赢下俄乌战争吗",
           "url": "https://www.toutiao.com/trending/7578763503889026623/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时21分 ~ 16时28分]"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -218,7 +242,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
