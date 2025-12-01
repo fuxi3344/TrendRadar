@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T01:20:04.266574+08:00",
-  "total_titles_processed": 371,
+  "generated_at": "2025-12-02T02:29:20.625600+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -25,33 +26,36 @@
           "source": "百度热搜",
           "ranks": [
             17,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
           "url": "https://wallstreetcn.com/articles/3760461",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         }
       ]
     },
@@ -65,11 +69,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "俄乌战争什么样的结果对俄才算胜利",
@@ -107,8 +112,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时25分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时25分 ~ 02时29分]"
         }
       ]
     },
