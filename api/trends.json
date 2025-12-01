@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T12:47:48.202855+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2025-12-01T13:26:32.299605+08:00",
+  "total_titles_processed": 929,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -24,11 +24,12 @@
           "url": "https://flash.jin10.com/detail/20251201122301880800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 13时26分]"
         },
         {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
@@ -43,15 +44,37 @@
           "time_info": "[11时49分 ~ 12时47分]"
         },
         {
+          "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
+          "url": "https://flash.jin10.com/detail/20251201130151032800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-01）",
           "url": "https://flash.jin10.com/detail/20251201115633561800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
+          "url": "https://flash.jin10.com/detail/20251201125304161800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
         }
       ]
     },
@@ -116,8 +139,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时26分]"
         },
         {
           "title": "战争中设计的puzzle谜题",
@@ -125,11 +148,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[11时48分 ~ 13时26分]"
         },
         {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
@@ -138,7 +162,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -156,8 +180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时47分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 13时26分]"
         }
       ]
     },
