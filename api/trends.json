@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T07:16:04.676653+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-12-01T09:42:06.922158+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -17,22 +17,24 @@
             20,
             23,
             21,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时42分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时42分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -57,11 +59,12 @@
           "url": "https://www.zhihu.com/question/1923520417756321577",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时42分]"
         }
       ]
     },
@@ -77,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时42分]"
         }
       ]
     }
