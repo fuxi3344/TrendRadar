@@ -1,82 +1,33 @@
 {
-  "generated_at": "2025-12-01T23:19:39.025262+08:00",
-  "total_titles_processed": 1891,
+  "generated_at": "2025-12-02T00:25:08.290688+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 19,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时20分 ~ 09时42分]"
-        },
-        {
-          "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
-          "url": "https://flash.jin10.com/detail/20251201160943754800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时28分"
-        },
-        {
-          "title": "软银：和安川电机 (Yaskawa Electric Corporation)签署谅解备忘录，联合开发面向办公场景的人工智能机器人应用方案。将拓展机器人可执行的任务范围。",
-          "url": "https://flash.jin10.com/detail/20251201122301880800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时26分]"
-        },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
           "url": "https://www.zhihu.com/question/1978819912970555965",
           "source": "知乎",
           "ranks": [
-            12,
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
           "ranks": [
-            25,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 23时19分]"
-        },
-        {
-          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
-          "url": "https://flash.jin10.com/detail/20251201212133290800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时19分]"
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -85,434 +36,82 @@
           "ranks": [
             7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时19分]"
-        },
-        {
-          "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
-          "url": "https://wallstreetcn.com/livenews/3012731",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时47分]"
-        },
-        {
-          "title": "开源最强，逼平闭源顶流！DeepSeek发布V3.2系列模型，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
+          "time_info": "00时25分"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
           "url": "https://wallstreetcn.com/articles/3760468",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
-          "url": "https://wallstreetcn.com/livenews/3012849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
-          "url": "https://flash.jin10.com/detail/20251201130151032800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：人工智能将改变每一个行业。",
-          "url": "https://flash.jin10.com/detail/20251201224700548800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "REITs项目行业范围清单（2025年版）印发 人工智能基础设施项目在列",
-          "url": "https://wallstreetcn.com/livenews/3012941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-01）",
-          "url": "https://flash.jin10.com/detail/20251201115633561800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
-          "title": "日本央行审议委员中村豊明：我们必须警惕人工智能相关股票可能出现的估值过高问题。",
-          "url": "https://flash.jin10.com/detail/20251201125304161800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时26分"
-        },
-        {
-          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
-          "url": "https://flash.jin10.com/detail/20251201205933747800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "惠与（HPE）通过HPE Portfolio拓展英伟达AI计算。 双方将在法国Grenoble（格勒诺布尔）成立人工智能工厂实验室（AI Factory Lab）。",
-          "url": "https://wallstreetcn.com/livenews/3013101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
-          "url": "https://wallstreetcn.com/livenews/3013014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
-          "url": "https://www.cls.cn/detail/2215087",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 12时47分]"
-        },
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            28,
-            20,
-            23,
-            21,
-            22,
-            26,
-            29,
-            24,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时20分 ~ 17时25分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
-          "url": "https://flash.jin10.com/detail/20251130233204525800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时15分]"
-        },
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
             8
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时37分 ~ 23时19分]"
-        },
-        {
-          "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
-          "url": "https://www.cls.cn/detail/2215337",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时21分]"
-        },
-        {
-          "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
-          "url": "https://wallstreetcn.com/livenews/3012823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 15时21分]"
-        },
-        {
-          "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
-          "url": "https://www.cls.cn/detail/2215915",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3012928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "外卖大战 6 个月烧掉近 800 亿，这笔钱烧得值吗？这场「战争」目前看是谁赢了？",
-          "url": "https://www.zhihu.com/question/1978599248497960444",
-          "source": "知乎",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时48分 ~ 15时21分]"
-        },
         {
           "title": "战争中设计的puzzle谜题",
           "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E4%B8%AD%E8%AE%BE%E8%AE%A1%E7%9A%84puzzle%E8%B0%9C%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            9,
-            26,
-            23,
-            8,
-            22
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时48分 ~ 16时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：如果我们想要长久的和平，就需要了解战争的起点。",
-          "url": "https://flash.jin10.com/detail/20251201215140790800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "俄罗斯能赢下俄乌战争吗",
-          "url": "https://www.toutiao.com/trending/7578763503889026623/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时21分 ~ 16时28分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰的战争必须尽快结束。",
-          "url": "https://flash.jin10.com/detail/20251201215041038800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "欧盟外交与安全政策高级代表卡拉斯：现在帮助乌克兰的成本比让这场战争继续下去的情况下要便宜得多。",
-          "url": "https://flash.jin10.com/detail/20251201213736652800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
-          "url": "https://flash.jin10.com/detail/20251201112823735800",
+          "title": "乌克兰总统泽连斯基：俄罗斯不应因其在乌克兰的战争而获得任何回报。",
+          "url": "https://flash.jin10.com/detail/20251201234242201800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "00时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时25分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 14时29分]"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时21分 ~ 22时19分]"
-        },
-        {
-          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013078",
+          "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
+          "url": "https://wallstreetcn.com/livenews/3013130",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            17
+            21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时34分 ~ 22时19分]"
-        },
-        {
-          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
-          "url": "https://flash.jin10.com/detail/20251201211507412800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
-          "url": "https://flash.jin10.com/detail/20251201210253983800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月01日（周一）上海金午盘价为958元/克，较国际金价(963.11元/克)，低5.11元/克",
-          "url": "https://flash.jin10.com/detail/20251201150238954800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "金十图示：2025年12月01日（周一）上海金早盘价为961.25元/克，较国际金价(965.51元/克)，低4.26元/克",
-          "url": "https://flash.jin10.com/detail/20251201101746189800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时49分"
+          "time_info": "00时25分"
         }
       ]
     }
