@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T21:34:26.779689+08:00",
-  "total_titles_processed": 1717,
+  "generated_at": "2025-12-01T22:19:40.164844+08:00",
+  "total_titles_processed": 1786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -47,11 +47,24 @@
           "url": "https://flash.jin10.com/detail/20251201212133290800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时19分]"
+        },
+        {
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时19分]"
         },
         {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
@@ -66,13 +79,36 @@
           "time_info": "[11时49分 ~ 12时47分]"
         },
         {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时19分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "开源最强，逼平闭源顶流！DeepSeek发布V3.2系列模型，推理能力追平GPT-5",
           "url": "https://wallstreetcn.com/articles/3760461",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -86,17 +122,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
-        },
-        {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         },
         {
           "title": "据英国金融时报：汇丰签署协议，将使用Mistral的人工智能工具",
@@ -149,7 +174,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时34分"
         },
@@ -163,23 +188,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时37分"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -228,6 +242,18 @@
           "time_info": "[00时20分 ~ 05时15分]"
         },
         {
+          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
+          "url": "https://wallstreetcn.com/articles/3760440",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时37分 ~ 22时19分]"
+        },
+        {
           "title": "存储大厂打入“谷歌链”！SK海力士借机巩固HBM龙头地位",
           "url": "https://www.cls.cn/detail/2215337",
           "source": "财联社热门",
@@ -241,17 +267,6 @@
           "time_info": "[16时28分 ~ 18时21分]"
         },
         {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时37分 ~ 21时34分]"
-        },
-        {
           "title": "亚马逊和谷歌共推多云网络服务，加快云端互联",
           "url": "https://wallstreetcn.com/livenews/3012823",
           "source": "华尔街见闻-快讯",
@@ -262,6 +277,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时21分]"
+        },
+        {
+          "title": "谷歌CEO警告：美国AI监管混乱 恐在全球竞争中落后",
+          "url": "https://www.cls.cn/detail/2215915",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
@@ -277,70 +303,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 14时29分]"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 21时34分]"
-        },
-        {
-          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
-          "url": "https://flash.jin10.com/detail/20251201211507412800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        },
-        {
-          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
-          "url": "https://flash.jin10.com/detail/20251201210253983800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "战争",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "外卖大战 6 个月烧掉近 800 亿，这笔钱烧得值吗？这场「战争」目前看是谁赢了？",
@@ -371,6 +335,17 @@
           "time_info": "[11时48分 ~ 16时28分]"
         },
         {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：如果我们想要长久的和平，就需要了解战争的起点。",
+          "url": "https://flash.jin10.com/detail/20251201215140790800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "俄罗斯能赢下俄乌战争吗",
           "url": "https://www.toutiao.com/trending/7578763503889026623/",
           "source": "今日头条",
@@ -383,6 +358,28 @@
           "time_info": "[15时21分 ~ 16时28分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：乌克兰的战争必须尽快结束。",
+          "url": "https://flash.jin10.com/detail/20251201215041038800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
+          "title": "欧盟外交与安全政策高级代表卡拉斯：现在帮助乌克兰的成本比让这场战争继续下去的情况下要便宜得多。",
+          "url": "https://flash.jin10.com/detail/20251201213736652800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
           "url": "https://flash.jin10.com/detail/20251201112823735800",
           "source": "金十数据",
@@ -392,6 +389,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 14时29分]"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时21分 ~ 22时19分]"
+        },
+        {
+          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 22时19分]"
+        },
+        {
+          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
+          "url": "https://flash.jin10.com/detail/20251201211507412800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
+          "url": "https://flash.jin10.com/detail/20251201210253983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         }
       ]
     },
