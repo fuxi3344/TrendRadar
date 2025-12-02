@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T21:35:36.667258+08:00",
-  "total_titles_processed": 1789,
+  "generated_at": "2025-12-02T22:20:02.731285+08:00",
+  "total_titles_processed": 1865,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -24,6 +24,17 @@
           "time_info": "[00时25分 ~ 21时35分]"
         },
         {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 15时20分]"
+        },
+        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
@@ -34,22 +45,12 @@
             12,
             5,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时19分 ~ 21时35分]"
-        },
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时19分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[09时19分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -88,11 +89,12 @@
             6,
             9,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时19分 ~ 21时35分]"
+          "appearance_count": 18,
+          "time_info": "[09时19分 ~ 22时20分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -132,6 +134,18 @@
           "time_info": "[15时20分 ~ 16时27分]"
         },
         {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时38分 ~ 22时20分]"
+        },
+        {
           "title": "据Politico：微软(MSFT.O)首席执行官周一表示，微软正日益将欧洲视为其人工智能战略的关键区域。",
           "url": "https://flash.jin10.com/detail/20251202032928692800",
           "source": "金十数据",
@@ -168,17 +182,6 @@
           "time_info": "[05时15分 ~ 06时15分]"
         },
         {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时38分 ~ 21时35分]"
-        },
-        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-02）",
           "url": "https://flash.jin10.com/detail/20251202115850736800",
           "source": "金十数据",
@@ -188,6 +191,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "AMD(AMD.O)与的跨国信息技术公司HPE扩大合作，共同推进开放机架规模人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251202220335986800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
         },
         {
           "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
@@ -212,6 +237,17 @@
           "time_info": "15时20分"
         },
         {
+          "title": "市场消息：AMD支持的美国云计算服务提供商Vultr将斥资10亿美元打造人工智能芯片集群。",
+          "url": "https://flash.jin10.com/detail/20251202214355129800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
           "title": "英国央行金融稳定报告：人工智能估值加剧市场剧烈回调的风险。",
           "url": "https://flash.jin10.com/detail/20251202150351073800",
           "source": "金十数据",
@@ -232,6 +268,114 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "战争中设计的puzzle谜题",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E4%B8%AD%E8%AE%BE%E8%AE%A1%E7%9A%84puzzle%E8%B0%9C%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            4,
+            6,
+            8,
+            7,
+            3,
+            10,
+            12,
+            16,
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[00时24分 ~ 19时18分]"
+        },
+        {
+          "title": "得闲谨制是战争版桃花源记",
+          "url": "https://www.douyin.com/hot/2323918",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时38分]"
+        },
+        {
+          "title": "北约秘书长吕特：结束乌克兰战争协议中的北约条款将单独处理。",
+          "url": "https://flash.jin10.com/detail/20251202211111918800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "印度学者：1962年中印边境战争背后，可能是美国在煽风点火",
+          "url": "https://news.ifeng.com/c/8ol45htnz8G",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 21时35分]"
+        },
+        {
+          "title": "俄乌战争什么样的结果对俄才算胜利",
+          "url": "https://www.toutiao.com/trending/7578871967697079849/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时19分 ~ 01时20分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：现在比以往任何时候都更有机会结束战争。",
+          "url": "https://flash.jin10.com/detail/20251202221105365800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时20分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯不应因其在乌克兰的战争而获得任何回报。",
+          "url": "https://flash.jin10.com/detail/20251201234242201800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        },
+        {
+          "title": "郭正亮：若台海爆发战争美国不会帮忙",
+          "url": "https://www.toutiao.com/trending/7577957705533423643/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -264,11 +408,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时18分 ~ 21时35分]"
+          "appearance_count": 10,
+          "time_info": "[13时18分 ~ 22时20分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -332,103 +477,6 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "战争中设计的puzzle谜题",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E4%BA%89%E4%B8%AD%E8%AE%BE%E8%AE%A1%E7%9A%84puzzle%E8%B0%9C%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            4,
-            6,
-            8,
-            7,
-            3,
-            10,
-            12,
-            16,
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时24分 ~ 19时18分]"
-        },
-        {
-          "title": "得闲谨制是战争版桃花源记",
-          "url": "https://www.douyin.com/hot/2323918",
-          "source": "抖音",
-          "ranks": [
-            29,
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时23分 ~ 20时38分]"
-        },
-        {
-          "title": "北约秘书长吕特：结束乌克兰战争协议中的北约条款将单独处理。",
-          "url": "https://flash.jin10.com/detail/20251202211111918800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "印度学者：1962年中印边境战争背后，可能是美国在煽风点火",
-          "url": "https://news.ifeng.com/c/8ol45htnz8G",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 21时35分]"
-        },
-        {
-          "title": "俄乌战争什么样的结果对俄才算胜利",
-          "url": "https://www.toutiao.com/trending/7578871967697079849/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时19分 ~ 01时20分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：俄罗斯不应因其在乌克兰的战争而获得任何回报。",
-          "url": "https://flash.jin10.com/detail/20251201234242201800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
-        },
-        {
-          "title": "郭正亮：若台海爆发战争美国不会帮忙",
-          "url": "https://www.toutiao.com/trending/7577957705533423643/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -461,7 +509,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -472,7 +520,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -500,11 +548,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时17分 ~ 21时35分]"
+          "appearance_count": 12,
+          "time_info": "[11时17分 ~ 22时20分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
