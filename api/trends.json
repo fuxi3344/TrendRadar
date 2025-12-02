@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T06:16:22.880813+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2025-12-03T07:16:50.198855+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             9,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -30,11 +31,12 @@
             9,
             5,
             19,
-            12
+            12,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -42,11 +44,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -55,11 +58,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -99,7 +103,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本战争准备曝光",
@@ -110,8 +114,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时24分 ~ 07时16分]"
+        },
+        {
+          "title": "日本战争准备曝光",
+          "url": "https://www.toutiao.com/trending/7578879331192078377/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
+        },
+        {
+          "title": "得闲谨制是战争版桃花源记",
+          "url": "https://www.douyin.com/hot/2323918",
+          "source": "抖音",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时16分 ~ 07时16分]"
         },
         {
           "title": "美国总统特朗普：我希望我们能够结束俄罗斯和乌克兰之间的战争。",
@@ -145,23 +172,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "得闲谨制是战争版桃花源记",
-          "url": "https://www.douyin.com/hot/2323918",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时16分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -175,8 +191,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时16分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -212,6 +228,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时20分]"
+        },
+        {
+          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
+          "url": "https://wallstreetcn.com/articles/3760498",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
