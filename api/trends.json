@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:18:14.002018+08:00",
-  "total_titles_processed": 1604,
+  "generated_at": "2025-12-02T20:38:14.738091+08:00",
+  "total_titles_processed": 1704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时25分 ~ 19时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时25分 ~ 20时38分]"
         },
         {
           "title": "实测DeepSeekV3.2正式版",
@@ -33,11 +33,12 @@
             11,
             12,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时19分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时19分 ~ 20时38分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -90,8 +91,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时19分 ~ 19时18分]"
+          "appearance_count": 15,
+          "time_info": "[09时19分 ~ 20时38分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -176,6 +177,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "谷歌：将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区，支持英文。",
@@ -268,8 +280,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 19时18分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 20时38分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -353,8 +365,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时23分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时23分 ~ 20时38分]"
         },
         {
           "title": "印度学者：1962年中印边境战争背后，可能是美国在煽风点火",
@@ -362,11 +374,12 @@
           "source": "凤凰网",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 20时38分]"
         },
         {
           "title": "俄乌战争什么样的结果对俄才算胜利",
@@ -413,11 +426,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时17分 ~ 19时18分]"
+          "appearance_count": 10,
+          "time_info": "[11时17分 ~ 20时38分]"
         },
         {
           "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
