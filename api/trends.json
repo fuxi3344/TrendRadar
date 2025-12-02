@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T13:18:25.090697+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2025-12-02T14:28:37.765050+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -30,11 +30,12 @@
           "ranks": [
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -51,6 +52,17 @@
           "time_info": "[00时24分 ~ 06时15分]"
         },
         {
+          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
+          "url": "https://www.cls.cn/detail/2216499",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时19分 ~ 14时28分]"
+        },
+        {
           "title": "DeepSeek同时发布两个正式版模型",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
           "source": "百度热搜",
@@ -64,17 +76,6 @@
           "time_info": "[00时24分 ~ 07时17分]"
         },
         {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时19分 ~ 13时18分]"
-        },
-        {
           "title": "实测DeepSeekV3.2正式版",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
           "source": "bilibili 热搜",
@@ -85,8 +86,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时28分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -97,8 +98,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时19分 ~ 13时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时19分 ~ 14时28分]"
         },
         {
           "title": "微软CEO：将欧洲视为人工智能战略的关键地区",
@@ -155,7 +156,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -187,8 +188,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时25分 ~ 13时18分]"
+          "appearance_count": 13,
+          "time_info": "[00时25分 ~ 14时28分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -199,8 +200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时28分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
@@ -213,6 +214,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时15分 ~ 07时17分]"
+        },
+        {
+          "title": "谷歌揭秘了AI竞赛的底牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时18分 ~ 14时28分]"
         },
         {
           "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
@@ -235,17 +248,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时18分"
         },
         {
           "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
@@ -286,8 +288,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 14时28分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -296,7 +298,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时18分"
         },
@@ -333,8 +335,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 13时18分]"
+          "appearance_count": 17,
+          "time_info": "[00时24分 ~ 14时28分]"
         },
         {
           "title": "俄乌战争什么样的结果对俄才算胜利",
