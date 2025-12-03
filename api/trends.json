@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T12:27:19.540658+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2025-12-03T13:18:04.062819+08:00",
+  "total_titles_processed": 1119,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -70,11 +70,12 @@
           "url": "https://flash.jin10.com/detail/20251203114922353800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时18分]"
         },
         {
           "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
@@ -110,6 +111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时20分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-03）",
+          "url": "https://flash.jin10.com/detail/20251203115452067800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         },
         {
           "title": "MongoDB股价上涨25%，今年迄今已上涨超过40%。 该公司超越了第三季度的预期并上调了业绩预测，这得益于其从 人工智能（AI） 中获益，以及其Atlas平台越来越受欢迎。 首席执行官Chirantan “CJ” Desai表示，随着人工智能达到一个转折点（inflection），公司正在迎来一个“千载难逢”（once in a lifetime）的机遇。",
@@ -152,8 +164,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时20分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时20分 ~ 13时18分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -179,6 +191,18 @@
           "time_info": "[00时24分 ~ 01时20分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时18分]"
+        },
+        {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
           "url": "https://wallstreetcn.com/articles/3760498",
           "source": "华尔街见闻",
@@ -200,17 +224,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时20分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         }
       ]
     },
@@ -225,11 +238,12 @@
           "ranks": [
             11,
             12,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时24分 ~ 12时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时24分 ~ 13时18分]"
         },
         {
           "title": "日本战争准备曝光",
@@ -244,6 +258,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时16分 ~ 12时27分]"
+        },
+        {
+          "title": "普京：若欧洲发动战争 俄已做好准备",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%8B%A5%E6%AC%A7%E6%B4%B2%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89+%E4%BF%84%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时18分]"
         },
         {
           "title": "得闲谨制是战争版桃花源记",
@@ -289,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        },
-        {
-          "title": "普京：若欧洲发动战争 俄已做好准备",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E8%8B%A5%E6%AC%A7%E6%B4%B2%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89+%E4%BF%84%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         }
       ]
     },
@@ -366,7 +380,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
