@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T15:20:01.142956+08:00",
-  "total_titles_processed": 1290,
+  "generated_at": "2025-12-04T16:26:02.206185+08:00",
+  "total_titles_processed": 1395,
   "failed_sources": [],
   "trends": [
     {
@@ -242,11 +242,12 @@
             9,
             6,
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时17分 ~ 15时20分]"
+          "appearance_count": 6,
+          "time_info": "[11时17分 ~ 16时26分]"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
