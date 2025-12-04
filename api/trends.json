@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T16:26:02.206185+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2025-12-04T17:22:22.059589+08:00",
+  "total_titles_processed": 1481,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时17分]"
+        },
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
@@ -218,7 +229,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“长”出皮肤：人形机器人量产前夜的“触觉战争”",
@@ -259,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "美国两党参议员提交议案阻止对委“非法战争”",
+          "url": "https://flash.jin10.com/detail/20251204163921451800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京想要结束战争。",
