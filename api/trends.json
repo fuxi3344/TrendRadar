@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T14:28:27.808567+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2025-12-04T15:20:01.142956+08:00",
+  "total_titles_processed": 1290,
   "failed_sources": [],
   "trends": [
     {
@@ -146,7 +146,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时28分"
         }
@@ -241,11 +241,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 14时28分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 15时20分]"
         },
         {
           "title": "特朗普言论加剧市场担忧 “战争溢价”推高油价",
