@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T19:17:26.688074+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2025-12-05T20:37:10.333613+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "实测欧洲版Deepseek水平如何",
@@ -74,6 +74,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
           "title": "美国驻欧盟大使：欧洲的净零排放目标可能会阻碍欧盟人工智能的发展。",
           "url": "https://flash.jin10.com/detail/20251205174052838800",
           "source": "金十数据",
@@ -139,11 +150,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3%20DeepThink%20%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时17分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时37分]"
         },
         {
           "title": "谷歌称在Gemini应用程序中向谷歌AI超强版（Google AI Ultra）订阅用户推出Gemini 3深度思考模式。",
