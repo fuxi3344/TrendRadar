@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T20:37:10.333613+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2025-12-05T21:31:08.507497+08:00",
+  "total_titles_processed": 1848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "实测欧洲版Deepseek水平如何",
@@ -52,6 +52,18 @@
           "time_info": "[13时18分 ~ 15时19分]"
         },
         {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时31分]"
+        },
+        {
           "title": "美国SEC主席驳斥要求企业加强人工智能报告的提议",
           "url": "https://wallstreetcn.com/livenews/3015392",
           "source": "华尔街见闻-快讯",
@@ -61,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：现在是美联储 “谨慎降息”的好时机，预计美联储下周将采取这一行动。 预计政府关门的影响比预期的要大。 预计第一季度将出现更大幅度的反弹。 2026年的生产率可能会达到4%。 人工智能经济的发展速度比20世纪90年代的互联网经济更快。 如果（明年）一季度和二季度的（经济）增速为3%，将会感到失望。 如果最高法院否决关税，将会造成巨大混乱。 没有和特朗普讨论过美联储主席的问题。 我支持贝森特在地区联储主席问题上的看法。",
+          "url": "https://wallstreetcn.com/livenews/3015973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-05）",
@@ -74,15 +97,15 @@
           "time_info": "12时28分"
         },
         {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
+          "title": "美国白宫国家经济委员会主任哈塞特：人工智能经济的发展速度已超过20世纪90年代的互联网经济。",
+          "url": "https://flash.jin10.com/detail/20251205210746180800",
+          "source": "金十数据",
           "ranks": [
-            8
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时37分"
+          "time_info": "21时31分"
         },
         {
           "title": "美国驻欧盟大使：欧洲的净零排放目标可能会阻碍欧盟人工智能的发展。",
@@ -127,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "据AXIOS网站：Meta Platforms(META.O)与新闻出版商达成人工智能协议。",
+          "url": "https://flash.jin10.com/detail/20251205210241842800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时31分"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
