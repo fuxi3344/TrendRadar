@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T00:20:25.979259+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T01:15:08.238223+08:00",
+  "total_titles_processed": 344,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3760844",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
@@ -26,8 +27,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     },
@@ -43,19 +44,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
           "url": "https://www.zhihu.com/question/1979858915077404344",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 3,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     },
@@ -71,8 +73,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
+          "appearance_count": 2,
+          "time_info": "[00时20分 ~ 01时15分]"
         }
       ]
     }
