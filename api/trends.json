@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T16:21:46.681143+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-12-06T17:17:09.198026+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时19分 ~ 16时21分]"
+          "appearance_count": 9,
+          "time_info": "[12时19分 ~ 17时17分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -83,6 +83,60 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时20分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
+          "url": "https://flash.jin10.com/detail/20251206030123657800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时17分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3016105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时20分 ~ 05时16分]"
+        },
+        {
+          "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
+          "url": "https://flash.jin10.com/detail/20251206165735695800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -95,8 +149,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时20分 ~ 16时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时20分 ~ 17时17分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -131,49 +185,6 @@
           "ranks": [
             12,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时20分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
-          "url": "https://flash.jin10.com/detail/20251206030123657800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 07时17分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms已收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3016105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
