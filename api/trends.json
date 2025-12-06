@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-06T14:25:10.755415+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2025-12-06T15:17:45.960238+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
+        {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时19分 ~ 15时17分]"
+        },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
           "url": "https://flash.jin10.com/detail/20251206034533252800",
@@ -30,19 +43,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时20分 ~ 09时16分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时19分 ~ 14时25分]"
         },
         {
           "title": "报道：OpenAI宣布“红色警报”，将于下周发布GPT-5.2应对谷歌Gemini 3竞争",
@@ -87,6 +87,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时20分 ~ 15时17分]"
+        },
+        {
           "title": "ChatGPT产品负责人回应广告传闻",
           "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
@@ -99,18 +111,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时08分 ~ 14时25分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时20分 ~ 14时25分]"
         },
         {
           "title": "OpenAI最快将于下周发布GPT-5.2",
