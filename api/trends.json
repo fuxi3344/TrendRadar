@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T07:16:22.763246+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-12-07T09:27:13.922898+08:00",
+  "total_titles_processed": 521,
   "failed_sources": [],
   "trends": [
     {
@@ -56,11 +56,12 @@
           "ranks": [
             6,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 07时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 09时27分]"
         },
         {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
