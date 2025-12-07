@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T15:16:52.252555+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-12-07T16:21:31.675271+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -42,11 +42,12 @@
             11,
             17,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 15时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时25分 ~ 16时21分]"
         }
       ]
     },
@@ -117,8 +118,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时24分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[14时24分 ~ 16时21分]"
         }
       ]
     },
@@ -134,11 +135,12 @@
             2,
             12,
             17,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 16时21分]"
         },
         {
           "title": "格鲁吉亚总理：有团体利用BBC虚假报道发动“混合战争”",
@@ -147,11 +149,12 @@
           "ranks": [
             7,
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时21分]"
         }
       ]
     }
