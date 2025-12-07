@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T14:24:53.515971+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2025-12-07T15:16:52.252555+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时20分 ~ 14时24分]"
+          "appearance_count": 14,
+          "time_info": "[00时20分 ~ 15时16分]"
         },
         {
           "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
@@ -41,11 +41,12 @@
             6,
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时25分 ~ 14时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时25分 ~ 15时16分]"
         }
       ]
     },
@@ -112,11 +113,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时24分 ~ 15时16分]"
         }
       ]
     },
@@ -131,11 +133,12 @@
           "ranks": [
             2,
             12,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时24分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 15时16分]"
         },
         {
           "title": "格鲁吉亚总理：有团体利用BBC虚假报道发动“混合战争”",
@@ -143,11 +146,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 14时24分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 15时16分]"
         }
       ]
     }
