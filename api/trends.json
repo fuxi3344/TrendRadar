@@ -1,145 +1,11 @@
 {
-  "generated_at": "2025-12-09T09:19:58.402466+08:00",
-  "total_titles_processed": 855,
+  "generated_at": "2025-12-09T11:17:33.735630+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
-          "url": "https://www.cls.cn/detail/2223271",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时24分 ~ 09时19分]"
-        },
-        {
-          "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
-          "url": "https://flash.jin10.com/detail/20251209034556231800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时16分]"
-        },
-        {
-          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
-          "url": "https://www.cls.cn/detail/2223368",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
-          "url": "https://wallstreetcn.com/livenews/3017156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时18分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
-          "url": "https://wallstreetcn.com/livenews/3017167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
-          "url": "https://wallstreetcn.com/livenews/3017098",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时15分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
-          "url": "https://flash.jin10.com/detail/20251209041755526800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
-          "url": "https://flash.jin10.com/detail/20251209012659154800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "谷歌(GOOG.O)最新下跌约2.4%。",
-          "url": "https://flash.jin10.com/detail/20251209011642396800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "据《广告周刊》（ADWEEK）：谷歌(GOOG.O)向广告商表示，将于2026年在Gemini平台上推出广告。",
-          "url": "https://flash.jin10.com/detail/20251209011349154800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "摩根大通CEO戴蒙召集亚马逊创始人贝佐斯等人组建顾问超级小组，助力提高美国韧性的计划。10月，摩根大通的负责人宣布了一项1.5万亿美元的计划，旨在加强美国的稀土和人工智能等关键技术。",
@@ -213,6 +79,17 @@
           "time_info": "03时15分"
         },
         {
+          "title": "Aware 首席信息官警告人工智能融资将亮起 \"橙色 \"灯",
+          "url": "https://wallstreetcn.com/livenews/3017286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "谷歌(GOOG.O)：首款人工智能眼镜将于明年上市。",
           "url": "https://flash.jin10.com/detail/20251209021608071800",
           "source": "金十数据",
@@ -255,6 +132,180 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
+          "url": "https://www.cls.cn/detail/2223271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 11时17分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 11时17分]"
+        },
+        {
+          "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251209034556231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 05时16分]"
+        },
+        {
+          "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3017156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 06时18分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时19分 ~ 11时17分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3017167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
+          "url": "https://wallstreetcn.com/livenews/3017098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时15分]"
+        },
+        {
+          "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
+          "url": "https://flash.jin10.com/detail/20251209041755526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时16分"
+        },
+        {
+          "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
+          "url": "https://flash.jin10.com/detail/20251209012659154800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "谷歌(GOOG.O)最新下跌约2.4%。",
+          "url": "https://flash.jin10.com/detail/20251209011642396800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "据《广告周刊》（ADWEEK）：谷歌(GOOG.O)向广告商表示，将于2026年在Gemini平台上推出广告。",
+          "url": "https://flash.jin10.com/detail/20251209011349154800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月09日（周二）上海金早盘价为949.8元/克，较国际金价(952.4元/克)，低2.6元/克",
+          "url": "https://flash.jin10.com/detail/20251209110221893800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "策略师：金价2026年的涨势可能放缓",
+          "url": "https://flash.jin10.com/detail/20251209105812551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "美联储主席热门人选哈塞特隔夜意外发表“鹰派”表态，降息预期遭受打压，金价多头情绪大幅回落，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅",
+          "url": "https://flash.jin10.com/detail/20251209104127597800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
