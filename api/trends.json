@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T05:15:40.299729+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-12-10T06:30:11.588872+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时30分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
