@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T06:30:11.588872+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-12-10T07:18:18.735469+08:00",
+  "total_titles_processed": 718,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时24分 ~ 06时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时24分 ~ 07时18分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
+          "url": "https://flash.jin10.com/detail/20251210063207113800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         },
         {
           "title": "摩根大通消费者与社区银行业务首席执行官：从长远来看，人工智能的使用可使生产力提高40%至50%。",
