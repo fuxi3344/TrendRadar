@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:20:58.167486+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2025-12-10T12:31:38.417937+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美批准向中国出售英伟达H200人工智能芯片，外交部回应",
@@ -17,8 +17,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 11时20分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 12时31分]"
+        },
+        {
+          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
+          "url": "https://www.cls.cn/detail/2224818",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 12时31分]"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：人工智能（AI）已经给就业市场营造一个“令人恐怖的”前景。",
@@ -32,15 +43,15 @@
           "time_info": "02时23分"
         },
         {
-          "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
-          "url": "https://www.cls.cn/detail/2224818",
-          "source": "财联社热门",
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
+          "url": "https://flash.jin10.com/detail/20251210115902763800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时20分"
+          "time_info": "12时31分"
         },
         {
           "title": "摩根大通消费者与社区银行业务首席执行官：借助人工智能，年度生产率增幅从3%提升至6%。",
@@ -173,11 +184,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时21分 ~ 11时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时21分 ~ 12时31分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -201,6 +213,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
         }
       ]
     }
