@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T13:19:36.486606+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2025-12-10T14:29:33.296734+08:00",
+  "total_titles_processed": 1308,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 13时19分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 14时29分]"
         },
         {
           "title": "四川“十五五”规划建议：加快发展人工智能、低空经济等新兴产业",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 14时29分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-10）",
@@ -190,8 +190,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时21分 ~ 13时19分]"
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 14时29分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
