@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T11:23:10.633639+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2025-12-11T12:33:32.345352+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -145,7 +145,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "黑石集团总裁：企业对面临人工智能颠覆风险的业务持谨慎态度。",
@@ -157,6 +157,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211115728901800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         },
         {
           "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
@@ -225,11 +236,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 11时23分]"
+          "appearance_count": 3,
+          "time_info": "[11时22分 ~ 12时33分]"
         },
         {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
@@ -238,7 +250,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
         },
