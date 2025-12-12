@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T09:22:16.978015+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2025-12-12T11:22:16.122159+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -17,6 +17,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
+          "url": "https://www.cls.cn/detail/2227243",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 11时22分]"
         },
         {
           "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
@@ -67,15 +79,15 @@
           "time_info": "[00时27分 ~ 01时24分]"
         },
         {
-          "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
-          "url": "https://www.cls.cn/detail/2227243",
-          "source": "财联社热门",
+          "title": "全面解析ChatGPT5.2",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E8%A7%A3%E6%9E%90ChatGPT5.2",
+          "source": "bilibili 热搜",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "11时22分"
         },
         {
           "title": "OpenAI：在ChatGPT中，GPT-5.1仍将以旧版模型的形式向付费用户开放三个月。",
@@ -87,6 +99,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        },
+        {
+          "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
+          "url": "https://www.zhihu.com/question/1982718694623768873",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "OpenAI：正处于推出年龄预测模型的早期阶段，以自动为18岁以下用户应用内容保护措施。",
@@ -133,13 +156,24 @@
           "time_info": "04时21分"
         },
         {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "GPT-5.2来了！OpenAI最新发布",
           "url": "https://www.baidu.com/s?wd=GPT-5.2%E6%9D%A5%E4%BA%86%EF%BC%81OpenAI%E6%9C%80%E6%96%B0%E5%8F%91%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -224,7 +258,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -297,6 +331,17 @@
           "time_info": "05时19分"
         },
         {
+          "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
+          "url": "https://wallstreetcn.com/articles/3761213",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "谷歌(GOOG.O)：发布更强大的Gemini深度研究代理，可通过交互API获得并使用。",
           "url": "https://flash.jin10.com/detail/20251212010242999800",
           "source": "金十数据",
@@ -314,7 +359,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -377,8 +422,19 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "山东：到2027年，全省人工智能核心产业规模力争突破2000亿元",
+          "url": "https://wallstreetcn.com/livenews/3019586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
         {
           "title": "美国政府声明显示，美国要求人工智能供应商衡量政治“偏见”。",
           "url": "https://flash.jin10.com/detail/20251212064240690800",
@@ -437,6 +493,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时18分 ~ 07时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
+          "url": "https://flash.jin10.com/detail/20251212102205776800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     }
