@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T22:17:47.842852+08:00",
-  "total_titles_processed": 2089,
+  "generated_at": "2025-12-12T23:20:21.207339+08:00",
+  "total_titles_processed": 2176,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时32分 ~ 22时17分]"
+          "appearance_count": 16,
+          "time_info": "[12时32分 ~ 23时20分]"
         },
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -282,11 +282,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时22分 ~ 22时17分]"
+          "appearance_count": 13,
+          "time_info": "[11时22分 ~ 23时20分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -295,11 +296,12 @@
           "ranks": [
             15,
             8,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时17分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[19时17分 ~ 23时20分]"
         },
         {
           "title": "随着与谷歌的竞争加剧，OpenAI推出更先进的模型",
@@ -472,7 +474,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -637,8 +639,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时32分 ~ 22时17分]"
+          "appearance_count": 14,
+          "time_info": "[12时32分 ~ 23时20分]"
         },
         {
           "title": "对于 2025 年 tga 公开的游戏《战锤 40k 全面战争》有什么期待？",
