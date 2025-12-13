@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T06:16:51.320625+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2025-12-14T07:16:28.349968+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "国家发改委：综合整治“内卷式”竞争和培育发展新动能，深化拓展“人工智能+”行动",
@@ -46,8 +46,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -57,8 +57,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 06时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 07时16分]"
         }
       ]
     }
