@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:18:18.722734+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-12-14T14:26:20.499689+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时18分]"
+          "appearance_count": 3,
+          "time_info": "[12时35分 ~ 14时26分]"
         },
         {
           "title": "广东人工智能和机器人产业核心指标位列全国第一",
@@ -51,11 +52,12 @@
           "ranks": [
             6,
             13,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时26分]"
         },
         {
           "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
@@ -116,11 +118,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时27分 ~ 13时18分]"
+          "appearance_count": 4,
+          "time_info": "[11时27分 ~ 14时26分]"
         }
       ]
     },
@@ -140,6 +143,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时27分 ~ 13时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "越南加入“稀土战争”有何动机",
+          "url": "https://www.toutiao.com/trending/7583553817619205683/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时26分"
         }
       ]
     }
