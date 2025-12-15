@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-15T11:28:50.735039+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2025-12-15T12:38:33.238957+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据华尔街日报：咨询公司Teneo的调查显示，80%的小型企业首席执行官和31%的大型企业首席执行官预计2026年上半年全球经济将有所改善。首席执行官们将继续在人工智能上投入资金，尽管回报参差不齐。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时16分 ~ 07时16分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215115553831800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "日本央行：企业认为美国贸易政策的不确定性正在消退，美国关税的冲击小于预期，成本传导顺畅，以及人工智能和芯片需求强劲，这些都是提振企业情绪的积极因素。",
@@ -42,11 +53,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时20分 ~ 11时28分]"
+          "appearance_count": 11,
+          "time_info": "[00时20分 ~ 12时38分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金早盘价为974.55元/克，较国际金价(980.31元/克)，低5.76元/克",
@@ -55,7 +67,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -66,24 +78,25 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "泰柬冲突会扩大到全面战争吗",
+          "url": "https://www.toutiao.com/trending/7583909653365394985/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时28分 ~ 12时38分]"
+        },
+        {
           "title": "《全面战争：战锤 40K》公布，融合两大 IP 会带来哪些创新与挑战？",
           "url": "https://www.zhihu.com/question/1982797905749381138",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时28分"
-        },
-        {
-          "title": "泰柬冲突会扩大到全面战争吗",
-          "url": "https://www.toutiao.com/trending/7583909653365394985/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
@@ -100,7 +113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
         }
