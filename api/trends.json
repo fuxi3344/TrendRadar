@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T20:40:43.964865+08:00",
-  "total_titles_processed": 1615,
+  "generated_at": "2025-12-15T21:50:33.359771+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -79,7 +79,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时28分"
+        },
+        {
+          "title": "市场分析：受美国降息预期和避险需求提振，黄金价格上涨",
+          "url": "https://flash.jin10.com/detail/20251215210622146800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时50分"
         },
         {
           "title": "铂主力合约日间盘涨停 投资需求或受益于金价上涨潜力抬升",
