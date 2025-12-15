@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:18:43.862176+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-16T04:21:39.427622+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -64,11 +64,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时21分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -95,8 +96,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时37分 ~ 03时18分]"
+          "appearance_count": 5,
+          "time_info": "[00时37分 ~ 04时21分]"
         },
         {
           "title": "“九天”无人机颠覆未来战争模式",
@@ -122,7 +123,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
         }
