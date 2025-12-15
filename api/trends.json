@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T06:18:42.620498+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-12-16T07:18:19.473170+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
     {
@@ -104,11 +104,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32179714",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时18分]"
         },
         {
           "title": "“九天”无人机颠覆未来战争模式",
