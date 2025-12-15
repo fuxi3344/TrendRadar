@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T16:28:45.186019+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-12-15T17:29:34.494084+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
@@ -92,8 +92,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时20分 ~ 16时28分]"
+          "appearance_count": 16,
+          "time_info": "[00时20分 ~ 17时29分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）上海金午盘价为978.02元/克，较国际金价(983.71元/克)，低5.69元/克",
@@ -124,7 +124,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
