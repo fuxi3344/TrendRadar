@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T19:17:56.098514+08:00",
-  "total_titles_processed": 1751,
+  "generated_at": "2025-12-16T20:39:05.521336+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
@@ -60,7 +60,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -101,7 +101,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -150,6 +150,17 @@
           "time_info": "[14时29分 ~ 15时21分]"
         },
         {
+          "title": "加拿大蒙特利尔银行：将谷歌(GOOG.O)目标价从340美元上调至343美元。",
+          "url": "https://flash.jin10.com/detail/20251216195848833800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
           "url": "https://flash.jin10.com/detail/20251216015417172800",
           "source": "金十数据",
@@ -167,7 +178,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
