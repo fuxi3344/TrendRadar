@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T18:22:02.805373+08:00",
-  "total_titles_processed": 1673,
+  "generated_at": "2025-12-16T19:17:56.098514+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "经合组织：人工智能投资将持续增长并提振世界经济",
@@ -54,6 +54,17 @@
           "time_info": "[00时37分 ~ 01时23分]"
         },
         {
+          "title": "美国银行全球基金经理调查：人工智能泡沫仍是投资者面临的最大尾部风险，其次是债券收益率无序上涨。",
+          "url": "https://flash.jin10.com/detail/20251216190749727800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "高盛：认为铜价容易受到人工智能相关的价格回调影响。",
           "url": "https://flash.jin10.com/detail/20251216020604795800",
           "source": "金十数据",
@@ -90,7 +101,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -148,6 +159,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
@@ -257,6 +279,18 @@
           "time_info": "[00时37分 ~ 18时22分]"
         },
         {
+          "title": "柬泰冲突会升级为战争吗",
+          "url": "https://www.toutiao.com/trending/7584367419557154354/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 19时17分]"
+        },
+        {
           "title": "“九天”无人机颠覆未来战争模式",
           "url": "https://www.toutiao.com/trending/7583775824164225030/",
           "source": "今日头条",
@@ -266,17 +300,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "柬泰冲突会升级为战争吗",
-          "url": "https://www.toutiao.com/trending/7584367419557154354/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "日本不需要把国家带向战争的首相",
