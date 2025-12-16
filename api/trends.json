@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T17:24:48.232674+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2025-12-16T18:22:02.805373+08:00",
+  "total_titles_processed": 1673,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -117,6 +117,17 @@
           "time_info": "[02时37分 ~ 04时21分]"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时22分]"
+        },
+        {
           "title": "“俄版谷歌”，正帮中国商人大赚",
           "url": "https://news.ifeng.com/c/8p87L7ByRCW",
           "source": "凤凰网",
@@ -126,17 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 15时21分]"
-        },
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
@@ -237,7 +237,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "澳海滩枪击惨案背后：加沙战争后“反犹主义”抬头，多国提高警惕",
@@ -253,8 +253,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 17时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 18时22分]"
         },
         {
           "title": "“九天”无人机颠覆未来战争模式",
@@ -266,6 +266,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "柬泰冲突会升级为战争吗",
+          "url": "https://www.toutiao.com/trending/7584367419557154354/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "日本不需要把国家带向战争的首相",
