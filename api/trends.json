@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:19:21.738453+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2025-12-18T04:21:27.548591+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             15,
             23,
             17,
-            19
+            19,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 04时21分]"
         },
         {
           "title": "乌克兰总统泽连斯基：呼吁各伙伴批准政治和财政决议。布鲁塞尔峰会应表明，俄罗斯继续战争毫无意义，因为乌克兰将拥有财政手段来保卫自己。",
