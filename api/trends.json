@@ -1,8 +1,70 @@
 {
-  "generated_at": "2025-12-18T00:25:12.296307+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-18T01:22:14.705427+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "战争",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马岛战争的陆地决战",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时24分 ~ 01时22分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：呼吁各伙伴批准政治和财政决议。布鲁塞尔峰会应表明，俄罗斯继续战争毫无意义，因为乌克兰将拥有财政手段来保卫自己。",
+          "url": "https://flash.jin10.com/detail/20251218003915900800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：美国表示俄罗斯希望结束战争，但莫斯科发出了相反的信号。",
+          "url": "https://flash.jin10.com/detail/20251218003751832800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：俄罗斯将破坏结束战争的外交努力。",
+          "url": "https://flash.jin10.com/detail/20251218003638939800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：莫斯科已明确表明其已做好2026年战争的准备。",
+          "url": "https://flash.jin10.com/detail/20251218003514411800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
@@ -12,33 +74,36 @@
           "url": "https://wallstreetcn.com/livenews/3022530",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时22分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
           "url": "https://wallstreetcn.com/livenews/3022529",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时22分]"
         },
         {
           "title": "谷歌在旗下产品中发布更高效的新版Gemini 3 AI模型",
           "url": "https://wallstreetcn.com/livenews/3022526",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时25分 ~ 01时22分]"
         },
         {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
@@ -47,7 +112,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
         }
@@ -55,8 +120,19 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
+          "url": "https://flash.jin10.com/detail/20251218010152851800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
         {
           "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
           "url": "https://wallstreetcn.com/livenews/3022503",
@@ -64,26 +140,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马岛战争的陆地决战",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%B2%9B%E6%88%98%E4%BA%89%E7%9A%84%E9%99%86%E5%9C%B0%E5%86%B3%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 00时25分]"
         }
       ]
     }
