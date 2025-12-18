@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:17:21.286043+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2025-12-18T20:37:46.841158+08:00",
+  "total_titles_processed": 1857,
   "failed_sources": [],
   "trends": [
     {
@@ -94,7 +94,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时17分"
         },
@@ -179,6 +179,17 @@
           "time_info": "[00时25分 ~ 02时28分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时24分 ~ 20时37分]"
+        },
+        {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
@@ -200,17 +211,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 01时22分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时17分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌超4.6%撤离历史最高位，英伟达跌3.8%，谷歌A跌3.2%",
@@ -273,8 +273,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时29分 ~ 19时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时29分 ~ 20时37分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
