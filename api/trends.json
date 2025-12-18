@@ -1,8 +1,127 @@
 {
-  "generated_at": "2025-12-18T17:24:25.636040+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2025-12-18T18:20:44.086539+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3022704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
+          "url": "https://flash.jin10.com/detail/20251218121012213800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时20分]"
+        },
+        {
+          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
+          "url": "https://wallstreetcn.com/livenews/3022549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 03时19分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-18）",
+          "url": "https://flash.jin10.com/detail/20251218120050426800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时20分]"
+        },
+        {
+          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
+          "url": "https://flash.jin10.com/detail/20251218010152851800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
+          "url": "https://flash.jin10.com/detail/20251218042922594800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时18分"
+        },
+        {
+          "title": "Meta前首席AI科学家Yann LeCun为其新的人工智能初创公司Advanced Machine Intelligence Labs设定了30亿欧元的估值。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3023041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "路透援引熟悉内情的消息人士，美国联邦贸易委员会正在调查Instacart，因为该零售平台因其人工智能驱动的定价工具而面临批评。Instacart股价在盘后交易中下跌约10%。",
+          "url": "https://wallstreetcn.com/livenews/3022684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)前首席AI科学家杨立昆（Yann LeCun）为其新的人工智能初创公司设定了30亿欧元的估值。",
+          "url": "https://flash.jin10.com/detail/20251218174226959800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        },
+        {
+          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
+          "url": "https://wallstreetcn.com/livenews/3022503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 10,
@@ -101,7 +220,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
         },
@@ -156,6 +275,18 @@
           "time_info": "09时19分"
         },
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时29分 ~ 18时20分]"
+        },
+        {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
           "url": "https://www.zhihu.com/question/1984670354627651255",
           "source": "知乎",
@@ -166,18 +297,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[15时20分 ~ 17时24分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 17时24分]"
         },
         {
           "title": "英伟达CEO黄仁勋称公司尚未向 OpenAI 提供任何资金支持。（福克斯新闻）",
@@ -244,103 +363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英伟达CEO黄仁勋表态支持人工智能监管。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3022704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "美国银行警告称，股市泡沫风险依然存在，但认为人工智能领域仍有更大的上涨空间。",
-          "url": "https://flash.jin10.com/detail/20251218121012213800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时20分]"
-        },
-        {
-          "title": "亚马逊：Peter DeSantis将主导一个新的人工智能（AI）模型架构，DeSantis将率领AGI团队。 AGI团队将驱动公司在AI、量子计算方面的努力。 Pieter Abbeel将主导Frontier（前沿）模型研究团队。 Rohit Prasad将在年底离职。",
-          "url": "https://wallstreetcn.com/livenews/3022549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 03时19分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-18）",
-          "url": "https://flash.jin10.com/detail/20251218120050426800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时20分]"
-        },
-        {
-          "title": "Atlas Cloud AI与纽约GreenCloud宣布启动一项价值60亿美元的可持续人工智能基础设施合作伙伴关系，该合作将基于英伟达Blackwell平台构建。",
-          "url": "https://flash.jin10.com/detail/20251218010152851800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "据Business Insider：马斯克称，xAI可能在2026年展现出超越人类智能的通用人工智能。",
-          "url": "https://flash.jin10.com/detail/20251218042922594800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时18分"
-        },
-        {
-          "title": "路透援引熟悉内情的消息人士，美国联邦贸易委员会正在调查Instacart，因为该零售平台因其人工智能驱动的定价工具而面临批评。Instacart股价在盘后交易中下跌约10%。",
-          "url": "https://wallstreetcn.com/livenews/3022684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时19分"
-        },
-        {
-          "title": "中国人工智能公司扎堆赴港IPO：澜起科技和兆易创新拟最早年初上市",
-          "url": "https://wallstreetcn.com/livenews/3022503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时25分"
         }
       ]
     },
