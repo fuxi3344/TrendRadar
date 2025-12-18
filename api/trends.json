@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T20:37:46.841158+08:00",
-  "total_titles_processed": 1857,
+  "generated_at": "2025-12-18T21:35:10.376431+08:00",
+  "total_titles_processed": 1954,
   "failed_sources": [],
   "trends": [
     {
@@ -273,8 +273,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时29分 ~ 20时37分]"
+          "appearance_count": 8,
+          "time_info": "[14时29分 ~ 21时35分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -471,8 +471,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时34分 ~ 21时35分]"
+        },
         {
           "title": "金十图示：2025年12月18日（周四）上海金早盘价为975.26元/克，较国际金价(980.03元/克)，低4.77元/克",
           "url": "https://flash.jin10.com/detail/20251218110237653800",
