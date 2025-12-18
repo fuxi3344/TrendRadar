@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T00:26:50.553421+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T01:21:46.173199+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时21分]"
         },
         {
           "title": "OpenAI与美国高校密集合作，在AI教育赛道抢得头筹",
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251219010727290800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时21分"
         }
       ]
     }
