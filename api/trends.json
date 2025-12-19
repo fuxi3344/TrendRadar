@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T13:19:51.823075+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-12-19T14:28:39.284156+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 14时28分]"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
@@ -183,7 +183,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
@@ -242,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "IBM(IBM.N)承诺到2030年为500万印度人提供人工智能、网络安全和量子技术技能培训。",
+          "url": "https://flash.jin10.com/detail/20251219132517022800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "据纽约时报：民主党议员就利益冲突问题调查美国商务部长卢特尼克。民主党人质疑卢特尼克是否从人工智能数据中心获利。",
