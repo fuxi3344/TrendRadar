@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T21:32:05.266535+08:00",
-  "total_titles_processed": 2101,
+  "generated_at": "2025-12-19T22:19:02.548062+08:00",
+  "total_titles_processed": 2195,
   "failed_sources": [],
   "trends": [
     {
@@ -183,7 +183,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "日本央行行长植田和男：关税的影响仍可能更多地转嫁给消费者。 需要观察人工智能相关的增长能持续多久。",
@@ -233,6 +233,17 @@
           "time_info": "[02时27分 ~ 03时16分]"
         },
         {
+          "title": "美联储威廉姆斯：不认为人工智能是对金融体系的系统性风险。",
+          "url": "https://flash.jin10.com/detail/20251219214010552800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "山东：到2027年全省人工智能终端产业规模超过4500亿元",
           "url": "https://wallstreetcn.com/livenews/3023511",
           "source": "华尔街见闻-快讯",
@@ -244,6 +255,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "美联储威廉姆斯：不认为人工智能是导致结构性失业的原因。",
+          "url": "https://flash.jin10.com/detail/20251219213946815800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-19）",
           "url": "https://flash.jin10.com/detail/20251219114005861800",
           "source": "金十数据",
@@ -253,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：预计2025年GDP增速为1%至1.5%，但明年将有所回升。 预计2025年GDP增速约为2.25%。 生产率提升对经济有利。 对经济基本情形感到相当乐观。 目前并不认为人工智能是金融体系的系统性风险。 美联储不应试图预判市场出现错误。",
+          "url": "https://wallstreetcn.com/livenews/3024001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时19分"
         },
         {
           "title": "IBM(IBM.N)承诺到2030年为500万印度人提供人工智能、网络安全和量子技术技能培训。",
