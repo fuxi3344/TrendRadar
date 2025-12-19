@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T19:16:59.305753+08:00",
-  "total_titles_processed": 1888,
+  "generated_at": "2025-12-19T20:37:10.573593+08:00",
+  "total_titles_processed": 1997,
   "failed_sources": [],
   "trends": [
     {
@@ -399,6 +399,79 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "俄罗斯总统普京：已准备好就结束乌克兰战争展开谈判。",
+          "url": "https://flash.jin10.com/detail/20251219185437539800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "泰柬战争结束后，柬埔寨国内的政治格局会发生怎样的变化？",
+          "url": "https://www.zhihu.com/question/1983889195522085807",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
+        },
+        {
+          "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
+          "url": "https://wallstreetcn.com/livenews/3023908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "欧尔班称欧盟援乌使欧洲离战争更近",
+          "url": "https://wallstreetcn.com/livenews/3023783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "俄罗斯总统普京：不是俄罗斯在对西方国家发动战争，而是西方国家在通过乌克兰民族主义者对俄罗斯发动战争。",
+          "url": "https://flash.jin10.com/detail/20251219195706320800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        },
+        {
+          "title": "俄乌接近停战欧洲却陷“战争焦虑”",
+          "url": "https://www.toutiao.com/trending/7585460822256651812/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -461,68 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时27分 ~ 03时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "俄罗斯总统普京：已准备好就结束乌克兰战争展开谈判。",
-          "url": "https://flash.jin10.com/detail/20251219185437539800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "泰柬战争结束后，柬埔寨国内的政治格局会发生怎样的变化？",
-          "url": "https://www.zhihu.com/question/1983889195522085807",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时22分 ~ 12时32分]"
-        },
-        {
-          "title": "普京：特朗普采取措施结束乌克兰战争。 说俄罗斯拒绝任何方案是错误的。 准备好就结束乌克兰战争进行谈判。",
-          "url": "https://wallstreetcn.com/livenews/3023908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "欧尔班称欧盟援乌使欧洲离战争更近",
-          "url": "https://wallstreetcn.com/livenews/3023783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "俄乌接近停战欧洲却陷“战争焦虑”",
-          "url": "https://www.toutiao.com/trending/7585460822256651812/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时20分"
         }
       ]
     }
