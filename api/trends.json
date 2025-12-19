@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T11:22:19.884182+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-19T12:32:32.942085+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -79,6 +79,18 @@
           "time_info": "[04时18分 ~ 05时16分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
+        },
+        {
           "title": "美国密歇根州监管机构批准了公用事业公司DTE能源的一项申请，为甲骨文(ORCL.N)和OpenAI计划建设的大型数据中心项目供电。",
           "url": "https://flash.jin10.com/detail/20251219032029402800",
           "source": "金十数据",
@@ -99,17 +111,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：与美国政府将通过具有里程碑意义的“创世纪计划”，加大对人工智能基础设施和研发投资。与美国能源部签署谅解备忘录，以明确合作重点，助力加速科学发现。",
@@ -226,9 +227,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-19）",
+          "url": "https://flash.jin10.com/detail/20251219114005861800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "据纽约时报：民主党议员就利益冲突问题调查美国商务部长卢特尼克。民主党人质疑卢特尼克是否从人工智能数据中心获利。",
@@ -248,7 +260,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -312,7 +324,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -346,7 +358,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         },
@@ -357,7 +369,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
         }
@@ -425,11 +437,12 @@
           "url": "https://www.zhihu.com/question/1983889195522085807",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时22分 ~ 12时32分]"
         }
       ]
     }
