@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T12:24:28.966144+08:00",
-  "total_titles_processed": 983,
+  "generated_at": "2025-12-20T13:18:19.535898+08:00",
+  "total_titles_processed": 1035,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时13分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时13分 ~ 13时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
@@ -112,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时18分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[06时18分 ~ 13时18分]"
         },
         {
           "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
