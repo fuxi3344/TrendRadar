@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:18:12.045728+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-12-21T18:18:36.313746+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             6,
             8,
             13,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 17时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时18分 ~ 18时18分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -172,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时18分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -211,11 +212,12 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时18分 ~ 17时18分]"
+          "appearance_count": 8,
+          "time_info": "[13时18分 ~ 18时18分]"
         },
         {
           "title": "金价又涨了",
@@ -256,11 +258,12 @@
             15,
             17,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时35分 ~ 17时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时35分 ~ 18时18分]"
         },
         {
           "title": "匈牙利总理：欧盟的战争逻辑正在加剧",
