@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T04:19:22.120241+08:00",
-  "total_titles_processed": 409,
+  "generated_at": "2025-12-22T05:15:49.524227+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时15分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时19分]"
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 05时15分]"
         }
       ]
     },
@@ -46,8 +46,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     },
@@ -64,8 +64,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 04时19分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 05时15分]"
         }
       ]
     },
@@ -82,8 +82,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 05时15分]"
         }
       ]
     },
@@ -97,11 +97,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时15分]"
         }
       ]
     }
