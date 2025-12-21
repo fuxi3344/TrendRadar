@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T15:17:38.521554+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-12-21T16:23:03.494390+08:00",
+  "total_titles_processed": 994,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             7,
             12,
             17,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时23分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -56,11 +57,12 @@
           "ranks": [
             1,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
@@ -164,11 +166,12 @@
             9,
             7,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时27分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时23分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -186,11 +189,12 @@
           "url": "https://wallstreetcn.com/articles/3761777",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 15时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时26分 ~ 16时23分]"
         }
       ]
     },
@@ -207,8 +211,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时18分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "金价又涨了",
@@ -247,11 +251,12 @@
             5,
             10,
             15,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 15时17分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 16时23分]"
         },
         {
           "title": "匈牙利总理：欧盟的战争逻辑正在加剧",
