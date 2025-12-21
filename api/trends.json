@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T16:23:03.494390+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2025-12-21T17:18:12.045728+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,27 @@
             12,
             17,
             19,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时18分]"
+        },
+        {
+          "title": "日本将启动耗资190亿美元的国家人工智能项目",
+          "url": "https://flash.jin10.com/detail/20251221125612562800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            8,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 17时18分]"
         },
         {
           "title": "浙江：加快推动人工智能创新发展高地建设，全面实施“人工智能+”行动",
@@ -49,20 +65,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时27分 ~ 15时17分]"
-        },
-        {
-          "title": "日本将启动耗资190亿美元的国家人工智能项目",
-          "url": "https://flash.jin10.com/detail/20251221125612562800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 16时23分]"
         },
         {
           "title": "世贸报告：人工智能到2040年或推动全球贸易增长近四成",
@@ -170,8 +172,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[11时27分 ~ 17时18分]"
         },
         {
           "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
@@ -193,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时26分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[14时26分 ~ 17时18分]"
         }
       ]
     },
@@ -208,11 +210,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 16时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 17时18分]"
         },
         {
           "title": "金价又涨了",
@@ -252,11 +255,12 @@
             10,
             15,
             17,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 17时18分]"
         },
         {
           "title": "匈牙利总理：欧盟的战争逻辑正在加剧",
