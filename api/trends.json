@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T06:18:41.199820+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2025-12-23T07:18:06.168195+08:00",
+  "total_titles_processed": 636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -84,6 +84,28 @@
           "time_info": "[04时20分 ~ 05时17分]"
         },
         {
+          "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
+          "url": "https://flash.jin10.com/detail/20251223062302646800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "美国总统特朗普：海军和我将主导这些舰艇的设计，人工智能将在这些舰艇中发挥重要作用。",
+          "url": "https://flash.jin10.com/detail/20251223062159477800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
           "title": "deepseek崩了",
           "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=27&Refer=top",
           "source": "微博",
@@ -110,8 +132,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时17分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[01时17分 ~ 07时18分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -141,11 +163,12 @@
             21,
             6,
             20,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时18分]"
         },
         {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
