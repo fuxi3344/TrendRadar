@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T12:36:26.860360+08:00",
-  "total_titles_processed": 1073,
+  "generated_at": "2025-12-23T13:22:38.621658+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -72,6 +72,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223120023669800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 13时22分]"
+        },
+        {
           "title": "美国银行CEO莫伊尼汉：从长远来看，人工智能将用于提高收入。",
           "url": "https://flash.jin10.com/detail/20251223025241012800",
           "source": "金十数据",
@@ -82,17 +94,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时17分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-23）",
-          "url": "https://flash.jin10.com/detail/20251223120023669800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "美国总统特朗普：新的舰艇将“高程度地由人工智能控制”。",
@@ -145,8 +146,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时17分 ~ 12时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时17分 ~ 13时22分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -175,7 +176,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -206,6 +207,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时20分]"
+        },
+        {
+          "title": "金价大涨的背后原因是什么",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%9A%84%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时22分"
         }
       ]
     },
@@ -219,11 +231,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时24分 ~ 12时36分]"
+          "appearance_count": 4,
+          "time_info": "[11时24分 ~ 13时22分]"
         }
       ]
     }
