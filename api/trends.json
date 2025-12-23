@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T15:22:33.121905+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2025-12-23T16:26:43.658838+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国联邦贸易委员会（FTC）：为响应美国总统特朗普的人工智能行动计划，已重新启动并搁置对Rytr的最终命令。",
@@ -84,6 +84,17 @@
           "time_info": "[12时36分 ~ 13时22分]"
         },
         {
+          "title": "2026年全国交通运输工作会议召开：加强关键核心技术攻关，深入实施“人工智能+交通运输”行动",
+          "url": "https://wallstreetcn.com/livenews/3025475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美国银行CEO莫伊尼汉：从长远来看，人工智能将用于提高收入。",
           "url": "https://flash.jin10.com/detail/20251223025241012800",
           "source": "金十数据",
@@ -131,65 +142,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
-          "url": "https://wallstreetcn.com/articles/3761857",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时17分 ~ 15时22分]"
-        },
-        {
-          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
-          "url": "https://wallstreetcn.com/livenews/3025122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3025398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 15时22分]"
-        },
-        {
-          "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
-          "url": "https://flash.jin10.com/detail/20251223105452549800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价飙涨 有新人快被“三金”愁哭了",
@@ -227,11 +181,12 @@
           "source": "微博",
           "ranks": [
             8,
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 15时22分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 16时26分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -243,6 +198,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "金价银价同日创新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%90%8C%E6%97%A5%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时17分 ~ 16时26分]"
+        },
+        {
+          "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
+          "url": "https://wallstreetcn.com/livenews/3025122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "尼日利亚与谷歌就新海底电缆进行深入谈判。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3025398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时30分 ~ 15时22分]"
+        },
+        {
+          "title": "谷歌老兵挂帅 乐天集团以“极致性价比”深耕AI领域",
+          "url": "https://flash.jin10.com/detail/20251223105452549800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
