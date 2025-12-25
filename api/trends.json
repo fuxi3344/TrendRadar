@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T01:16:33.825062+08:00",
-  "total_titles_processed": 353,
+  "generated_at": "2025-12-26T02:26:10.417287+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
     {
@@ -8,27 +8,29 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
+          "url": "https://www.zhihu.com/question/1987171318681068732",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 02时26分]"
+        },
+        {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
           "url": "https://wallstreetcn.com/livenews/3026784",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
-        },
-        {
-          "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
-          "url": "https://www.zhihu.com/question/1987171318681068732",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -44,8 +46,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     },
@@ -61,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 01时16分]"
+          "appearance_count": 3,
+          "time_info": "[00时22分 ~ 02时26分]"
         }
       ]
     }
