@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T15:20:26.743561+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2025-12-26T16:26:00.535949+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时33分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时33分 ~ 16时26分]"
         },
         {
           "title": "报道：鸿海向日本政府寻求补贴 以在当地生产人工智能服务器",
@@ -138,27 +138,28 @@
           "time_info": "[00时22分 ~ 07时17分]"
         },
         {
+          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
+          "url": "https://wallstreetcn.com/articles/3762105",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时23分 ~ 16时26分]"
+        },
+        {
           "title": "金十图示：2025年12月26日（周五）上海金午盘价为1009.96元/克，较国际金价(1016.24元/克)，低6.28元/克",
           "url": "https://flash.jin10.com/detail/20251226150518760800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
-        },
-        {
-          "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
-          "url": "https://wallstreetcn.com/articles/3762105",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时23分 ~ 15时20分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -196,8 +197,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时26分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -256,11 +257,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 16时26分]"
         }
       ]
     },
@@ -278,8 +280,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 15时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 16时26分]"
         }
       ]
     },
