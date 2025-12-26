@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:33:10.780230+08:00",
-  "total_titles_processed": 926,
+  "generated_at": "2025-12-26T13:20:18.126585+08:00",
+  "total_titles_processed": 965,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时20分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -54,11 +54,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            23
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时23分 ~ 13时20分]"
+        },
+        {
+          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
+          "url": "https://flash.jin10.com/detail/20251226112935984800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时23分 ~ 12时33分]"
+          "time_info": "[12时33分 ~ 13时20分]"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -81,34 +94,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
-        },
-        {
-          "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
-          "url": "https://flash.jin10.com/detail/20251226112935984800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "国家发改委：国家创业投资引导基金将对集成电路、人工智能、航空航天、低空经济等领域的早期项目和企业加大投资力度",
           "url": "https://www.cls.cn/detail/2240698",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时20分]"
+        },
+        {
+          "title": "报道：鸿海向日本政府寻求补贴 以在当地生产人工智能服务器",
+          "url": "https://wallstreetcn.com/livenews/3027044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时33分"
+          "time_info": "13时20分"
         },
         {
           "title": "据日经新闻：富士通加入由软银牵头的下一代人工智能内存项目。",
@@ -128,33 +142,36 @@
           "url": "https://flash.jin10.com/detail/20251226114833609800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时20分]"
         },
         {
           "title": "朱光耀：人工智能发展需在伦理规范与治理规则方面形成共识",
           "url": "https://wallstreetcn.com/livenews/3027016",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时20分]"
         },
         {
           "title": "日本拟在预算中就对芯片和人工智能的支持增加三倍",
           "url": "https://flash.jin10.com/detail/20251226112803480800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时33分 ~ 13时20分]"
         }
       ]
     },
@@ -172,8 +189,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 12时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 13时20分]"
         }
       ]
     },
