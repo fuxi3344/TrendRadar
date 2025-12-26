@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T21:32:00.740734+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2025-12-26T22:18:18.470711+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
@@ -153,8 +153,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时23分 ~ 21时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时23分 ~ 22时18分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -198,6 +198,19 @@
           "time_info": "[00时22分 ~ 04时20分]"
         },
         {
+          "title": "金价暴涨还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 22时18分]"
+        },
+        {
           "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
           "url": "https://www.cls.cn/detail/2240558",
           "source": "财联社热门",
@@ -209,18 +222,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时28分 ~ 17时20分]"
-        },
-        {
-          "title": "金价暴涨还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 21时32分]"
         },
         {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
@@ -272,6 +273,36 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
+          "url": "https://wallstreetcn.com/articles/3762068",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时22分 ~ 18时20分]"
+        },
+        {
+          "title": "谷歌将允许用户更改Gmail邮箱地址",
+          "url": "https://flash.jin10.com/detail/20251226220031392800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "战争",
       "match_count": 2,
       "titles": [
@@ -299,25 +330,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时28分 ~ 17时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达急了？或被谷歌TPU逼到墙角，黄仁勋不惜代价也要“收编”Groq",
-          "url": "https://wallstreetcn.com/articles/3762068",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 18时20分]"
         }
       ]
     },
