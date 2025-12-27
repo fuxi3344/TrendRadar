@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T02:24:45.383798+08:00",
-  "total_titles_processed": 363,
+  "generated_at": "2025-12-28T03:14:01.742855+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -38,8 +38,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         },
         {
           "title": "2025江苏省人工智能产业发展大会召开",
@@ -49,14 +49,14 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "泽连斯基：俄罗斯无意结束战争",
@@ -66,8 +66,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时14分]"
+        },
+        {
+          "title": "泽连斯基称俄无意结束战争",
+          "url": "https://www.douyin.com/hot/2349337",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时13分 ~ 03时14分]"
         },
         {
           "title": "泽连斯基称俄罗斯无意结束战争",
