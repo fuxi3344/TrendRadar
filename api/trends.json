@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T19:14:58.233688+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2025-12-27T20:34:28.613770+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
@@ -15,11 +15,12 @@
             3,
             4,
             12,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 19时14分]"
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 20时34分]"
         },
         {
           "title": "周五（12月26日），人工智能（AI）赢家指数跌0.19%，报286.82点，本周累计上涨1.91%，整体持续走高。 AI软件先驱指数跌0.08%，报127.02点，本周累涨0.46%，23日美股盘初显著下挫——当时彻底回吐22日的涨幅。",
@@ -68,12 +69,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 05时16分]"
+        },
+        {
+          "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
+          "url": "https://www.cls.cn/detail/2241811",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "泽连斯基称俄罗斯无意结束战争",
@@ -81,11 +93,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时14分]"
+          "appearance_count": 3,
+          "time_info": "[18时18分 ~ 20时34分]"
         },
         {
           "title": "泽连斯基：俄罗斯选择用暴力“回答”外交努力，无意结束战争",
@@ -111,6 +124,17 @@
           "time_info": "[11时21分 ~ 12时31分]"
         },
         {
+          "title": "泽连斯基：俄罗斯无意结束战争",
+          "url": "https://news.ifeng.com/c/8pQgWq978i3",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
+        },
+        {
           "title": "王鸿薇：美国不可能介入台海战争",
           "url": "https://www.toutiao.com/trending/7587363585510899750/",
           "source": "今日头条",
@@ -125,7 +149,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "圣诞节后第一天，金银再创新高，《货币战争》作者“明年金价10000美元，银价200美元见！”",
@@ -138,6 +162,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 07时17分]"
+        },
+        {
+          "title": "金价上涨的受益者这里有一屋",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E4%B8%8A%E6%B6%A8%E7%9A%84%E5%8F%97%E7%9B%8A%E8%80%85%E8%BF%99%E9%87%8C%E6%9C%89%E4%B8%80%E5%B1%8B&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时34分"
         }
       ]
     },
