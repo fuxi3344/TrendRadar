@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T05:16:52.141487+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2025-12-29T06:17:42.029791+08:00",
+  "total_titles_processed": 447,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 05时16分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
+          "url": "https://flash.jin10.com/detail/20251229060057876800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     }
