@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T15:18:53.132047+08:00",
-  "total_titles_processed": 819,
+  "generated_at": "2025-12-28T16:24:04.526882+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时45分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[11时45分 ~ 16时24分]"
+        },
+        {
+          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
+          "url": "https://flash.jin10.com/detail/20251228132149206800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时24分]"
         },
         {
           "title": "伊朗总统：正与美欧打“全面战争”",
@@ -52,18 +65,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时18分]"
-        },
-        {
-          "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
-          "url": "https://flash.jin10.com/detail/20251228132149206800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -113,8 +114,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 15时18分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 16时24分]"
         },
         {
           "title": "中国研发人工智能地震实时监测系统 将助力全球地震监测",
@@ -145,11 +146,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时28分 ~ 15时18分]"
+          "appearance_count": 3,
+          "time_info": "[14时28分 ~ 16时24分]"
         }
       ]
     },
@@ -177,7 +179,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         }
