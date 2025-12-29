@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T18:21:14.148205+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-12-29T19:17:19.229879+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
@@ -91,7 +91,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "广州在全国率先设立区级人工智能发展局",
@@ -128,6 +128,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "涉及人工智能拟人化互动服务管理 国家网信办公开征求意见",
