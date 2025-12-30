@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T16:25:59.246167+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2025-12-30T17:22:55.868882+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -130,6 +130,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金价暴跌店员称跌幅首次见",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%BA%97%E5%91%98%E7%A7%B0%E8%B7%8C%E5%B9%85%E9%A6%96%E6%AC%A1%E8%A7%81%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时37分 ~ 17时22分]"
+        },
+        {
           "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
           "url": "https://www.zhihu.com/question/1989248950952288367",
           "source": "知乎",
@@ -137,18 +150,6 @@
             11,
             7,
             4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时37分 ~ 16时25分]"
-        },
-        {
-          "title": "金价暴跌店员称跌幅首次见",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%BA%97%E5%91%98%E7%A7%B0%E8%B7%8C%E5%B9%85%E9%A6%96%E6%AC%A1%E8%A7%81%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            22
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -172,7 +173,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -219,8 +220,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时29分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时22分]"
         }
       ]
     }
