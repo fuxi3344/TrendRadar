@@ -1,28 +1,11 @@
 {
-  "generated_at": "2026-01-01T04:19:56.244650+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-01-01T05:17:09.876494+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
-          "url": "https://flash.jin10.com/detail/20260101031526181800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
@@ -35,6 +18,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时16分]"
+        },
+        {
+          "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
+          "url": "https://www.zhihu.com/question/1987568735523980297",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时16分 ~ 05时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国总统马克龙马呼吁欧洲在人工智能和量子技术领域保持独立。",
+          "url": "https://flash.jin10.com/detail/20260101031526181800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 05时17分]"
         }
       ]
     }
