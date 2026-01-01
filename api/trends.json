@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T01:18:07.033530+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2026-01-02T02:26:44.120731+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -36,11 +36,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时23分 ~ 02时26分]"
         }
       ]
     },
@@ -54,11 +55,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            14
+            14,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
@@ -66,11 +68,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            12
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "据The Information：OpenAI采取措施改进语音AI模型。",
@@ -78,11 +81,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         }
       ]
     },
@@ -98,8 +102,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时23分 ~ 01时18分]"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时26分]"
         },
         {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
