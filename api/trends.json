@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T04:21:37.453063+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-01-02T05:17:45.479455+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -27,11 +27,12 @@
             20,
             17,
             16,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -42,8 +43,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 03时15分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 05时17分]"
         }
       ]
     },
@@ -63,8 +64,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
@@ -108,8 +109,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 04时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 05时17分]"
         },
         {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
