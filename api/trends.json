@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T06:18:33.305180+08:00",
-  "total_titles_processed": 478,
+  "generated_at": "2026-01-03T07:17:48.978880+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
@@ -77,8 +77,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "金价过山车有人变现近9斤黄金",
@@ -90,8 +90,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -99,11 +99,12 @@
           "source": "微博",
           "ranks": [
             27,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 07时17分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
@@ -131,8 +132,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
@@ -142,19 +143,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时17分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
           "url": "https://wallstreetcn.com/articles/3762454",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 07时17分]"
         }
       ]
     }
