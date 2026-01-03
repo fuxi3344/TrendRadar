@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-04T00:21:39.981595+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-04T01:16:04.876551+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国“战争部长”Hegseth：总统特朗普在阻止毒品流入美国方面“绝对是严肃的”。",
+          "url": "https://wallstreetcn.com/livenews/3030126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        },
         {
           "title": "美国众议长约翰逊宣称：（特朗普政府）在委内瑞拉的军事行动“是正当的”。 已经与国务卿卢比奥和“战争部长”Hegseth对话。",
           "url": "https://wallstreetcn.com/livenews/3030098",
