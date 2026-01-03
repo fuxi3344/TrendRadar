@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T05:16:26.593433+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-01-04T06:17:38.469473+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 06时17分]"
         },
         {
           "title": "美国总统特朗普：国务卿卢比奥和“战争部长”Hegseth将参与经营委内瑞拉政权的团队。 美国不会仅仅掳走总统马杜罗就离开（撒手不管）。",
@@ -30,8 +30,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时25分 ~ 05时16分]"
+          "appearance_count": 5,
+          "time_info": "[02时25分 ~ 06时17分]"
         },
         {
           "title": "美国“战争部长”Hegseth：总统特朗普在阻止毒品流入美国方面“绝对是严肃的”。",
@@ -83,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时20分 ~ 05时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时17分]"
         }
       ]
     }
