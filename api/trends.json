@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T18:18:48.891466+08:00",
-  "total_titles_processed": 1169,
+  "generated_at": "2026-01-03T19:15:23.627792+08:00",
+  "total_titles_processed": 1257,
   "failed_sources": [],
   "trends": [
     {
@@ -88,11 +88,12 @@
             24,
             12,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时22分 ~ 18时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时22分 ~ 19时15分]"
         },
         {
           "title": "Strategas Securities高级ETF策略师Todd Sohn：投资者对美国经济增长和人工智能（AI）持仓过重，他们正在寻找那些估值可能更低、或者在上一轮周期中表现不突出的领域。 新兴市场正好符合这一需求。",
