@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-04T16:24:14.607978+08:00",
-  "total_titles_processed": 1156,
+  "generated_at": "2026-01-04T17:18:07.882809+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国参议院Sanders呼吁国会山批准“战争权力解决方案”（立法草案）。",
@@ -72,6 +72,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时25分 ~ 03时14分]"
+        },
+        {
+          "title": "纽约市长：美对委实施打击构成战争罪",
+          "url": "https://www.baidu.com/s?wd=%E7%BA%BD%E7%BA%A6%E5%B8%82%E9%95%BF%EF%BC%9A%E7%BE%8E%E5%AF%B9%E5%A7%94%E5%AE%9E%E6%96%BD%E6%89%93%E5%87%BB%E6%9E%84%E6%88%90%E6%88%98%E4%BA%89%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "美国众议长约翰逊宣称：（特朗普政府）在委内瑞拉的军事行动“是正当的”。 已经与国务卿卢比奥和“战争部长”Hegseth对话。",
