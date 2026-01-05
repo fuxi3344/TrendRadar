@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T13:33:59.967206+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-01-05T14:35:24.032844+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "受人工智能相关上涨和日元疲软影响，日经225指数上涨3%。",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 13时33分]"
+          "appearance_count": 3,
+          "time_info": "[12时55分 ~ 14时35分]"
         },
         {
           "title": "韩国总统李在明：韩国与中国需要在人工智能领域扩大经济合作。",
@@ -44,6 +45,17 @@
           "time_info": "[12时55分 ~ 13时33分]"
         },
         {
+          "title": "人工智能投资助推亚洲新兴股市创2021年初以来新高",
+          "url": "https://flash.jin10.com/detail/20260105133147761800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-05）",
           "url": "https://flash.jin10.com/detail/20260105115209696800",
           "source": "金十数据",
@@ -68,11 +80,12 @@
             1,
             2,
             7,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 14时35分]"
         },
         {
           "title": "日本民间团体友好人士：高市言论本质是为发动战争制造舆论",
