@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T02:27:44.964389+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-07T03:14:56.566790+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 03时14分]"
         },
         {
           "title": "京瓷公司：在2026年国际消费电子展上推出全新人工智能、物联网和传感器解决方案。",
@@ -69,7 +69,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
         },
@@ -129,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时25分 ~ 02时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 03时14分]"
         }
       ]
     }
