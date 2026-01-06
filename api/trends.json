@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T17:24:49.042367+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-01-06T18:21:18.425391+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
@@ -125,11 +125,12 @@
           "ranks": [
             13,
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 17时24分]"
+          "appearance_count": 4,
+          "time_info": "[15时24分 ~ 18时21分]"
         },
         {
           "title": "瑞银上调金价目标至5000美元",
@@ -199,11 +200,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 17时24分]"
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 18时21分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
