@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T07:18:57.713602+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-07T09:24:29.101198+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 07时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时24分 ~ 09时24分]"
         },
         {
           "title": "京瓷公司：在2026年国际消费电子展上推出全新人工智能、物联网和传感器解决方案。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时25分"
+        },
+        {
+          "title": "市场消息：联想与英伟达(NVDA.O)合作开展“千兆瓦级人工智能工厂”项目，以加速企业人工智能应用进程。",
+          "url": "https://flash.jin10.com/detail/20260107090158203800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时24分"
         },
         {
           "title": "AMD的CEO苏姿丰：计算能力（算力）必须在4-5年增长100倍。 我们处于解锁人工智能（AI）的“早期”。 中国对AI的需求偏高。 公司在企业级笔记本领域“的市场份额还有拓展空间”。（彭博电视）",
