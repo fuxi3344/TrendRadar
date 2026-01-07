@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T22:22:05.867647+08:00",
-  "total_titles_processed": 2108,
+  "generated_at": "2026-01-07T23:22:14.070510+08:00",
+  "total_titles_processed": 2211,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时22分]"
         },
         {
           "title": "京瓷公司：在2026年国际消费电子展上推出全新人工智能、物联网和传感器解决方案。",
@@ -196,6 +196,18 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时38分 ~ 23时22分]"
+        },
+        {
           "title": "泰国央行：泰铢的升值与美元走弱和金价上涨是相符的。",
           "url": "https://flash.jin10.com/detail/20260107111347667800",
           "source": "金十数据",
@@ -272,17 +284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         }
       ]
     },
