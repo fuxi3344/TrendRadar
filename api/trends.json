@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T18:22:17.302117+08:00",
-  "total_titles_processed": 1698,
+  "generated_at": "2026-01-07T19:18:52.309432+08:00",
+  "total_titles_processed": 1804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国人工智能技术正这样走向世界",
@@ -54,6 +54,17 @@
           "time_info": "[04时21分 ~ 05时18分]"
         },
         {
+          "title": "八部门联合发文，事关“人工智能+制造”",
+          "url": "https://www.cls.cn/detail/2250761",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "恩智浦半导体(NXPI.O)与通用电气医疗集团宣布合作，旨在引领边缘人工智能创新的新突破。",
           "url": "https://flash.jin10.com/detail/20260107000134478800",
           "source": "金十数据",
@@ -82,7 +93,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -93,7 +104,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -235,7 +246,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -296,6 +307,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时25分 ~ 05时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "叙利亚民主军（SDF）称，80多辆坦克和重型军用车辆集中在阿勒颇的阿什拉菲亚（Al-Ashrafiyah）和谢赫马苏德（Sheikh Maqsoud）社区周围，这是一个危险的迹象，预示着局势会广泛升级，有可能爆发一场大规模战争。",
+          "url": "https://flash.jin10.com/detail/20260107185808918800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         }
       ]
     }
