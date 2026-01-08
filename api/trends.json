@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T19:19:28.084066+08:00",
-  "total_titles_processed": 1761,
+  "generated_at": "2026-01-08T20:40:09.039220+08:00",
+  "total_titles_processed": 1875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -76,6 +76,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "人工智能“上海高地”加速崛起：专业人才近30万 139款大模型完成备案",
+          "url": "https://wallstreetcn.com/livenews/3033305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         },
         {
           "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
@@ -177,6 +188,80 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "俄乌战争再现“和平信号”？泽连斯基乐观预测：上半年应能结束！",
+          "url": "https://www.cls.cn/detail/2251228",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时27分 ~ 16时27分]"
+        },
+        {
+          "title": "俄继续揭露日本战争罪行 外交部回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BB%A7%E7%BB%AD%E6%8F%AD%E9%9C%B2%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时19分 ~ 20时40分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰理解美国将与俄罗斯对话，并正在等待莫斯科方面是否准备结束战争的反馈。",
+          "url": "https://flash.jin10.com/detail/20260108200950462800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
+        },
+        {
+          "title": "美国参议院今日将就针对委内瑞拉的战争权力决议案进行程序性投票。去年秋季该决议以51票反对，49票支持被否决。",
+          "url": "https://flash.jin10.com/detail/20260108175934168800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "伊朗外长称做好准备应对战争",
+          "url": "https://wallstreetcn.com/livenews/3033233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
+          "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
+          "url": "https://wallstreetcn.com/livenews/3032696",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -238,69 +323,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "俄乌战争再现“和平信号”？泽连斯基乐观预测：上半年应能结束！",
-          "url": "https://www.cls.cn/detail/2251228",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
-          "title": "美国参议院今日将就针对委内瑞拉的战争权力决议案进行程序性投票。去年秋季该决议以51票反对，49票支持被否决。",
-          "url": "https://flash.jin10.com/detail/20260108175934168800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "伊朗外长称做好准备应对战争",
-          "url": "https://wallstreetcn.com/livenews/3033233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
-        },
-        {
-          "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
-          "url": "https://wallstreetcn.com/livenews/3032696",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "俄继续揭露日本战争罪行 外交部回应",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BB%A7%E7%BB%AD%E6%8F%AD%E9%9C%B2%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时19分"
         }
       ]
     },
