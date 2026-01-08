@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T11:27:52.986697+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-01-08T12:38:08.082586+08:00",
+  "total_titles_processed": 1087,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "八部门联合发文，事关“人工智能+制造”",
@@ -64,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时22分 ~ 05时18分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108115540261800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -171,7 +182,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -197,11 +208,12 @@
           "url": "https://www.cls.cn/detail/2251228",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 12时38分]"
         },
         {
           "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
