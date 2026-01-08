@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T14:31:26.573823+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-01-08T15:22:52.068071+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -81,7 +81,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "时隔七年 谷歌市值重新超越苹果",
@@ -100,11 +100,23 @@
           "url": "https://www.zhihu.com/question/1992511254795870608",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 15时22分]"
+        },
+        {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时31分"
+          "time_info": "15时22分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
@@ -132,8 +144,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
+          "url": "https://flash.jin10.com/detail/20260108150325507800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
+        },
         {
           "title": "金价已在历史高位 央行为何还在买",
           "url": "https://www.toutiao.com/trending/7592763349536869894/",
@@ -164,7 +187,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时31分"
         },
@@ -236,8 +259,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时27分 ~ 14时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时27分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
