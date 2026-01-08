@@ -1,447 +1,50 @@
 {
-  "generated_at": "2026-01-08T23:22:50.446132+08:00",
-  "total_titles_processed": 2161,
+  "generated_at": "2026-01-09T00:26:51.946702+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "八部门联合发文，事关“人工智能+制造”",
-          "url": "https://www.cls.cn/detail/2250761",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时18分]"
-        },
-        {
-          "title": "合肥“十五五”规划建议：聚力打造全国领先的人工智能创新高地",
-          "url": "https://wallstreetcn.com/livenews/3032819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时24分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-08）",
-          "url": "https://flash.jin10.com/detail/20260108115540261800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时22分]"
-        },
-        {
-          "title": "花旗：Vera Rubin将为英伟达带来5万亿美元人工智能机遇。",
-          "url": "https://wallstreetcn.com/livenews/3032692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时18分 ~ 06时18分]"
-        },
-        {
-          "title": "谷歌与Character.AI达成和解协议，该和解协议旨在解决一起声称由人工智能聊天机器人导致青少年自杀的诉讼案件。",
-          "url": "https://flash.jin10.com/detail/20260108033431215800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时18分]"
-        },
-        {
-          "title": "公司高管称，Arm(ARM.O)重组公司并成立物理人工智能部门，以扩大机器人芯片技术布局。",
-          "url": "https://flash.jin10.com/detail/20260108033311290800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时18分]"
-        },
-        {
-          "title": "20页→86页！DeepSeek“爆更”论文",
-          "url": "https://wallstreetcn.com/livenews/3033376",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "人工智能“上海高地”加速崛起：专业人才近30万 139款大模型完成备案",
-          "url": "https://wallstreetcn.com/livenews/3033305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "润建股份：与京东科技签订战略合作框架协议，双方就人工智能（AI）应用、云计算、智能算力等领域的合作，双方共同投入核心资源，在南宁五象云谷智算中心合作部署京东云专属高性能智算节点，计划联合打造广西云服务节点。",
-          "url": "https://wallstreetcn.com/livenews/3033147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "Fiserv与微软(MSFT.O)达成协议，将人工智能嵌入Fiserv平台。",
-          "url": "https://flash.jin10.com/detail/20260108213237813800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时22分 ~ 19时19分]"
-        },
-        {
-          "title": "时隔七年 谷歌市值重新超越苹果",
-          "url": "https://flash.jin10.com/detail/20260108054913345800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时18分]"
-        },
-        {
-          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
-          "url": "https://www.zhihu.com/question/1992511254795870608",
-          "source": "知乎",
-          "ranks": [
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时31分 ~ 15时22分]"
-        },
-        {
-          "title": "谷歌：在Gmail中引入新的AI功能。",
-          "url": "https://wallstreetcn.com/livenews/3033344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：在Gmail中引入新的AI功能。",
-          "url": "https://flash.jin10.com/detail/20260108210752777800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "六天蒸发两千亿 苹果跌落神坛 谷歌凭Gemini逆袭",
-          "url": "https://flash.jin10.com/detail/20260108224229611800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时22分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收涨2.4%，Meta跌1.8%",
-          "url": "https://wallstreetcn.com/livenews/3032705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "谷歌母公司Alphabet市值超越苹果，为2019年以来首次",
-          "url": "https://wallstreetcn.com/livenews/3032700",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "战争",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "俄乌战争再现“和平信号”？泽连斯基乐观预测：上半年应能结束！",
-          "url": "https://www.cls.cn/detail/2251228",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时27分 ~ 16时27分]"
-        },
-        {
-          "title": "俄继续揭露日本战争罪行 外交部回应",
-          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BB%A7%E7%BB%AD%E6%8F%AD%E9%9C%B2%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时19分 ~ 20时40分]"
-        },
-        {
-          "title": "伊朗外长称做好准备应对战争",
-          "url": "https://www.toutiao.com/trending/7592934897070227519/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 23时22分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰理解美国将与俄罗斯对话，并正在等待莫斯科方面是否准备结束战争的反馈。",
-          "url": "https://flash.jin10.com/detail/20260108200950462800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "美国参议院今日将就针对委内瑞拉的战争权力决议案进行程序性投票。去年秋季该决议以51票反对，49票支持被否决。",
-          "url": "https://flash.jin10.com/detail/20260108175934168800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时21分"
-        },
-        {
-          "title": "伊朗外长称做好准备应对战争",
-          "url": "https://wallstreetcn.com/livenews/3033233",
+          "title": "伊朗外长：已为任何可能发生的情况做好战争准备",
+          "url": "https://wallstreetcn.com/livenews/3033451",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时19分"
+          "time_info": "00时26分"
         },
         {
-          "title": "美国总统特朗普：Raytheon对“战争部”的回应最不负责任，该公司必须停止回购股票。 威胁要在投资问题上砍掉（政府/五角大楼）与该公司的联系。",
-          "url": "https://wallstreetcn.com/livenews/3032696",
+          "title": "俄罗斯外交部：“志愿联盟”和乌克兰为“战争轴心”",
+          "url": "https://wallstreetcn.com/livenews/3033440",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "德国总理默茨：俄罗斯目前并不想要停火，因此我们必须提高战争的代价。",
-          "url": "https://flash.jin10.com/detail/20260108203552560800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月08日（周四）上海金午盘价为995.88元/克，较国际金价(995.17元/克)，高0.71元/克",
-          "url": "https://flash.jin10.com/detail/20260108150325507800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 18时21分]"
-        },
-        {
-          "title": "金价已在历史高位 央行为何还在买",
-          "url": "https://www.toutiao.com/trending/7592763349536869894/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 11时27分]"
-        },
-        {
-          "title": "汇丰银行：受地缘政治风险和财政债务上升影响，黄金价格或在2026年上半年触及5000美元/盎司；交易波动性水平可能较高。",
-          "url": "https://flash.jin10.com/detail/20260108171213389800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
-          "url": "https://flash.jin10.com/detail/20260108102327736800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美元走强压制金价 投资者警惕市场波动与获利回吐",
-          "url": "https://flash.jin10.com/detail/20260108135145706800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时31分"
-        },
-        {
-          "title": "国际金价为何一路狂飙",
-          "url": "https://www.toutiao.com/trending/7591730575850602502/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI发布ChatGPT Health，用于评估体检结果和饮食",
-          "url": "https://wallstreetcn.com/livenews/3032657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时22分]"
-        },
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "OpenAI推出ChatGPT Health，用于分析医疗结果和饮食方案",
-          "url": "https://flash.jin10.com/detail/20260108030510490800",
-          "source": "金十数据",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时18分]"
-        },
-        {
-          "title": "OpenAI设立500亿美元员工股票奖励池。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3032785",
+          "title": "英国首相斯塔默发誓，要对马斯克旗下社交媒体平台X（原名推特）采取“紧急”行动。 斯塔默希望，马斯克能就自家人工智能（AI）工具Grok生成的、涉及儿童的性化图像（含有性暗示的图像）“改正自身表现”。 “这简直是耻辱，太恶心了，绝对不能就这么算了！”",
+          "url": "https://wallstreetcn.com/livenews/3033439",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时24分"
+          "time_info": "00时26分"
         }
       ]
     }
