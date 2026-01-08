@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T03:17:44.564874+08:00",
-  "total_titles_processed": 511,
+  "generated_at": "2026-01-09T04:22:31.030259+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国总统特朗普：就“参议院寻求限制我对委内瑞拉继续动武”的表决结果谴责参议院共和党。 “战争权法案”是违反宪法的。",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 01时25分]"
+        },
+        {
+          "title": "特朗普：支持推进“限制总统战争权”的共和党议员不应连任",
+          "url": "https://wallstreetcn.com/livenews/3033503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时22分]"
         },
         {
           "title": "据福克斯新闻：委内瑞拉战争权力决议的测试投票刚刚以52比47的投票结果正式通过，其中5名共和党人与所有民主党人一起投了赞成票。",
@@ -62,17 +74,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
-        },
-        {
-          "title": "特朗普：支持推进“限制总统战争权”的共和党议员不应连任",
-          "url": "https://wallstreetcn.com/livenews/3033503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时17分"
         },
         {
           "title": "美国总统特朗普：共和党人应该为那些在战争权力法案上与民主党人投票一致的参议员感到羞耻。",
@@ -114,7 +115,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
         },
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "俄继续揭露日本战争罪行 外交部回应",
+          "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BB%A7%E7%BB%AD%E6%8F%AD%E9%9C%B2%E6%97%A5%E6%9C%AC%E6%88%98%E4%BA%89%E7%BD%AA%E8%A1%8C+%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
         }
       ]
     },
@@ -161,25 +173,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
-          "url": "https://www.cls.cn/detail/2252328",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时17分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenAI的应用内支付结算计划的推进速度低于预期，因为该公司在统一商家数据方面遇到了困难。",
@@ -188,9 +183,38 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "“中国OpenAI”登陆港交所 2026将成大模型资本化关键年?",
+          "url": "https://www.cls.cn/detail/2252286",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加速AI落地 谷歌为Gmail引入更多Gemini功能",
+          "url": "https://www.cls.cn/detail/2252328",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 04时22分]"
         }
       ]
     }
