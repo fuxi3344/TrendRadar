@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T16:23:09.259125+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2026-01-10T17:18:24.577687+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 16时23分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 17时18分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -55,11 +55,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时18分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[07时18分 ~ 17时18分]"
         },
         {
           "title": "有数｜全球最快上市的AI公司来了！人工智能高地拼的是什么？",
@@ -84,8 +85,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时18分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -94,11 +95,12 @@
           "ranks": [
             6,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时26分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时26分 ~ 17时18分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -119,11 +121,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时18分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -300,7 +303,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价",
@@ -310,11 +313,12 @@
             8,
             12,
             22,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时32分 ~ 15时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 17时18分]"
         },
         {
           "title": "中信证券：特朗普任期内黄金价格将因委内瑞拉事件加速上行",
@@ -354,6 +358,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时22分 ~ 11时22分]"
+        },
+        {
+          "title": "金价飙涨美元一跌再跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E6%B6%A8%E7%BE%8E%E5%85%83%E4%B8%80%E8%B7%8C%E5%86%8D%E8%B7%8C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时18分"
         }
       ]
     },
