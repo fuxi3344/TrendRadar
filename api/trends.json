@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T15:19:51.820950+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-01-11T16:23:49.719248+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时21分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -70,11 +70,12 @@
             21,
             22,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时41分 ~ 15时19分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 16时23分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -84,11 +85,12 @@
             11,
             5,
             4,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时47分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[11时47分 ~ 16时23分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -133,8 +135,47 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金价将走向何方",
+          "url": "https://www.toutiao.com/trending/7593981430330297862/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "金价新高不断 还能上车吗",
+          "url": "https://www.toutiao.com/trending/7593887858499259940/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "金价飙升银行紧急提示",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E9%93%B6%E8%A1%8C%E7%B4%A7%E6%80%A5%E6%8F%90%E7%A4%BA&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -147,23 +188,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 09时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "金价新高不断 还能上车吗",
-          "url": "https://www.toutiao.com/trending/7593887858499259940/",
-          "source": "今日头条",
+          "title": "谷歌创始人“逃离”硅谷",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E2%80%9C%E9%80%83%E7%A6%BB%E2%80%9D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时23分"
+          "time_info": "16时23分"
         }
       ]
     },
