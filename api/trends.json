@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:23:29.994164+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-01-11T14:28:50.733473+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 13时23分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 14时28分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -68,11 +68,12 @@
             4,
             2,
             21,
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时41分 ~ 13时23分]"
+          "appearance_count": 6,
+          "time_info": "[09时41分 ~ 14时28分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -95,11 +96,25 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时47分 ~ 13时23分]"
+          "appearance_count": 5,
+          "time_info": "[11时47分 ~ 14时28分]"
+        },
+        {
+          "title": "邵宇：人工智能或是人类历史上最大的一次泡沫",
+          "url": "https://wallstreetcn.com/livenews/3034622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时45分 ~ 14时28分]"
         },
         {
           "title": "Grok人工智能色情图片争议升级，马斯克诟骂英国政府“法西斯”",
@@ -112,18 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 09时41分]"
-        },
-        {
-          "title": "邵宇：人工智能或是人类历史上最大的一次泡沫",
-          "url": "https://wallstreetcn.com/livenews/3034622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时23分]"
         }
       ]
     },
@@ -156,7 +159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
         }
