@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T18:18:50.516241+08:00",
-  "total_titles_processed": 1045,
+  "generated_at": "2026-01-11T19:15:54.659660+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时21分 ~ 18时18分]"
+          "appearance_count": 20,
+          "time_info": "[00时21分 ~ 19时15分]"
         },
         {
           "title": "南大人工智能学科排名全球第一",
@@ -171,7 +171,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时18分"
         },
