@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T04:20:36.007403+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-01-12T05:16:41.888693+08:00",
+  "total_titles_processed": 407,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时16分]"
+        },
+        {
+          "title": "为什么克里米亚战争和第二次鸦片战争，英国和法国能联合起来？",
+          "url": "https://www.zhihu.com/question/464354468",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时25分 ~ 05时16分]"
         },
         {
           "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
@@ -29,18 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "为什么克里米亚战争和第二次鸦片战争，英国和法国能联合起来？",
-          "url": "https://www.zhihu.com/question/464354468",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时20分]"
         }
       ]
     },
@@ -54,11 +55,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时16分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -66,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时22分 ~ 04时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时22分 ~ 05时16分]"
         }
       ]
     },
@@ -86,8 +89,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 04时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 05时16分]"
         }
       ]
     },
