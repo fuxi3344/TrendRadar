@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-12T21:40:56.848171+08:00",
-  "total_titles_processed": 1696,
+  "generated_at": "2026-01-12T22:23:42.450859+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
       "match_count": 11,
       "titles": [
+        {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时29分 ~ 22时23分]"
+        },
         {
           "title": "一场新的战争，已是一触即发",
           "url": "https://news.ifeng.com/c/8pqX9ztGGoz",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时28分 ~ 16时28分]"
-        },
-        {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时29分 ~ 21时40分]"
         },
         {
           "title": "俄乌战争2026将何去何从",
@@ -264,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时25分 ~ 21时40分]"
+          "appearance_count": 8,
+          "time_info": "[15时25分 ~ 22时23分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
