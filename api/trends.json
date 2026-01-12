@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T20:41:28.436015+08:00",
-  "total_titles_processed": 1587,
+  "generated_at": "2026-01-12T21:40:56.848171+08:00",
+  "total_titles_processed": 1696,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[09时28分 ~ 16时28分]"
         },
         {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时29分 ~ 21时40分]"
+        },
+        {
           "title": "俄乌战争2026将何去何从",
           "url": "https://search.bilibili.com/all?keyword=%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%892026%E5%B0%86%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
           "source": "bilibili 热搜",
@@ -29,17 +40,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时22分 ~ 19时19分]"
-        },
-        {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时29分 ~ 20时41分]"
         },
         {
           "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
@@ -264,8 +264,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时25分 ~ 20时41分]"
+          "appearance_count": 7,
+          "time_info": "[15时25分 ~ 21时40分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
