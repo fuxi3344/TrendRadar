@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T01:21:39.393587+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-01-13T02:29:07.819618+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时24分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时24分 ~ 02时29分]"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -79,7 +79,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
@@ -92,6 +92,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "诺华制药(NVS.N)CEO：对与合作伙伴共同探索人工智能赋能方式持开放态度。",
+          "url": "https://flash.jin10.com/detail/20260113013427671800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         },
         {
           "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
