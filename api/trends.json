@@ -1,8 +1,129 @@
 {
-  "generated_at": "2026-01-12T16:28:56.520921+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-01-12T17:30:13.872741+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "战争",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "一场新的战争，已是一触即发",
+          "url": "https://news.ifeng.com/c/8pqX9ztGGoz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时28分]"
+        },
+        {
+          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
+          "url": "https://wallstreetcn.com/livenews/3034739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            18,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 06时18分]"
+        },
+        {
+          "title": "为什么克里米亚战争和第二次鸦片战争，英国和法国能联合起来？",
+          "url": "https://www.zhihu.com/question/464354468",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时25分 ~ 06时18分]"
+        },
+        {
+          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
+          "url": "https://flash.jin10.com/detail/20260111205812330800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "美总统称美国靠战争赚钱",
+          "url": "https://www.toutiao.com/trending/7593344390068846634/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "委官员：绑架委内瑞拉总统是“战争罪”",
+          "url": "https://wallstreetcn.com/livenews/3034775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 07时17分]"
+        },
+        {
+          "title": "委内瑞拉官员称美国的入侵是21世纪的战争罪",
+          "url": "https://wallstreetcn.com/livenews/3034785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
+          "url": "https://wallstreetcn.com/livenews/3035145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
+          "title": "丹麦称若因格陵兰岛发生战争将很愚蠢",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%A7%B0%E8%8B%A5%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E7%94%9F%E6%88%98%E4%BA%89%E5%B0%86%E5%BE%88%E6%84%9A%E8%A0%A2%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "金价",
       "match_count": 7,
@@ -16,8 +137,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时48分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时48分 ~ 17时30分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -89,96 +210,8 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "一场新的战争，已是一触即发",
-          "url": "https://news.ifeng.com/c/8pqX9ztGGoz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 16时28分]"
-        },
-        {
-          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
-          "url": "https://wallstreetcn.com/livenews/3034739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 06时18分]"
-        },
-        {
-          "title": "为什么克里米亚战争和第二次鸦片战争，英国和法国能联合起来？",
-          "url": "https://www.zhihu.com/question/464354468",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时25分 ~ 06时18分]"
-        },
-        {
-          "title": "丹麦议会高层：若因格陵兰岛发生战争将很“愚蠢”",
-          "url": "https://flash.jin10.com/detail/20260111205812330800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 03时14分]"
-        },
-        {
-          "title": "委官员：绑架委内瑞拉总统是“战争罪”",
-          "url": "https://wallstreetcn.com/livenews/3034775",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 07时17分]"
-        },
-        {
-          "title": "委内瑞拉官员称美国的入侵是21世纪的战争罪",
-          "url": "https://wallstreetcn.com/livenews/3034785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "丹麦称若因格陵兰岛发生战争将很愚蠢",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E7%A7%B0%E8%8B%A5%E5%9B%A0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E5%8F%91%E7%94%9F%E6%88%98%E4%BA%89%E5%B0%86%E5%BE%88%E6%84%9A%E8%A0%A2%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -217,8 +250,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时28分]"
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时30分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -231,6 +264,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时28分 ~ 14时33分]"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
+          "url": "https://flash.jin10.com/detail/20260112170114771800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         }
       ]
     },
