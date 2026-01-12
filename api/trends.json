@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T05:18:19.803850+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-01-13T06:17:22.764010+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时24分 ~ 05时18分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 06时17分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时21分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3035583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
@@ -90,7 +101,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
@@ -116,6 +127,17 @@
           "time_info": "02时29分"
         },
         {
+          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
+          "url": "https://flash.jin10.com/detail/20260113050153642800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
+        },
+        {
           "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
           "url": "https://flash.jin10.com/detail/20260112232350979800",
           "source": "金十数据",
@@ -137,11 +159,12 @@
           "url": "https://wallstreetcn.com/livenews/3035563",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时18分 ~ 06时17分]"
         },
         {
           "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
@@ -150,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         },
@@ -161,7 +184,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时18分"
         }
