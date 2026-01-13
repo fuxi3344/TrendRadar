@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-13T19:18:33.413372+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-01-13T20:41:16.785609+08:00",
+  "total_titles_processed": 1821,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 20时41分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时21分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时21分 ~ 20时41分]"
         },
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -207,11 +207,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 19时18分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 20时41分]"
         },
         {
           "title": "如何看待 2026 CSRankings 人工智能学科排行榜南京大学位列全球第一，前十名被中国高校霸榜？",
@@ -262,8 +263,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 20时41分]"
         },
         {
           "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
