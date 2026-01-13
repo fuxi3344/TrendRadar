@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T03:19:12.738822+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-14T04:22:06.647481+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "UP主锐评苹果谷歌合作",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -39,19 +39,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
           "url": "https://www.zhihu.com/question/1990762235694434081",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[02时28分 ~ 04时22分]"
         }
       ]
     },
@@ -68,8 +69,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 5,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "赛默飞CEO：公司将积极部署先进的人工智能能力，以进一步降低成本。",
@@ -95,11 +96,12 @@
           "ranks": [
             8,
             5,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时28分 ~ 03时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 04时22分]"
         },
         {
           "title": "金价",
