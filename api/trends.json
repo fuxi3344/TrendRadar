@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T21:39:11.830123+08:00",
-  "total_titles_processed": 2015,
+  "generated_at": "2026-01-14T22:23:54.412823+08:00",
+  "total_titles_processed": 2123,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时40分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[20时40分 ~ 22时23分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
