@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T16:27:06.393636+08:00",
-  "total_titles_processed": 1489,
+  "generated_at": "2026-01-14T17:27:19.647861+08:00",
+  "total_titles_processed": 1602,
   "failed_sources": [],
   "trends": [
     {
@@ -85,7 +85,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -96,7 +96,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时27分"
         },
@@ -191,6 +191,18 @@
           "time_info": "[00时28分 ~ 06时20分]"
         },
         {
+          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
+          "url": "https://www.zhihu.com/question/1994425649616671736",
+          "source": "知乎",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 17时27分]"
+        },
+        {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
           "url": "https://www.zhihu.com/question/1994310970621859099",
           "source": "知乎",
@@ -200,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时30分 ~ 14时31分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时26分 ~ 16时27分]"
         }
       ]
     },
@@ -255,11 +256,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 17时27分]"
         },
         {
           "title": "金价为何持续走强",
