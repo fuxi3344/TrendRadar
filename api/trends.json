@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T07:18:32.854089+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-01-14T09:27:41.084487+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时18分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -81,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 07时18分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时27分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -152,7 +153,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
         }
