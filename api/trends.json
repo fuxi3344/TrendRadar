@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T17:26:11.094492+08:00",
-  "total_titles_processed": 1661,
+  "generated_at": "2026-01-15T18:21:42.914896+08:00",
+  "total_titles_processed": 1744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
@@ -38,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[16时27分 ~ 18时21分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-15）",
@@ -78,6 +79,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时23分"
+        },
+        {
+          "title": "欧洲央行：人工智能投资显著支撑了这种韧性。",
+          "url": "https://flash.jin10.com/detail/20260115175142706800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
+        },
+        {
+          "title": "深圳：到2027年底 培育超千家高成长性人工智能创业企业",
+          "url": "https://wallstreetcn.com/livenews/3037862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时21分"
         },
         {
           "title": "UP主大白话解读DeepSeek新论文",
@@ -148,7 +171,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
         },
@@ -318,8 +341,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 17时26分]"
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 18时21分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
