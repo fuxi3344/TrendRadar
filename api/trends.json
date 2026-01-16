@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T22:21:43.811786+08:00",
-  "total_titles_processed": 2051,
+  "generated_at": "2026-01-16T23:21:39.996094+08:00",
+  "total_titles_processed": 2137,
   "failed_sources": [],
   "trends": [
     {
@@ -210,8 +210,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时37分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[12时37分 ~ 23时21分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -394,8 +394,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时26分 ~ 22时21分]"
+          "appearance_count": 11,
+          "time_info": "[16时26分 ~ 23时21分]"
         },
         {
           "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
@@ -405,8 +405,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时21分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时21分]"
         }
       ]
     }
