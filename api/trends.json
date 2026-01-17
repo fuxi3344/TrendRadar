@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T20:34:32.393421+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-01-17T21:27:48.161265+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时17分 ~ 20时34分]"
+          "appearance_count": 8,
+          "time_info": "[15时17分 ~ 21时27分]"
         },
         {
           "title": "ChatGPT将加入广告",
@@ -258,11 +258,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时34分]"
+          "appearance_count": 3,
+          "time_info": "[19时15分 ~ 21时27分]"
         }
       ]
     },
