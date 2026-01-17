@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T16:22:52.042512+08:00",
-  "total_titles_processed": 1138,
+  "generated_at": "2026-01-17T17:18:41.887258+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
@@ -61,6 +61,18 @@
           "time_info": "[02时29分 ~ 04时20分]"
         },
         {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时17分 ~ 17时18分]"
+        },
+        {
           "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
           "url": "https://flash.jin10.com/detail/20260117020324542800",
           "source": "金十数据",
@@ -72,18 +84,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时20分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时17分 ~ 16时22分]"
         },
         {
           "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
@@ -205,6 +205,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
+          "url": "https://flash.jin10.com/detail/20260117140618013800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 17时18分]"
+        },
+        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -215,18 +228,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时20分 ~ 12时31分]"
-        },
-        {
-          "title": "分析师：贵金属失去部分地缘政治溢价，仍认为金价有机会触及5000美元",
-          "url": "https://flash.jin10.com/detail/20260117140618013800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时18分 ~ 16时22分]"
         }
       ]
     },
