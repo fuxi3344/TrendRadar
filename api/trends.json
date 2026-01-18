@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T06:18:08.348031+08:00",
-  "total_titles_processed": 446,
+  "generated_at": "2026-01-19T07:17:56.790544+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
@@ -36,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时16分 ~ 06时18分]"
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
         }
       ]
     },
@@ -56,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时15分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[01时15分 ~ 07时17分]"
         },
         {
           "title": "伊朗总统：袭击最高领袖等同“发动全面战争”",
@@ -65,11 +66,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时14分 ~ 06时18分]"
+          "appearance_count": 5,
+          "time_info": "[03时14分 ~ 07时17分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
@@ -97,8 +99,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[00时21分 ~ 07时17分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
