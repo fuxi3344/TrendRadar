@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-19T21:43:51.269852+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-19T22:24:58.500989+08:00",
+  "total_titles_processed": 1750,
   "failed_sources": [],
   "trends": [
     {
@@ -152,11 +152,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时24分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
