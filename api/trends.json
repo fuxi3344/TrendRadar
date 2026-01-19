@@ -1,8 +1,62 @@
 {
-  "generated_at": "2026-01-19T09:29:13.244148+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-01-19T11:48:14.474832+08:00",
+  "total_titles_processed": 791,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 11时48分]"
+        },
+        {
+          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
+          "url": "https://www.zhihu.com/question/659369541",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时24分 ~ 04时20分]"
+        },
+        {
+          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
+          "url": "https://flash.jin10.com/detail/20260119042408235800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时17分]"
+        },
+        {
+          "title": "胡润发布中国人工智能50强，寒武纪以6300亿元价值居首",
+          "url": "https://wallstreetcn.com/livenews/3039492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        }
+      ]
+    },
     {
       "keyword_group": "战争",
       "match_count": 4,
@@ -33,6 +87,18 @@
           "time_info": "[03时14分 ~ 07时17分]"
         },
         {
+          "title": "伊朗总统：袭击最高领袖等同全面战争",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时28分 ~ 11时48分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬通过社交平台表示，任何对伊朗最高领袖哈梅内伊的攻击都将引发全面战争。",
           "url": "https://flash.jin10.com/detail/20260119040711327800",
           "source": "金十数据",
@@ -43,59 +109,46 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时16分 ~ 06时18分]"
-        },
-        {
-          "title": "伊朗总统：袭击最高领袖等同全面战争",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%A2%AD%E5%87%BB%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E7%AD%89%E5%90%8C%E5%85%A8%E9%9D%A2%E6%88%98%E4%BA%89",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 人工智能",
+      "keyword_group": "金价",
       "match_count": 3,
       "titles": [
         {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 09时29分]"
-        },
-        {
-          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
-          "url": "https://www.zhihu.com/question/659369541",
-          "source": "知乎",
-          "ranks": [
-            19
+            23,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时24分 ~ 04时20分]"
+          "time_info": "[09时28分 ~ 11时48分]"
         },
         {
-          "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
-          "url": "https://flash.jin10.com/detail/20260119042408235800",
-          "source": "金十数据",
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            19,
-            30
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时17分]"
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 11时48分]"
+        },
+        {
+          "title": "金十图示：2026年01月19日（周一）上海金早盘价为1043.62元/克，较国际金价(1043.9元/克)，低0.28元/克",
+          "url": "https://flash.jin10.com/detail/20260119110338125800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         }
       ]
     },
@@ -112,8 +165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 09时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 11时48分]"
         },
         {
           "title": "翁家翌谈OpenAI模型跃迁",
@@ -126,23 +179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时24分 ~ 03时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 09时29分]"
         }
       ]
     }
