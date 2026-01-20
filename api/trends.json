@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-01-21T01:27:12.925010+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-01-21T02:32:27.922338+08:00",
+  "total_titles_processed": 476,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
+          "url": "https://flash.jin10.com/detail/20260121005712780800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时27分"
+        },
+        {
+          "title": "据华尔街日报：Anthropic首席执行官表示，政府应帮助确保人工智能的经济红利得到共享。",
+          "url": "https://flash.jin10.com/detail/20260121013547745800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -14,7 +42,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
@@ -25,7 +53,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         }
@@ -44,8 +72,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时32分]"
         },
         {
           "title": "金价",
@@ -56,25 +84,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
-          "url": "https://flash.jin10.com/detail/20260121005712780800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时32分]"
         }
       ]
     },
@@ -87,11 +98,12 @@
           "url": "https://www.zhihu.com/question/1996233131175462349",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 02时32分]"
         }
       ]
     }
