@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T05:19:41.998611+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-01-21T06:21:18.712187+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -105,8 +105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时21分]"
         },
         {
           "title": "金价",
@@ -117,8 +117,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时21分]"
         }
       ]
     },
@@ -134,11 +134,12 @@
             1,
             2,
             3,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时21分]"
         }
       ]
     },
