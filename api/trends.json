@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:27:07.071967+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-01-20T14:32:26.412425+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -69,8 +69,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 14时32分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -81,8 +81,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时42分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时42分 ~ 14时32分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -124,8 +124,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时22分 ~ 13时27分]"
+          "appearance_count": 12,
+          "time_info": "[01时22分 ~ 14时32分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -171,11 +171,12 @@
             10,
             21,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时27分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时32分]"
         },
         {
           "title": "高市被批将日本带向战争边缘",
