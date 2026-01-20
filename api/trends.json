@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:25:58.681474+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-01-20T16:28:57.132197+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -71,6 +71,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
+          "url": "https://www.cls.cn/detail/2262946",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时42分 ~ 16时28分]"
+        },
+        {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
           "url": "https://www.cls.cn/detail/2262848",
           "source": "财联社热门",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时24分 ~ 15时25分]"
-        },
-        {
-          "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
-          "url": "https://www.cls.cn/detail/2262946",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 15时25分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -136,8 +137,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时22分 ~ 15时25分]"
+          "appearance_count": 14,
+          "time_info": "[01时22分 ~ 16时28分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -173,7 +174,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
