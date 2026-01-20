@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T18:25:36.220571+08:00",
-  "total_titles_processed": 1594,
+  "generated_at": "2026-01-20T19:22:31.800191+08:00",
+  "total_titles_processed": 1701,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时22分 ~ 18时25分]"
+          "appearance_count": 17,
+          "time_info": "[01时22分 ~ 19时22分]"
         },
         {
           "title": "决定黄金价格的三大属性",
@@ -119,11 +119,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 19时22分]"
         },
         {
           "title": "金十图示：2026年01月20日（周二）上海金早盘价为1045.19元/克，较国际金价(1043.73元/克)，高1.46元/克",
@@ -216,8 +217,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时30分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时30分 ~ 19时22分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
