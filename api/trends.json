@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T12:42:27.941988+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-01-21T13:27:14.946775+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -48,7 +48,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -145,7 +145,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -157,8 +157,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时27分]"
         },
         {
           "title": "如何看待深圳水贝市场开始炒 999.9 铜条？为什么金价一涨，其他贵金属都跟着受追捧？",
@@ -169,8 +169,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时27分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
@@ -209,8 +209,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 13时27分]"
+        },
+        {
+          "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
+          "url": "https://www.cls.cn/detail/2264608",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时41分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 13时27分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
+          "url": "https://flash.jin10.com/detail/20260121115736289800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时27分]"
         },
         {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
@@ -235,28 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时42分]"
-        },
-        {
-          "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
-          "url": "https://www.cls.cn/detail/2264608",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
-          "url": "https://flash.jin10.com/detail/20260121115736289800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "惠誉评级：美国良性信贷背景面临人工智能、消费者和贸易风险。",
@@ -293,11 +295,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时27分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时27分 ~ 13时27分]"
         },
         {
           "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
@@ -353,11 +356,12 @@
           "url": "https://flash.jin10.com/detail/20260121115138760800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时27分]"
         }
       ]
     }
