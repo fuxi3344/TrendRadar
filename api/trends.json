@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T03:25:28.403852+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-01-22T04:28:22.846594+08:00",
+  "total_titles_processed": 563,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -18,8 +18,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时28分]"
+        },
+        {
+          "title": "据The Information：苹果(AAPL.O)计划在2027年首次推出可穿戴人工智能别针，初期产量高达2000万枚。",
+          "url": "https://flash.jin10.com/detail/20260122040302119800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -80,8 +91,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "市场消息：苹果计划改造Siri，将其打造成iPhone和Mac的内置聊天机器人，以与OpenAI抗衡。",
+          "url": "https://flash.jin10.com/detail/20260122035053941800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
         {
           "title": "OpenAI首席财务官为ChatGPT引入广告辩解，称其为“强劲的商业模式”",
           "url": "https://wallstreetcn.com/livenews/3041424",
@@ -108,8 +130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时41分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时41分 ~ 04时28分]"
         }
       ]
     },
