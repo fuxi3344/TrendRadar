@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T16:28:49.097244+08:00",
-  "total_titles_processed": 1511,
+  "generated_at": "2026-01-21T17:31:31.872063+08:00",
+  "total_titles_processed": 1616,
   "failed_sources": [],
   "trends": [
     {
@@ -84,11 +84,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时26分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 17时31分]"
         },
         {
           "title": "金十图示：2026年01月21日（周三）上海金早盘价为1081.52元/克，较国际金价(1080.9元/克)，高0.62元/克",
@@ -137,11 +138,12 @@
             3,
             6,
             8,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时41分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[11时41分 ~ 17时31分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -151,11 +153,12 @@
             9,
             6,
             3,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 16时28分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 17时31分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
@@ -211,7 +214,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
