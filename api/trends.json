@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T02:39:12.130470+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-01-22T03:25:28.403852+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             3,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时25分]"
         },
         {
           "title": "白宫人工智能报告：研究估计人工智能可使GDP增长1%至45%以上。",
@@ -107,8 +108,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时41分 ~ 02时39分]"
+          "appearance_count": 5,
+          "time_info": "[00时41分 ~ 03时25分]"
         }
       ]
     },
@@ -123,7 +124,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
         }
