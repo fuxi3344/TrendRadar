@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T21:43:52.484884+08:00",
-  "total_titles_processed": 2000,
+  "generated_at": "2026-01-21T22:28:49.438080+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             13,
             10,
             7,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时41分 ~ 21时43分]"
+          "appearance_count": 17,
+          "time_info": "[11时41分 ~ 22时28分]"
         },
         {
           "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
@@ -161,7 +162,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -260,7 +261,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -344,7 +345,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -444,8 +445,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时26分 ~ 21时43分]"
+          "appearance_count": 11,
+          "time_info": "[15时26分 ~ 22时28分]"
         },
         {
           "title": "金价",
