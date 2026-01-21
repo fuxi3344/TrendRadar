@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T07:20:27.248363+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2026-01-21T09:27:33.101233+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
@@ -77,8 +77,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时27分]"
         },
         {
           "title": "金价",
@@ -90,8 +90,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时27分]"
         },
         {
           "title": "机构称金价上半年或冲击5000美元",
@@ -100,7 +100,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -111,9 +111,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "这是在打货币战争？特朗普打击美元，高市早苗削弱日元",
+          "url": "https://wallstreetcn.com/articles/3763653",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "达利欧：特朗普或引爆“资本战争” 海外资金正重估美元资产",
+          "url": "https://www.cls.cn/detail/2264207",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时27分"
+        },
+        {
+          "title": "据Politico援引消息人士透露，美国众议院仍计划于周四就民主党提出的委内瑞拉战争权力决议进行投票，但民主党将在当天上午评估出席情况后再进行投票。",
+          "url": "https://flash.jin10.com/detail/20260121025805082800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
         }
       ]
     },
@@ -163,23 +202,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据Politico援引消息人士透露，美国众议院仍计划于周四就民主党提出的委内瑞拉战争权力决议进行投票，但民主党将在当天上午评估出席情况后再进行投票。",
-          "url": "https://flash.jin10.com/detail/20260121025805082800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时10分"
         }
       ]
     }
