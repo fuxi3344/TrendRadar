@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-22T19:21:38.149568+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2026-01-22T20:43:08.009844+08:00",
+  "total_titles_processed": 1894,
   "failed_sources": [],
   "trends": [
     {
@@ -187,8 +187,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时28分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[16时28分 ~ 20时43分]"
         },
         {
           "title": "黄金价格会崩吗",
@@ -390,7 +390,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
