@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T05:21:14.355294+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-01-23T06:20:53.866040+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             30,
             24,
             27,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 05时21分]"
+          "appearance_count": 6,
+          "time_info": "[02时28分 ~ 06时20分]"
         },
         {
           "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
