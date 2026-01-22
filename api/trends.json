@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T06:20:53.866040+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-01-23T07:19:41.933674+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek Model 1悄然现身",
@@ -19,8 +19,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时28分 ~ 06时20分]"
+          "appearance_count": 7,
+          "time_info": "[02时28分 ~ 07时19分]"
         },
         {
           "title": "美国雷多斯与OpenAI合作，在人工智能领域开展部署，以支持国家优先事项。",
@@ -101,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO陈立武：快速部署人工智能需要软件栈的创新。",
+          "url": "https://flash.jin10.com/detail/20260123060723901800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -203,6 +214,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3042361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国众议院以微弱优势通过一项决议，旨在约束美国总统特朗普的委内瑞拉战争权力。",
+          "url": "https://flash.jin10.com/detail/20260123063443929800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
