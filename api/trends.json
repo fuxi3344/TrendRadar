@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T22:23:28.411314+08:00",
-  "total_titles_processed": 2128,
+  "generated_at": "2026-01-23T23:23:17.187348+08:00",
+  "total_titles_processed": 2232,
   "failed_sources": [],
   "trends": [
     {
@@ -270,11 +270,12 @@
             20,
             19,
             16,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 23时23分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
