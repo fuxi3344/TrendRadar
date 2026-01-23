@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T01:25:12.736348+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-01-24T02:29:51.151355+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
         },
@@ -43,6 +43,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Meta宣布暂停青少年使用人工智能角色功能",
+          "url": "https://flash.jin10.com/detail/20260124011157050800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -55,8 +72,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 01时25分]"
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰、美国和俄罗斯代表团已在阿联酋举行会谈，正在讨论结束战争的各项问题。",
+          "url": "https://flash.jin10.com/detail/20260124020428949800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     }
