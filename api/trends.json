@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T20:41:07.870886+08:00",
-  "total_titles_processed": 1961,
+  "generated_at": "2026-01-23T21:41:23.651451+08:00",
+  "total_titles_processed": 2054,
   "failed_sources": [],
   "trends": [
     {
@@ -194,22 +194,12 @@
           "source": "微博",
           "ranks": [
             23,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时26分 ~ 18时22分]"
-        },
-        {
-          "title": "受益于金价上涨 印度外汇储备创去年三月以来最大增幅",
-          "url": "https://flash.jin10.com/detail/20260123201309576800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时41分"
+          "appearance_count": 5,
+          "time_info": "[16时26分 ~ 21时41分]"
         },
         {
           "title": "金价暴涨黄金存款被爆买",
@@ -219,8 +209,19 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时41分]"
+        },
+        {
+          "title": "受益于金价上涨 印度外汇储备创去年三月以来最大增幅",
+          "url": "https://flash.jin10.com/detail/20260123201309576800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "金价",
@@ -289,11 +290,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时41分]"
         },
         {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
@@ -405,11 +407,12 @@
             20,
             19,
             17,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 20时41分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 21时41分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
