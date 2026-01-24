@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-24T11:25:13.050856+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-01-24T12:34:36.041613+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
+          "url": "https://wallstreetcn.com/livenews/3043198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时25分 ~ 12时34分]"
+        },
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
           "url": "https://wallstreetcn.com/livenews/3043036",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
-          "url": "https://wallstreetcn.com/livenews/3043198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         },
         {
           "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
@@ -116,6 +117,35 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰、美国和俄罗斯代表团已在阿联酋举行会谈，正在讨论结束战争的各项问题。",
+          "url": "https://flash.jin10.com/detail/20260124020428949800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 03时22分]"
+        },
+        {
+          "title": "伊朗：任何形式的攻击都将被视作对伊“全面战争”",
+          "url": "https://wallstreetcn.com/livenews/3043214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 人工智能",
       "match_count": 1,
       "titles": [
@@ -129,24 +159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰、美国和俄罗斯代表团已在阿联酋举行会谈，正在讨论结束战争的各项问题。",
-          "url": "https://flash.jin10.com/detail/20260124020428949800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 03时22分]"
         }
       ]
     }
