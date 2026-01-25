@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T18:19:48.180631+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2026-01-25T19:15:56.873497+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             13,
             15,
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 19时15分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -47,11 +48,12 @@
             14,
             16,
             19,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时52分 ~ 18时19分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 19时15分]"
         },
         {
           "title": "北京：加强太空云计算、人工智能、大数据等新一代信息技术在卫星星座中的应用",
@@ -92,11 +94,12 @@
           "ranks": [
             11,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时28分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[14时28分 ~ 19时15分]"
         },
         {
           "title": "金价波动",
@@ -165,11 +168,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时24分 ~ 19时15分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
