@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T19:15:56.873497+08:00",
-  "total_titles_processed": 1121,
+  "generated_at": "2026-01-25T20:37:33.485709+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -95,11 +95,12 @@
             11,
             15,
             12,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时28分 ~ 19时15分]"
+          "appearance_count": 7,
+          "time_info": "[14时28分 ~ 20时37分]"
         },
         {
           "title": "金价波动",
@@ -169,11 +170,12 @@
             2,
             5,
             6,
-            12
+            12,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时24分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[16时24分 ~ 20时37分]"
         },
         {
           "title": "白银价格跟随黄金狂飙",
