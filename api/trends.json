@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T01:27:28.633419+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-01-27T02:31:23.274795+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时27分]"
+        },
+        {
+          "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127021009672800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "微软推出最新人工智能芯片，以减少对英伟达的依赖",
@@ -55,8 +66,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时31分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -66,8 +77,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时30分 ~ 02时31分]"
         }
       ]
     },
@@ -83,19 +94,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时31分]"
         },
         {
           "title": "乌克兰总统泽连斯基：乌克兰与俄罗斯代表团讨论了结束战争及其监督的步骤。",
           "url": "https://flash.jin10.com/detail/20260127010326819800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时31分]"
         }
       ]
     },
