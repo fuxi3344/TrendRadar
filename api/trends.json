@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T22:26:57.161836+08:00",
-  "total_titles_processed": 1788,
+  "generated_at": "2026-01-26T23:27:10.929420+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -21,8 +21,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时55分 ~ 22时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时55分 ~ 23时27分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -39,6 +39,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[11时55分 ~ 19时19分]"
+        },
+        {
+          "title": "金价飙升原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            28,
+            6,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时27分]"
         },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -86,20 +101,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
-        },
-        {
-          "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            28,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时19分 ~ 22时26分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -163,9 +164,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "摩根士丹利：黄金价格或升至5700美元",
+          "url": "https://flash.jin10.com/detail/20260126225035115800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "国际金价疯涨原因",
@@ -193,7 +205,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
@@ -316,6 +328,17 @@
           "time_info": "21时42分"
         },
         {
+          "title": "CoreWeave涨13%，创11月以来盘中新高。 英伟达与CoreWeave宣布扩大长期的互补合作关系，使CoreWeave能够加速到2030年建设超过5吉瓦的人工智能（AI）工厂，推动全球范围内的人工智能应用。英伟达投资20亿美元到CoreWeaveA类普通股。",
+          "url": "https://wallstreetcn.com/livenews/3044071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "挪威主权财富基金CEO：主动管理作出了“显著”贡献；人工智能正助力基金降低成本。",
           "url": "https://flash.jin10.com/detail/20260126205717140800",
           "source": "金十数据",
@@ -325,6 +348,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里千问最强模型亮相，性能媲美GPT-5.2、Gemini 3 Pro",
+          "url": "https://wallstreetcn.com/livenews/3044091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -339,7 +379,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         }
@@ -379,8 +419,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时54分 ~ 22时26分]"
+          "appearance_count": 12,
+          "time_info": "[12时54分 ~ 23时27分]"
         }
       ]
     }
