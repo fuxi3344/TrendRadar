@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T17:32:28.918862+08:00",
-  "total_titles_processed": 1319,
+  "generated_at": "2026-01-26T18:24:04.644875+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -15,11 +15,12 @@
             6,
             13,
             17,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[11时55分 ~ 18时24分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -33,8 +34,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时55分 ~ 17时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时55分 ~ 18时24分]"
         },
         {
           "title": "杨德龙：国际金价下一目标价1万美元",
@@ -95,6 +96,17 @@
           "time_info": "[09时42分 ~ 13时31分]"
         },
         {
+          "title": "金价破5000美元 短期投资者何去何从",
+          "url": "https://www.toutiao.com/trending/7599554910719315465/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 18时24分]"
+        },
+        {
           "title": "分析师：金价或继续受益于美元走弱",
           "url": "https://flash.jin10.com/detail/20260126114640038800",
           "source": "金十数据",
@@ -115,6 +127,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "金十数据整理——金价“失控式”上涨 五大结构性力量全梳理",
+          "url": "https://flash.jin10.com/detail/20260126180034491800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "国际金价疯涨原因",
@@ -263,11 +286,12 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 17时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时54分 ~ 18时24分]"
         }
       ]
     }
