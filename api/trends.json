@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T21:42:47.627761+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2026-01-26T22:26:57.161836+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -21,8 +21,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时55分 ~ 21时42分]"
+          "appearance_count": 12,
+          "time_info": "[11时55分 ~ 22时26分]"
         },
         {
           "title": "现货黄金价格首次突破 5000 美元 / 盎司，创历史新高，如何评价这轮涨势？后续走势会如何？",
@@ -94,11 +94,12 @@
           "ranks": [
             27,
             28,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时19分 ~ 21时42分]"
+          "appearance_count": 5,
+          "time_info": "[19时19分 ~ 22时26分]"
         },
         {
           "title": "国际金价突破5000美元关口",
@@ -119,8 +120,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 22时26分]"
         },
         {
           "title": "分析师：金价或继续受益于美元走弱",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "法国兴业银行：将年底前黄金价格预期上调1000美元",
+          "url": "https://wallstreetcn.com/livenews/3044041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "国际金价疯涨原因",
@@ -266,7 +278,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -288,7 +300,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -299,7 +311,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
         },
@@ -310,9 +322,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI在早期广告推广中寻求溢价定价。",
+          "url": "https://flash.jin10.com/detail/20260126220859936800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         }
       ]
     },
@@ -350,8 +379,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时54分 ~ 21时42分]"
+          "appearance_count": 11,
+          "time_info": "[12时54分 ~ 22时26分]"
         }
       ]
     }
