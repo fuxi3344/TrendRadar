@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T20:42:27.861594+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2026-01-27T21:44:51.249609+08:00",
+  "total_titles_processed": 1962,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时42分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 21时44分]"
         },
         {
           "title": "微软云计算与人工智能业务主管斯科特·古特里（Scott Guthrie）：首批Maia 200芯片单位将分配给微软的“超级智能（superintelligence）”团队，用于生成数据以改进下一代人工智能（AI）模型。 这些芯片还将用于驱动面向企业的Copilot助手，以及微软向云客户租用的各种AI模型（包括OpenAI的最新模型）。 第二代AI芯片Maia 200在某些AI任务上的性能优于谷歌和亚马逊的同类半导体。 Maia 200也是微软部署过的效率最高的推理（Inference）系统。 目前已在设计该芯片的继任者Maia 300。",
@@ -47,6 +47,17 @@
           "time_info": "[00时31分 ~ 01时27分]"
         },
         {
+          "title": "详解DeepSeek新模型OCR2",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时44分]"
+        },
+        {
           "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
           "url": "https://flash.jin10.com/detail/20260127021009672800",
           "source": "金十数据",
@@ -59,15 +70,28 @@
           "time_info": "[02时31分 ~ 03时22分]"
         },
         {
-          "title": "详解DeepSeek新模型OCR2",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8BOCR2",
-          "source": "bilibili 热搜",
+          "title": "如何评价 DeepSeek-OCR-2 模型？",
+          "url": "https://www.zhihu.com/question/1999468225642119587",
+          "source": "知乎",
           "ranks": [
-            4
+            13,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时44分]"
+        },
+        {
+          "title": "SK海力士回应将在美设立人工智能投资部门：正在考虑多种方案",
+          "url": "https://wallstreetcn.com/livenews/3044768",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时44分]"
         },
         {
           "title": "我国将出台应对人工智能影响促就业文件，强化重点群体就业支持，哪些信息值得关注？",
@@ -115,17 +139,6 @@
           "time_info": "19时21分"
         },
         {
-          "title": "SK海力士回应将在美设立人工智能投资部门：正在考虑多种方案",
-          "url": "https://wallstreetcn.com/livenews/3044768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
-        },
-        {
           "title": "微软(MSFT.O)：推出MAIA 200芯片，这是一款基于台积电3纳米工艺打造的AI推理加速器。MAIA 200 将服务于多种人工智能模型，包括来自OpenAI的最新 GPT-5.2 模型。",
           "url": "https://flash.jin10.com/detail/20260127000150023800",
           "source": "金十数据",
@@ -157,17 +170,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时44分"
-        },
-        {
-          "title": "如何评价 DeepSeek-OCR-2 模型？",
-          "url": "https://www.zhihu.com/question/1999468225642119587",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "Anthropic：受英国科学、创新和技术部委托，为gov.uk网站构建并试点专用人工智能助手。",
