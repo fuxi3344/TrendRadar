@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T21:46:20.540836+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-01-28T22:27:49.368632+08:00",
+  "total_titles_processed": 2084,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时32分 ~ 21时46分]"
+          "appearance_count": 14,
+          "time_info": "[14时32分 ~ 22时27分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -65,11 +65,12 @@
             4,
             1,
             6,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时31分 ~ 21时46分]"
+          "appearance_count": 8,
+          "time_info": "[17时31分 ~ 22时27分]"
         },
         {
           "title": "黄金价格暴涨暴跌 是走还是留",
@@ -83,6 +84,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时42分 ~ 17时32分]"
+        },
+        {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时27分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -100,29 +113,18 @@
           "time_info": "[11时43分 ~ 16时29分]"
         },
         {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时46分]"
-        },
-        {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
             10,
             7,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 21时46分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 22时27分]"
         },
         {
           "title": "专家谈国际金价加速上涨的背后逻辑",
@@ -367,7 +369,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
@@ -379,8 +381,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 21时46分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 22时27分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将推出Ads Decoded播客，旨在让广告主直接与打造 Google Ads 的团队成员建立联系。",
+          "url": "https://flash.jin10.com/detail/20260128220815725800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
