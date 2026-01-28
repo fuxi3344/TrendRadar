@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T20:43:05.180711+08:00",
-  "total_titles_processed": 1910,
+  "generated_at": "2026-01-28T21:46:20.540836+08:00",
+  "total_titles_processed": 2012,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时32分 ~ 20时43分]"
+          "appearance_count": 13,
+          "time_info": "[14时32分 ~ 21时46分]"
         },
         {
           "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
@@ -58,6 +58,20 @@
           "time_info": "[02时35分 ~ 18时26分]"
         },
         {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            1,
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时46分]"
+        },
+        {
           "title": "黄金价格暴涨暴跌 是走还是留",
           "url": "https://www.toutiao.com/trending/7600200790535310911/",
           "source": "今日头条",
@@ -69,19 +83,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时42分 ~ 17时32分]"
-        },
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时31分 ~ 19时21分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -99,6 +100,31 @@
           "time_info": "[11时43分 ~ 16时29分]"
         },
         {
+          "title": "金价波动如何影响实体金店",
+          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 21时46分]"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 21时46分]"
+        },
+        {
           "title": "专家谈国际金价加速上涨的背后逻辑",
           "url": "https://www.toutiao.com/trending/7600335568035122738/",
           "source": "今日头条",
@@ -109,17 +135,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时21分 ~ 20时43分]"
-        },
-        {
-          "title": "金价波动如何影响实体金店",
-          "url": "https://search.bilibili.com/all?keyword=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%AE%9E%E4%BD%93%E9%87%91%E5%BA%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "金价创历史新高、逼近5190美元，特朗普称不担心美元下跌",
@@ -143,17 +158,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时42分 ~ 20时43分]"
         },
         {
           "title": "金价冲上5230美元/盎司再创新高，多家品牌金饰克价超1600元",
@@ -371,11 +375,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时27分 ~ 20时43分]"
+          "appearance_count": 12,
+          "time_info": "[09时27分 ~ 21时46分]"
         },
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
