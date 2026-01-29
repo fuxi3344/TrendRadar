@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:28:56.015258+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-01-30T04:27:28.234317+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "金价",
@@ -29,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "金价上涨打金店2天亏5万",
@@ -43,8 +43,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -54,8 +54,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -65,8 +65,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "金价暴涨第一批受害者出现",
@@ -77,8 +77,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         },
         {
           "title": "一口气看懂金价涨跌的底层逻辑",
@@ -110,6 +110,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
+          "url": "https://flash.jin10.com/detail/20260130031506457800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时28分 ~ 04时27分]"
+        },
+        {
           "title": "历史剧《太平年》首次聚焦五代末年，钱弘俶、赵匡胤、郭荣三位君王在战争与用兵理念上有何不同？",
           "url": "https://www.zhihu.com/question/1997733701551880115",
           "source": "知乎",
@@ -119,17 +131,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 01时35分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：（回应特朗普关于普京同意停火一周的声明）我们期待协议得到落实，缓和举措有助于在结束战争方面取得进展。",
-          "url": "https://flash.jin10.com/detail/20260130031506457800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时28分"
         },
         {
           "title": "欧盟外交与安全政策高级代表卡拉斯就与伊朗的紧张局势发表评论称，该地区不需要新的战争。",
@@ -184,11 +185,12 @@
           "ranks": [
             6,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         }
       ]
     },
@@ -206,8 +208,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时40分 ~ 03时28分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 04时27分]"
         }
       ]
     },
