@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T12:07:24.154920+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-01-30T13:44:15.109666+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 12时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时44分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 12时07分]"
+          "appearance_count": 13,
+          "time_info": "[00时40分 ~ 13时44分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -113,6 +113,19 @@
           "time_info": "[00时40分 ~ 07时24分]"
         },
         {
+          "title": "今日金价",
+          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 13时44分]"
+        },
+        {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
           "url": "https://www.cls.cn/detail/2275001",
           "source": "财联社热门",
@@ -121,31 +134,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时07分]"
-        },
-        {
-          "title": "今日金价",
-          "url": "https://s.weibo.com/weibo?q=%E4%BB%8A%E6%97%A5%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时44分]"
         },
         {
           "title": "黄金价格暴跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时07分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时44分]"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -277,11 +279,12 @@
           "url": "https://wallstreetcn.com/articles/3764501",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 12时07分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时44分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-30）",
@@ -290,7 +293,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
         },
