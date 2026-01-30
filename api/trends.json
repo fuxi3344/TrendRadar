@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T13:44:15.109666+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-01-30T14:44:18.348722+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -18,8 +18,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 14时44分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -29,8 +29,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时40分 ~ 13时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 14时44分]"
         },
         {
           "title": "金价上涨的第一批受害者出现了",
@@ -119,11 +119,12 @@
           "ranks": [
             6,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时48分 ~ 13时44分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 14时44分]"
         },
         {
           "title": "金价剧烈震荡引担忧？WGC：“狂飙涨势”是结构性转变而非投机，今年将继续！",
@@ -131,11 +132,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 14时44分]"
         },
         {
           "title": "黄金价格暴跌原因",
@@ -143,11 +145,23 @@
           "source": "微博",
           "ranks": [
             7,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时44分]"
+        },
+        {
+          "title": "黄金价格回调开始了吗",
+          "url": "https://www.toutiao.com/trending/7600951694344405055/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         },
         {
           "title": "金价跌幅扩大至5%。",
@@ -283,8 +297,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 13时44分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 14时44分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-30）",
