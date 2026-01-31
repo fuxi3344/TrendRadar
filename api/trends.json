@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-31T13:37:04.975146+08:00",
-  "total_titles_processed": 938,
+  "generated_at": "2026-01-31T14:35:27.572239+08:00",
+  "total_titles_processed": 996,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 13时37分]"
+          "appearance_count": 5,
+          "time_info": "[07时23分 ~ 14时35分]"
         },
         {
           "title": "金价重挫12%，白银暴跌超34%，标普跌超1%，投资者对美联储独立性的担忧情绪降温",
@@ -40,11 +40,12 @@
           "ranks": [
             8,
             15,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时35分]"
         },
         {
           "title": "金价下跌多品牌设1-5%退货手续费",
@@ -55,8 +56,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时35分]"
         },
         {
           "title": "金价下跌 多品牌设1-5%退货手续费",
@@ -64,11 +65,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时35分]"
         },
         {
           "title": "金价",
@@ -78,8 +80,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时35分]"
         },
         {
           "title": "实探“北京水贝”：金价高位跳水观望情绪浓厚，成交一夜之间降至冰点",
@@ -195,11 +197,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时03分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[12时03分 ~ 14时35分]"
         },
         {
           "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
@@ -208,11 +211,12 @@
           "ranks": [
             9,
             16,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时44分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 14时35分]"
         }
       ]
     },
