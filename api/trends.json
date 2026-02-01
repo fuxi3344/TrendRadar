@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-01T17:28:29.532706+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-02-01T18:22:51.002783+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -91,6 +91,19 @@
           "time_info": "[02时28分 ~ 07时19分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 18时22分]"
+        },
+        {
           "title": "金价巨震前后商业银行集体审慎",
           "url": "https://www.toutiao.com/trending/7601209104585211940/",
           "source": "今日头条",
@@ -103,19 +116,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 04时22分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 17时28分]"
         },
         {
           "title": "金价大跌 男子斥资20多万买入200克",
@@ -216,97 +216,8 @@
       ]
     },
     {
-      "keyword_group": "战争",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
-          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时03分 ~ 17时28分]"
-        },
-        {
-          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            13,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 17时28分]"
-        },
-        {
-          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
-          "url": "https://flash.jin10.com/detail/20260201160413399800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
-        },
-        {
-          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
-          "url": "https://wallstreetcn.com/livenews/3047783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时29分 ~ 17时28分]"
-        },
-        {
-          "title": "哈梅内伊：如果美国挑起战争 这次冲突将不再局限于一地",
-          "url": "https://wallstreetcn.com/livenews/3047792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
-          "url": "https://flash.jin10.com/detail/20260201163047620800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
-          "url": "https://flash.jin10.com/detail/20260201162805324800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
@@ -367,6 +278,28 @@
           "time_info": "[10时02分 ~ 10时03分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：OpenAI邀请我们进行高达1000亿美元的投资。对OpenAI的投资从来都不是承诺。我们会一步一步地投资。",
+          "url": "https://flash.jin10.com/detail/20260201175015575800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
+          "url": "https://wallstreetcn.com/livenews/3047808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
           "url": "https://wallstreetcn.com/articles/3764643",
           "source": "华尔街见闻",
@@ -377,6 +310,101 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时22分 ~ 10时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
+          "url": "https://news.ifeng.com/c/8qNjxkFtr6T",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时03分 ~ 18时22分]"
+        },
+        {
+          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 18时22分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://flash.jin10.com/detail/20260201160413399800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://wallstreetcn.com/livenews/3047783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时29分 ~ 18时22分]"
+        },
+        {
+          "title": "哈梅内伊：如果美国挑起战争 这次冲突将不再局限于一地",
+          "url": "https://wallstreetcn.com/livenews/3047792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时22分]"
+        },
+        {
+          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
+          "url": "https://flash.jin10.com/detail/20260201163047620800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时22分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
+          "url": "https://flash.jin10.com/detail/20260201162805324800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时22分]"
         }
       ]
     },
