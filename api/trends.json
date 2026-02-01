@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T01:22:12.521433+08:00",
-  "total_titles_processed": 338,
+  "generated_at": "2026-02-02T02:31:16.193877+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32510757",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "哈梅内伊：如果美国挑起战争 这次冲突将不再局限于一地",
@@ -37,8 +39,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     },
@@ -54,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -65,8 +67,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     },
@@ -82,19 +84,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
           "url": "https://www.toutiao.com/trending/7600970812455845951/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 01时22分]"
+          "appearance_count": 4,
+          "time_info": "[01时21分 ~ 02时31分]"
         }
       ]
     },
@@ -110,8 +113,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 01时22分]"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 02时31分]"
         }
       ]
     }
