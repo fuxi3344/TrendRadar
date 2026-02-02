@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T19:34:10.753773+08:00",
-  "total_titles_processed": 1440,
+  "generated_at": "2026-02-02T20:53:48.312020+08:00",
+  "total_titles_processed": 1556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -252,51 +252,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
-          "url": "https://flash.jin10.com/detail/20260202183736296800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-02）",
-          "url": "https://flash.jin10.com/detail/20260202115522466800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        },
-        {
-          "title": "微软两日蒸发3810亿美元市值 揭示人工智能投资浪潮开始分化",
-          "url": "https://wallstreetcn.com/livenews/3048226",
-          "source": "华尔街见闻-快讯",
+          "title": "金价大跌金店回收挤爆了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E9%87%91%E5%BA%97%E5%9B%9E%E6%94%B6%E6%8C%A4%E7%88%86%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
             28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "哈梅内伊：如果美国挑起战争，这次冲突将不再局限于一地",
@@ -337,6 +309,56 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时26分 ~ 06时21分]"
+        },
+        {
+          "title": "欧盟委员会发言人：美国液化天然气进口不能与乌克兰战争前欧盟对俄罗斯天然气的依赖相提并论。",
+          "url": "https://flash.jin10.com/detail/20260202194045389800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "卡塔尔能源首席执行官：如果欧洲对液化天然气的需求、数据中心和人工智能发展一切顺利，到2030年液化天然气将出现短缺，而非供应过剩。",
+          "url": "https://flash.jin10.com/detail/20260202183736296800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202115522466800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时23分"
+        },
+        {
+          "title": "微软两日蒸发3810亿美元市值 揭示人工智能投资浪潮开始分化",
+          "url": "https://wallstreetcn.com/livenews/3048226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
@@ -372,6 +394,34 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
+          "url": "https://www.cls.cn/detail/2278016",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
+          "url": "https://wallstreetcn.com/livenews/3048241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -388,23 +438,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时26分 ~ 19时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "土耳其提高部分黄金、白银基金的最低价格限制。",
-          "url": "https://wallstreetcn.com/livenews/3048241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         }
       ]
     }
