@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T16:33:57.175408+08:00",
-  "total_titles_processed": 1306,
+  "generated_at": "2026-02-03T17:37:58.047579+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -99,7 +99,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价究竟涨到多少才算过高？摩根大通给出预期：8000美元以上",
@@ -107,11 +107,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 17时37分]"
         },
         {
           "title": "金价暴跌后黄金市场挤满顾客",
@@ -136,6 +137,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
+        },
+        {
+          "title": "在金价大涨5.5%的带动下，美国上市黄金矿业股盘前走高，纽蒙特上涨5.8%，巴里克矿业上涨5.3%，黄金ETF-SPDR（GLD）上涨5.9%",
+          "url": "https://flash.jin10.com/detail/20260203171044023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "黄金价格剧烈波动 国有六大行强化黄金投资业务风险管控",
@@ -174,7 +186,7 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
@@ -187,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时48分 ~ 14时46分]"
+        },
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "亚洲厂商人工智能应用前景占优 西方抵触情绪或成发展瓶颈",
