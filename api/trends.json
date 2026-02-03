@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T13:48:40.863402+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-02-03T14:46:52.957212+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -80,7 +80,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         }
@@ -123,8 +123,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时48分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时46分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -181,11 +181,12 @@
           "url": "https://www.zhihu.com/question/2001947312226848988",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时48分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时48分 ~ 14时46分]"
         },
         {
           "title": "亚洲厂商人工智能应用前景占优 西方抵触情绪或成发展瓶颈",
@@ -194,7 +195,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时48分"
         },
