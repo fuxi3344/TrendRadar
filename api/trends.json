@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T19:33:09.243930+08:00",
-  "total_titles_processed": 1625,
+  "generated_at": "2026-02-03T20:54:17.976469+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
@@ -115,6 +115,18 @@
           "time_info": "[12时13分 ~ 17时37分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时37分 ~ 20时54分]"
+        },
+        {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
@@ -126,17 +138,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时36分 ~ 07时26分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时37分 ~ 19时33分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -197,8 +198,19 @@
     },
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美联储理事米兰：美联储应适应人工智能驱动的劳动力市场转型。",
+          "url": "https://flash.jin10.com/detail/20260203203552611800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
         {
           "title": "SpaceX 收购人工智能企业 xAI，合并估值达 1.25 万亿美元，同为马斯克旗下公司，如何解读？",
           "url": "https://www.zhihu.com/question/2001947312226848988",
