@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T19:31:41.166240+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-02-04T20:53:38.727389+08:00",
+  "total_titles_processed": 1873,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "一号文件提人工智能与农业发展结合",
@@ -53,6 +53,17 @@
           "time_info": "[03时43分 ~ 04时33分]"
         },
         {
+          "title": "美国参议院Warren等参议员敦促美国联邦贸易委员会（FTC）审查科技行业的人工智能相关交易，涉及英伟达、Meta和谷歌。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3049876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
           "title": "广东：加快建设国家人工智能应用中试基地，积极布局省级中试平台",
           "url": "https://wallstreetcn.com/livenews/3049725",
           "source": "华尔街见闻-快讯",
@@ -70,9 +81,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "据CNBC：美国民主党参议员沃伦及其他人士敦促美国联邦贸易委员会（FTC）严查科技领域的人工智能交易。",
+          "url": "https://flash.jin10.com/detail/20260204201814644800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "贝莱德CEO芬克：不相信我们正处于人工智能泡沫中。",
@@ -81,7 +103,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -92,7 +114,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -103,7 +125,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -506,11 +528,12 @@
             19,
             5,
             21,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时37分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[16时37分 ~ 20时53分]"
         },
         {
           "title": "金价暴力反弹重上5000美元",
@@ -597,8 +620,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 19时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时53分 ~ 20时53分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
