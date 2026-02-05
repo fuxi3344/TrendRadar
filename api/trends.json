@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T18:38:20.519577+08:00",
-  "total_titles_processed": 1644,
+  "generated_at": "2026-02-05T19:33:38.820295+08:00",
+  "total_titles_processed": 1742,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 18时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 19时33分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时53分 ~ 18时38分]"
+          "appearance_count": 7,
+          "time_info": "[13时53分 ~ 19时33分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -68,6 +68,17 @@
           "time_info": "[12时12分 ~ 16时39分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时33分]"
+        },
+        {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
           "url": "https://flash.jin10.com/detail/20260205051339983800",
           "source": "金十数据",
@@ -103,17 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时24分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时38分]"
         },
         {
           "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
@@ -294,11 +294,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时38分]"
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时33分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-05）",
