@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T20:53:49.343754+08:00",
-  "total_titles_processed": 1872,
+  "generated_at": "2026-02-06T22:01:51.209377+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
@@ -31,6 +31,17 @@
           "time_info": "12时13分"
         },
         {
+          "title": "牛津经济研究院：人工智能投资和税收优惠将推动美国在2026年及未来几年的经济增长。",
+          "url": "https://flash.jin10.com/detail/20260206214732607800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
+        },
+        {
           "title": "亚马逊(AMZN.O)：预计将继续在我们的人工智能项目中进行额外投资。",
           "url": "https://flash.jin10.com/detail/20260206190532858800",
           "source": "金十数据",
@@ -40,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "牛津经济研究院：人工智能的采用和房价下行压力将有助于美国通胀放缓。",
+          "url": "https://flash.jin10.com/detail/20260206214723678800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "汤森路透跌幅扩大至7%。Anthropic发布人工智能（AI）模型的最新版本Claude Opus 4.6，用于进行金融研究和其他工作相关的功能。",
@@ -52,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时44分 ~ 03时36分]"
+        },
+        {
+          "title": "牛津经济研究院：除了与人工智能相关的投资外，美国非科技投资预计将在2026年增长。",
+          "url": "https://flash.jin10.com/detail/20260206214715596800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时01分"
         },
         {
           "title": "据华尔街日报：消息人士称，xAI的投资者认为这家初创公司的未来与特斯拉CEO埃隆·马斯克的公司紧密交织在一起。SpaceX与xAI的合并以人工智能初创公司的资本流动为前提。",
@@ -225,8 +258,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 20时53分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 22时01分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -265,7 +298,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
