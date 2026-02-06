@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T19:31:54.823442+08:00",
-  "total_titles_processed": 1748,
+  "generated_at": "2026-02-06T20:53:49.343754+08:00",
+  "total_titles_processed": 1872,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -216,6 +216,19 @@
           "time_info": "[00时43分 ~ 12时13分]"
         },
         {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时49分 ~ 20时53分]"
+        },
+        {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
           "url": "https://wallstreetcn.com/articles/3765004",
           "source": "华尔街见闻",
@@ -229,19 +242,6 @@
           "time_info": "[00时43分 ~ 07时24分]"
         },
         {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 19时31分]"
-        },
-        {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
@@ -251,6 +251,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 06时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "股市下跌、美伊紧张局势持续的背景下 避险需求推动金价上涨",
+          "url": "https://flash.jin10.com/detail/20260206200753583800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
