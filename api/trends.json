@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T22:23:31.863503+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-02-07T23:22:20.588453+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时38分 ~ 22时23分]"
+          "appearance_count": 10,
+          "time_info": "[14时38分 ~ 23时22分]"
         },
         {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
@@ -330,6 +330,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
+          "url": "https://www.zhihu.com/question/29983694",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时41分 ~ 23时22分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：美国希望乌克兰和俄罗斯在夏季前结束战争。",
           "url": "https://flash.jin10.com/detail/20260207170124829800",
           "source": "金十数据",
@@ -346,19 +359,6 @@
           "time_info": "[17时28分 ~ 22时23分]"
         },
         {
-          "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
-          "url": "https://www.zhihu.com/question/29983694",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时41分 ~ 22时23分]"
-        },
-        {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551116",
           "source": "澎湃新闻",
@@ -368,8 +368,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时42分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 23时22分]"
         }
       ]
     },
