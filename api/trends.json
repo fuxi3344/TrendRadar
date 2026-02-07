@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T20:42:02.449016+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-02-07T21:42:06.384004+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[14时38分 ~ 21时42分]"
         },
         {
           "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
@@ -336,33 +337,36 @@
             5,
             13,
             16,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时28分 ~ 20时42分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 21时42分]"
         },
         {
           "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
           "url": "https://www.zhihu.com/question/29983694",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 20时42分]"
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 21时42分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551116",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时42分 ~ 21时42分]"
         }
       ]
     },
