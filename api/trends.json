@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T04:23:25.351721+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-08T05:23:45.560995+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             15,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时23分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
@@ -31,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时23分]"
         }
       ]
     },
@@ -48,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 04时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时26分 ~ 05时23分]"
         }
       ]
     }
