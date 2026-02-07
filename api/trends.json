@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-07T18:23:19.240519+08:00",
-  "total_titles_processed": 1284,
+  "generated_at": "2026-02-07T19:20:18.193144+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
       "match_count": 13,
       "titles": [
-        {
-          "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
         {
           "title": "“DeepSeek时刻”1年后，市场见证了“Claude冲击”",
           "url": "https://wallstreetcn.com/articles/3765209",
@@ -30,8 +19,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 19时20分]"
+        },
+        {
+          "title": "据媒体报道：Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
@@ -177,8 +177,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 19时20分]"
         },
         {
           "title": "据知情人士透露，OpenAI与G42洽谈向阿联酋提供特殊版本的GPT。 该模型将嵌入当地语言，政治前景，言论限制等方案。 这款微调的GPT用户将是阿联酋的政府部门。（Semafor）",
@@ -351,11 +351,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时20分]"
         }
       ]
     }
