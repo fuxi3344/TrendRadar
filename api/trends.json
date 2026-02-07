@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T00:26:18.192716+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-02-08T01:24:13.737753+08:00",
+  "total_titles_processed": 352,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/29983694",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 3,
+          "time_info": "[00时26分 ~ 01时24分]"
         },
         {
           "title": "兵韬志略｜美国向中东核心盟友大规模军售，制造紧张“大发战争财”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32551116",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     },
@@ -43,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
+          "appearance_count": 2,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     }
