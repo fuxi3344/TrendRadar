@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T01:24:14.120628+08:00",
-  "total_titles_processed": 335,
+  "generated_at": "2026-02-09T02:32:23.365021+08:00",
+  "total_titles_processed": 354,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 02时32分]"
         },
         {
           "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
@@ -27,8 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时32分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时32分]"
         }
       ]
     },
@@ -58,11 +58,29 @@
           "url": "https://wallstreetcn.com/articles/3765245",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 02时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价巨震下买黄金的人怎么样了",
+          "url": "https://www.toutiao.com/trending/7604465515100114459/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时32分"
         }
       ]
     }
