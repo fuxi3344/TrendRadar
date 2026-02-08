@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-08T13:01:40.510450+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-02-08T14:04:23.677378+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "罗斯柴尔德家族真的像《货币战争》中描述的那么厉害吗？",
@@ -46,8 +46,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 14时04分]"
+        },
+        {
+          "title": "国际观察丨美伊谈判能否解除中东“战争警报”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32559521",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
         }
       ]
     },
@@ -73,11 +84,12 @@
           "url": "https://www.zhihu.com/question/2003305831391785957",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 14时04分]"
         }
       ]
     },
