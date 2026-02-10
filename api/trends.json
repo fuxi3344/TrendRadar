@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T16:02:25.600749+08:00",
-  "total_titles_processed": 1157,
+  "generated_at": "2026-02-10T17:58:54.633514+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -88,7 +88,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -179,8 +179,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
+          "url": "https://flash.jin10.com/detail/20260210173001721800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
         {
           "title": "金十图示：2026年02月10日（周二）上海金午盘价为1118.1元/克，较国际金价(1115.18元/克)，高2.92元/克",
           "url": "https://flash.jin10.com/detail/20260210150158914800",
@@ -188,7 +199,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
