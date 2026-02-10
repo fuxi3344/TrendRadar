@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T04:41:17.717460+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2026-02-11T05:40:18.735297+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时40分]"
         },
         {
           "title": "美联储洛根：人工智能数据中心建设对电力的需求很大，但并没有想象中那么大。",
@@ -82,7 +82,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
         }
@@ -172,8 +172,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时05分 ~ 04时41分]"
+          "appearance_count": 5,
+          "time_info": "[00时05分 ~ 05时40分]"
         }
       ]
     }
