@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T02:59:35.349203+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-02-12T03:56:55.503798+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 03时56分]"
         },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时56分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 03时56分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时07分 ~ 02时59分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 03时56分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时56分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时56分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -91,7 +91,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
@@ -138,8 +138,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 02时59分]"
+          "appearance_count": 3,
+          "time_info": "[01时08分 ~ 03时56分]"
         }
       ]
     },
@@ -154,7 +154,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
         }
