@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T05:31:38.141263+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2026-02-12T06:27:19.064348+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时27分]"
         },
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时27分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时27分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时07分 ~ 05时31分]"
+          "appearance_count": 7,
+          "time_info": "[01时07分 ~ 06时27分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -59,19 +59,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时27分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
           "url": "https://wallstreetcn.com/articles/3765457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时27分]"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
@@ -96,13 +97,35 @@
           "time_info": "02时59分"
         },
         {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
+          "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
+          "url": "https://flash.jin10.com/detail/20260212054012505800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
+        },
+        {
           "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
           "url": "https://flash.jin10.com/detail/20260212051118010800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
         },
@@ -149,8 +172,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 05时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时08分 ~ 06时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储哈玛克：黄金和金属价格上涨可能与通胀有关。",
+          "url": "https://flash.jin10.com/detail/20260212055643823800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时27分"
         }
       ]
     },
