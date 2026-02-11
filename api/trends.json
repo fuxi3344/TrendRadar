@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T18:47:14.100166+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-02-11T19:42:57.955211+08:00",
+  "total_titles_processed": 1594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "国家发改委等八部门：加快招标投标领域人工智能推广应用",
@@ -77,6 +77,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20260211190914598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-11）",
           "url": "https://flash.jin10.com/detail/20260211114707238800",
           "source": "金十数据",
@@ -86,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
+        },
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "LG电子股价上涨7%，此前分析师因其在人工智能领域的竞争力而上调目标价。",
@@ -221,8 +243,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 18时47分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 19时42分]"
         },
         {
           "title": "机构：收益率走低支撑金价反弹 市场静候非农报告出炉",
@@ -231,7 +253,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时47分"
         },
