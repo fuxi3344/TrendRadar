@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T15:50:12.544971+08:00",
-  "total_titles_processed": 1216,
+  "generated_at": "2026-02-12T16:42:12.262212+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
@@ -41,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 15时50分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 16时42分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -53,8 +53,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 15时50分]"
+          "appearance_count": 16,
+          "time_info": "[01时07分 ~ 16时42分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -86,11 +86,12 @@
           "source": "微博",
           "ranks": [
             1,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时02分 ~ 15时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时02分 ~ 16时42分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -104,8 +105,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时27分 ~ 15时50分]"
+          "appearance_count": 7,
+          "time_info": "[06时27分 ~ 16时42分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
