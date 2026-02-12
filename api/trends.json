@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T21:01:51.082369+08:00",
-  "total_titles_processed": 1714,
+  "generated_at": "2026-02-12T22:14:32.695489+08:00",
+  "total_titles_processed": 1824,
   "failed_sources": [],
   "trends": [
     {
@@ -55,11 +55,12 @@
             7,
             8,
             9,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时07分 ~ 21时01分]"
+          "appearance_count": 22,
+          "time_info": "[01时07分 ~ 22时14分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -114,6 +115,18 @@
           "time_info": "[14时02分 ~ 16时42分]"
         },
         {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 22时14分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2026-02-12）",
           "url": "https://flash.jin10.com/detail/20260212120054964800",
           "source": "金十数据",
@@ -124,18 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 14时03分]"
-        },
-        {
-          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时38分 ~ 21时01分]"
         },
         {
           "title": "Infosys：与埃克森美孚石油(XOM.N)合作，推进浸没式冷却技术以构建可持续的人工智能基础设施。",
@@ -199,7 +200,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -309,11 +310,12 @@
           "url": "https://www.zhihu.com/question/1964981998281036870",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 22时14分]"
         }
       ]
     },
