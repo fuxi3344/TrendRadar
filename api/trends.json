@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T17:45:20.010845+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-02-12T18:42:33.525673+08:00",
+  "total_titles_processed": 1504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -42,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时07分 ~ 17时45分]"
+          "appearance_count": 18,
+          "time_info": "[01时07分 ~ 18时42分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -51,22 +51,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时07分 ~ 17时45分]"
-        },
-        {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 09时56分]"
+          "appearance_count": 18,
+          "time_info": "[01时07分 ~ 18时42分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -80,8 +70,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时27分 ~ 18时42分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[06时27分 ~ 17时45分]"
+          "time_info": "[01时08分 ~ 09时56分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -120,6 +121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时24分 ~ 14时03分]"
+        },
+        {
+          "title": "Infosys：与埃克森美孚石油(XOM.N)合作，推进浸没式冷却技术以构建可持续的人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20260212180447330800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "德国总理默茨：由于规则复杂，欧盟企业在人工智能领域落后。",
