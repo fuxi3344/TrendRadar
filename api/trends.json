@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T06:29:43.695582+08:00",
-  "total_titles_processed": 674,
+  "generated_at": "2026-02-13T07:25:57.309340+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Deepseek被指变冷淡了",
@@ -16,11 +16,12 @@
             7,
             6,
             16,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时25分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -29,11 +30,12 @@
           "ranks": [
             12,
             13,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时25分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -44,11 +46,12 @@
             14,
             30,
             17,
-            25
+            25,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时25分]"
         },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -58,8 +61,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时55分 ~ 06时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时55分 ~ 07时25分]"
+        },
+        {
+          "title": "周四（2月12日），信息科技指数跌2.27%，报269.21点，成分股Applovin收跌19.68%，思科跌12.32%，Astera Labs股份跌11.92%跌幅第三大。 人工智能（AI）赢家指数跌1.54%，AI软件先驱指数跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3054762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "市场消息：沙特阿美与微软签署谅解备忘录，推进工业人工智能发展。",
@@ -192,22 +206,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时29分]"
+          "appearance_count": 3,
+          "time_info": "[05时30分 ~ 07时25分]"
         },
         {
           "title": "市场消息：OpenAI 正在发布 GPT-5.3-Codex-Spark 的研究预览版。",
           "url": "https://flash.jin10.com/detail/20260213054809093800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时25分]"
         },
         {
           "title": "OpenAI CEO Sam Altman：今天晚些时候将为Codex Pro会员推出一项特别功能。",
@@ -256,22 +272,24 @@
             13,
             14,
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 06时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时25分]"
         },
         {
           "title": "金价跌超3%",
           "url": "https://wallstreetcn.com/livenews/3054743",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时25分]"
         },
         {
           "title": "分析师：金价失守5000美元引发连锁抛售",
@@ -298,8 +316,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时50分 ~ 06时29分]"
+          "appearance_count": 5,
+          "time_info": "[03时50分 ~ 07时25分]"
         }
       ]
     }
