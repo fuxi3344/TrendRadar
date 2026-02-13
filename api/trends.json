@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T18:37:08.456752+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-02-13T19:30:09.209266+08:00",
+  "total_titles_processed": 1645,
   "failed_sources": [],
   "trends": [
     {
@@ -35,8 +35,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 18时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 19时30分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -55,8 +55,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时55分 ~ 18时37分]"
+          "appearance_count": 20,
+          "time_info": "[00时55分 ~ 19时30分]"
         },
         {
           "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -69,6 +69,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 09时59分]"
+        },
+        {
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时39分 ~ 19时30分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -93,19 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            13,
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时39分 ~ 18时37分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -151,7 +151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
@@ -162,7 +162,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
         },
