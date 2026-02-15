@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T18:23:58.442494+08:00",
-  "total_titles_processed": 1038,
+  "generated_at": "2026-02-15T19:20:28.978919+08:00",
+  "total_titles_processed": 1097,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 19时20分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -69,11 +69,12 @@
           "ranks": [
             1,
             5,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
@@ -82,11 +83,12 @@
           "ranks": [
             2,
             6,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
@@ -108,11 +110,12 @@
           "ranks": [
             8,
             12,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[16时30分 ~ 19时20分]"
         },
         {
           "title": "DeepSeek“变冷淡”不是翻车",
@@ -120,11 +123,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时28分 ~ 19时20分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
@@ -137,6 +141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时54分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时20分"
         },
         {
           "title": "黑龙江：支持生物制造企业运用人工智能、大数据等技术改造升级，提升数字化智能化水平",
@@ -170,6 +185,18 @@
           "time_info": "[00时26分 ~ 15时36分]"
         },
         {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 19时20分]"
+        },
+        {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
           "url": "https://wallstreetcn.com/articles/3765736",
           "source": "华尔街见闻",
@@ -195,18 +222,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 09时58分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 18时23分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
