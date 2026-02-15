@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:29:08.642763+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-02-15T18:23:58.442494+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时23分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -44,11 +44,12 @@
             16,
             19,
             21,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时29分]"
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时23分]"
         },
         {
           "title": "《求是》:要坚持创新驱动 深化拓展“人工智能+”",
@@ -67,11 +68,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时23分]"
         },
         {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
@@ -79,11 +81,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时29分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时23分]"
         },
         {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
@@ -99,6 +102,31 @@
           "time_info": "[12时25分 ~ 15时36分]"
         },
         {
+          "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
+          "url": "https://flash.jin10.com/detail/20260215150836093800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时23分]"
+        },
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 18时23分]"
+        },
+        {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
           "url": "https://flash.jin10.com/detail/20260215110457187800",
           "source": "金十数据",
@@ -109,29 +137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时25分 ~ 13时54分]"
-        },
-        {
-          "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
-          "url": "https://flash.jin10.com/detail/20260215150836093800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时29分]"
-        },
-        {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 17时29分]"
         },
         {
           "title": "黑龙江：支持生物制造企业运用人工智能、大数据等技术改造升级，提升数字化智能化水平",
@@ -192,6 +197,18 @@
           "time_info": "[00时26分 ~ 09时58分]"
         },
         {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时58分 ~ 18时23分]"
+        },
+        {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
           "url": "https://www.cls.cn/detail/2290186",
           "source": "财联社热门",
@@ -213,18 +230,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时58分 ~ 17时29分]"
         }
       ]
     },
