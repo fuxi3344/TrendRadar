@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T20:43:20.291683+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-02-15T21:43:19.922860+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时58分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时58分 ~ 21时43分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -60,11 +60,12 @@
             5,
             8,
             11,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 21时43分]"
         },
         {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
@@ -75,11 +76,12 @@
             6,
             9,
             12,
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 21时43分]"
         },
         {
           "title": "《求是》:要坚持创新驱动 深化拓展“人工智能+”",
@@ -93,17 +95,6 @@
           "time_info": "15时36分"
         },
         {
-          "title": "黑龙江：打造“人工智能＋”数据共享新场景",
-          "url": "https://wallstreetcn.com/livenews/3055622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
-        },
-        {
           "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
           "url": "https://flash.jin10.com/detail/20260215150836093800",
           "source": "金十数据",
@@ -112,11 +103,37 @@
             12,
             15,
             18,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时30分 ~ 20时43分]"
+          "appearance_count": 6,
+          "time_info": "[16时30分 ~ 21时43分]"
+        },
+        {
+          "title": "黑龙江：打造“人工智能＋”数据共享新场景",
+          "url": "https://wallstreetcn.com/livenews/3055622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时43分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时43分]"
         },
         {
           "title": "00 年代也有互联网与搜索引擎，为啥人工智能（AI）在 20 年代才达到现在这种水平？",
@@ -143,18 +160,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时28分 ~ 19时20分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时43分]"
         },
         {
           "title": "据Fortune：Korn Ferry的一份报告显示，有37%的企业计划用人工智能取代应届生岗位。",
@@ -194,8 +199,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时58分 ~ 20时43分]"
+          "appearance_count": 11,
+          "time_info": "[09时58分 ~ 21时43分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -265,7 +270,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
@@ -277,6 +282,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         }
       ]
     },
@@ -311,11 +327,12 @@
           "url": "https://flash.jin10.com/detail/20260215194716674800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 21时43分]"
         }
       ]
     }
