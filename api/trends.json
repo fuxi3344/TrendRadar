@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T18:46:04.142544+08:00",
-  "total_titles_processed": 1151,
+  "generated_at": "2026-02-16T19:38:43.710412+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 18时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 19时38分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -54,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时05分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[14时05分 ~ 19时38分]"
         },
         {
           "title": "英国拟收紧在线安全法规 将人工智能聊天机器人纳入监管范围",
@@ -157,8 +157,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时24分 ~ 18时46分]"
+          "appearance_count": 7,
+          "time_info": "[12时24分 ~ 19时38分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -249,8 +249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 18时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 19时38分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -274,11 +274,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 19时38分]"
         }
       ]
     },
