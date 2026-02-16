@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T19:38:43.710412+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-02-16T20:57:04.540409+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 20时57分]"
+        },
+        {
+          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
+          "url": "https://www.cls.cn/detail/2290769",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时05分 ~ 20时57分]"
         },
         {
           "title": "黑龙江：打造“人工智能＋”数据共享新场景",
@@ -42,20 +57,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时23分]"
-        },
-        {
-          "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
-          "url": "https://www.cls.cn/detail/2290769",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时05分 ~ 19时38分]"
         },
         {
           "title": "英国拟收紧在线安全法规 将人工智能聊天机器人纳入监管范围",
@@ -154,11 +155,12 @@
             9,
             8,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 20时57分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -237,7 +239,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -249,8 +251,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 19时38分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 20时57分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -280,6 +282,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时51分 ~ 19时38分]"
+        },
+        {
+          "title": "千问3.5成本仅为谷歌大模型5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
