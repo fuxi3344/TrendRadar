@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:18:07.566068+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2026-02-17T13:56:37.426391+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时56分]"
         },
         {
           "title": "高盛：人工智能基建热潮引爆亚洲股市，对冲基金扫货力度创近十年之最",
@@ -67,13 +67,24 @@
           "time_info": "[09时53分 ~ 12时18分]"
         },
         {
+          "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622644",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "多部门部署加快招标投标领域人工智能推广应用",
           "url": "https://flash.jin10.com/detail/20260217112028909800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         }
@@ -163,8 +174,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时56分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -177,8 +188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 12时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时39分 ~ 13时56分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
