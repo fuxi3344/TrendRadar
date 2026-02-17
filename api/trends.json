@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:42:45.989711+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-02-17T19:38:17.191736+08:00",
+  "total_titles_processed": 1432,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 18时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 19时38分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时56分 ~ 18时42分]"
+          "appearance_count": 7,
+          "time_info": "[13时56分 ~ 19时38分]"
         },
         {
           "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
@@ -123,7 +123,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
@@ -295,8 +295,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 18时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时39分 ~ 19时38分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -313,37 +313,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
+      "keyword_group": "战争",
+      "match_count": 3,
       "titles": [
         {
-          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
-          "url": "https://flash.jin10.com/detail/20260217171116932800",
+          "title": "伊朗革命卫队海军指挥官：在战争中投入战场的武器与演习中展示的不同。",
+          "url": "https://flash.jin10.com/detail/20260217192239948800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
+          "time_info": "19时38分"
+        },
         {
           "title": "乌克兰外长：唯有我们的团结与力量，才能终结这场战争。",
           "url": "https://flash.jin10.com/detail/20260217145616884800",
@@ -354,6 +337,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "法国外长：绕过欧洲制裁是要付出代价的。俄罗斯将无法再通过在我们海岸附近活动的幽灵舰队来肆无忌惮地为其战争提供资金。‘格林奇’号油轮在福斯港耗费数百万欧元并被扣留三周后，终于离开了法国水域。",
+          "url": "https://flash.jin10.com/detail/20260217183834065800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 19时38分]"
+        },
+        {
+          "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
+          "url": "https://flash.jin10.com/detail/20260217171116932800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         }
       ]
     }
