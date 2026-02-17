@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T19:38:17.191736+08:00",
-  "total_titles_processed": 1432,
+  "generated_at": "2026-02-17T20:57:36.833237+08:00",
+  "total_titles_processed": 1544,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 19时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 20时57分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时56分 ~ 19时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时56分 ~ 20时57分]"
         },
         {
           "title": "特斯拉在韩国招聘人工智能芯片设计工程师",
@@ -106,6 +106,17 @@
           "time_info": "[09时53分 ~ 12时18分]"
         },
         {
+          "title": "法国总统马克龙：我们需要更好地监管人工智能和社交网络。我们需要更透明的算法，还需要保护我们的年轻人。",
+          "url": "https://flash.jin10.com/detail/20260217202702283800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
           "url": "https://flash.jin10.com/detail/20260217141751846800",
           "source": "金十数据",
@@ -150,6 +161,17 @@
           "time_info": "15时49分"
         },
         {
+          "title": "印度总理莫迪：印度和法国将启动人工智能医疗、数字科学技术中心以及国家航空技能培训中心。",
+          "url": "https://flash.jin10.com/detail/20260217201858600800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
+        },
+        {
           "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
           "url": "https://flash.jin10.com/detail/20260217160309287800",
           "source": "金十数据",
@@ -186,7 +208,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
@@ -261,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "市场消息：乔什·库什纳旗下的Thrive Capital公司筹集了100亿美元的新资金。这家OpenAI、Stripe、SpaceX和Skims的投资方表示，其在投资方面采取的是“要么全力以赴、要么一无所获”的策略。",
+          "url": "https://flash.jin10.com/detail/20260217200431087800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时57分"
         }
       ]
     },
@@ -295,8 +328,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时39分 ~ 19时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 20时57分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -323,7 +356,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -345,7 +378,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         }
@@ -361,11 +394,12 @@
           "source": "微博",
           "ranks": [
             13,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 19时38分]"
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 20时57分]"
         },
         {
           "title": "因金价走软，美国上市金矿股盘前走低。纽蒙特下跌3%，Sibanye Stillwater下跌5.8%，巴里克矿业下跌2.4%，哈莫尼黄金下跌4.2%。",
