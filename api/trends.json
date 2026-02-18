@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T17:44:11.012617+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-02-18T18:41:58.901135+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时54分 ~ 17时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时54分 ~ 18时41分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -189,6 +189,17 @@
           "time_info": "[06时29分 ~ 07时26分]"
         },
         {
+          "title": "印度外交部发言人：巴西总统卢拉已抵达新德里进行国事访问。在访问期间，卢拉总统将参加印度人工智能影响峰会。",
+          "url": "https://flash.jin10.com/detail/20260218180640353800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
           "title": "美联储理事巴尔：人工智能有可能随着时间的推移提高结构性失业率。",
           "url": "https://flash.jin10.com/detail/20260218020927738800",
           "source": "金十数据",
@@ -283,7 +294,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -465,9 +476,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
+          "url": "https://flash.jin10.com/detail/20260218181307784800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时41分"
         }
       ]
     }
