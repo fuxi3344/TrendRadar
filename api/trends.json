@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:21:28.974550+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-02-18T13:59:07.065679+08:00",
+  "total_titles_processed": 1053,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时54分 ~ 12时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时54分 ~ 13时59分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时26分]"
+        },
+        {
+          "title": "微软计划未来10年向“全球南方”人工智能领域投资500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "美联储理事巴尔：人工智能投资对美联储的利率目标“极为漠不关心”。",
@@ -57,6 +68,19 @@
           "time_info": "[04时34分 ~ 05时33分]"
         },
         {
+          "title": "日本首相高市早苗：日本与美国就贸易协议中5500亿美元承诺下的首轮投资项目达成一致。 项目包括工业用合成钻石、原油出口基础设施以及为人工智能数据中心提供能源的燃气发电。 这些项目将使日本和美国互利共赢。",
+          "url": "https://wallstreetcn.com/livenews/3056184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 13时59分]"
+        },
+        {
           "title": "2027年FOMC票委、旧金山联储主席戴利将于十分钟后就人工智能与经济问题发表讲话。",
           "url": "https://flash.jin10.com/detail/20260218032000000800",
           "source": "金十数据",
@@ -79,18 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时45分]"
-        },
-        {
-          "title": "日本首相高市早苗：日本与美国就贸易协议中5500亿美元承诺下的首轮投资项目达成一致。 项目包括工业用合成钻石、原油出口基础设施以及为人工智能数据中心提供能源的燃气发电。 这些项目将使日本和美国互利共赢。",
-          "url": "https://wallstreetcn.com/livenews/3056184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 12时21分]"
         },
         {
           "title": "美联储理事巴尔：基本情况是，人工智能正在为经济带来积极影响。",
@@ -151,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时29分 ~ 07时26分]"
+        },
+        {
+          "title": "高通将向印度人工智能战略基金投资不超过1.5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3056215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "美联储理事巴尔：人工智能有可能随着时间的推移提高结构性失业率。",
@@ -250,6 +273,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "微软副董事长兼总裁布拉德·史密斯：今天在新德里，我们分享了微软(MSFT.O)计划在本十年末投入500亿美元，以帮助将人工智能推广到全球南方的各个国家。我们的五部分计划旨在大规模实现人工智能的普及，让各个社区能够获得所需资源，从而能够接触、信任并应用人工智能来解决当地问题，并且能够追踪其进展情况。",
+          "url": "https://flash.jin10.com/detail/20260218122856396800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)加大力度研发面向人工智能时代的智能眼镜、吊坠和带摄像头的AirPods等产品。",
@@ -390,7 +424,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
