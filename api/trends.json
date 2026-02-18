@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T18:41:58.901135+08:00",
-  "total_titles_processed": 1446,
+  "generated_at": "2026-02-18T19:37:12.178807+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时54分 ~ 18时41分]"
+          "appearance_count": 16,
+          "time_info": "[00时54分 ~ 19时37分]"
         },
         {
           "title": "言短意长｜当人工智能和机器人扎堆出现在春晚",
@@ -195,9 +195,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
+        },
+        {
+          "title": "谷歌母公司Alphabet首席执行官Pichai：投入人工智能合情合理，因为这是一个非凡的机遇。",
+          "url": "https://wallstreetcn.com/livenews/3056294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "美联储理事巴尔：人工智能有可能随着时间的推移提高结构性失业率。",
@@ -330,6 +341,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        },
+        {
+          "title": "高通承诺为印度的战略人工智能风险投资基金出资高达1.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260218184508088800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         },
         {
           "title": "美联储理事巴尔：从长远来看，人工智能应提高生产率和生活水平。",
@@ -466,6 +488,34 @@
       ]
     },
     {
+      "keyword_group": "战争",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
+          "url": "https://flash.jin10.com/detail/20260218181307784800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时41分"
+        },
+        {
+          "title": "泽连斯基：各方在军事问题上都表现出了建设性态度。 各方同意，如果战争结束，美国将协助监督停火。 各方将在后续会谈中讨论政治问题。",
+          "url": "https://wallstreetcn.com/livenews/3056293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -479,23 +529,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "土耳其总统埃尔多安：针对伊朗的新战争对任何人都没有好处。",
-          "url": "https://flash.jin10.com/detail/20260218181307784800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时41分"
         }
       ]
     }
