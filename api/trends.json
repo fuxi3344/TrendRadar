@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T15:53:43.227843+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-02-19T16:41:00.098220+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
@@ -58,11 +58,12 @@
           "ranks": [
             1,
             11,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 16时41分]"
         },
         {
           "title": "Booking的首席财务官（CFO）：人工智能（AI）已经帮助实现消费者服务成本同比下降。",
@@ -90,6 +91,18 @@
           "time_info": "[05时33分 ~ 07时27分]"
         },
         {
+          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3056596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时41分]"
+        },
+        {
           "title": "据华尔街日报：Meta启动两份超级协议，以应对人工智能（AI）勒索。",
           "url": "https://flash.jin10.com/detail/20260219051053365800",
           "source": "金十数据",
@@ -112,17 +125,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时29分]"
-        },
-        {
-          "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3056596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "谷歌CEO皮查伊：今天在印度人工智能行动峰会上发表讲话，对我来说是一种极高的荣幸。人工智能能够改善数十亿人的生活，并解决科学领域中一些最为棘手的问题。人工智能所能带来的最佳成果并非是必然能够实现的。我们必须大胆地探索人工智能，以负责任的态度对待它，并携手共度这一时刻。",
@@ -188,7 +190,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -199,7 +201,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
