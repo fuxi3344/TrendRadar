@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T22:11:25.401554+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-02-19T23:45:10.379234+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 03时46分]"
+        },
+        {
+          "title": "Deepseek神回复",
+          "url": "https://s.weibo.com/weibo?q=Deepseek%E7%A5%9E%E5%9B%9E%E5%A4%8D&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时44分 ~ 23时45分]"
         },
         {
           "title": "傅莹在慕安会回应“谁能赢人工智能竞赛”：AI创新发展不是一场短跑赛",
@@ -105,6 +116,19 @@
           "time_info": "[15时53分 ~ 18时40分]"
         },
         {
+          "title": "美国两大人工智能巨头CEO拒绝牵手",
+          "url": "https://www.toutiao.com/trending/7608479654936674347/",
+          "source": "今日头条",
+          "ranks": [
+            14,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时59分 ~ 23时45分]"
+        },
+        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -165,18 +189,6 @@
           "time_info": "[05时33分 ~ 06时29分]"
         },
         {
-          "title": "美国两大人工智能巨头CEO拒绝牵手",
-          "url": "https://www.toutiao.com/trending/7608479654936674347/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 22时11分]"
-        },
-        {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
           "url": "https://flash.jin10.com/detail/20260219000243239800",
           "source": "金十数据",
@@ -195,7 +207,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时11分"
         },
@@ -231,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "美联储Kashkari：人工智能投资可能正在推高中性利率。 沃什完全有资格担任美联储主席。 不确定能否在没有重大变化的情况下缩减资产负债表。",
+          "url": "https://wallstreetcn.com/livenews/3056665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时45分"
         },
         {
           "title": "印度总理莫迪：人工智能将把人类的潜力提升到新的高度。",
@@ -389,8 +412,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时11分]"
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 23时45分]"
         },
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
