@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:40:30.748670+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-02-19T19:37:02.933878+08:00",
+  "total_titles_processed": 1542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "盘点春晚合作公司名单，覆盖智能出行、人工智能机器人、白酒等领域",
@@ -165,6 +165,17 @@
           "time_info": "[01时01分 ~ 01时56分]"
         },
         {
+          "title": "印度总理莫迪于2月19日在人工智能峰会上会见了阿布扎比王储。",
+          "url": "https://flash.jin10.com/detail/20260219184424109800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "美国财政部：2月份财政部将陆续发布一套与业界及联邦、州级监管合作伙伴共同开发的六项资源，旨在确保人工智能在整个美国金融体系中的安全性和韧性。",
           "url": "https://flash.jin10.com/detail/20260219021132913800",
           "source": "金十数据",
@@ -310,7 +321,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI最新一轮融资进展顺利，融资总额有望突破1000亿美元，首轮融资将于本月完成。（The Information）",
@@ -371,6 +382,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
@@ -399,8 +421,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时42分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 19时37分]"
         }
       ]
     },
