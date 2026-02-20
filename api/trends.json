@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T02:42:00.092960+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-02-21T03:35:45.368682+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         }
@@ -40,11 +40,12 @@
           "url": "https://wallstreetcn.com/livenews/3057063",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时35分]"
         },
         {
           "title": "美伊战争一触即发吗",
@@ -54,8 +55,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 02时42分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 03时35分]"
         }
       ]
     },
@@ -70,7 +71,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         }
