@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T07:28:12.809730+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2026-02-20T09:51:36.835842+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
@@ -77,7 +77,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -88,7 +88,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -99,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
@@ -107,18 +107,30 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
           "url": "https://wallstreetcn.com/livenews/3056817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时51分]"
+        },
+        {
+          "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
+          "url": "https://news.ifeng.com/c/8qt4n1oaql6",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "09时51分"
         },
         {
           "title": "伊朗致信联合国：不寻求战争 若遭军事侵略将反击",
@@ -127,7 +139,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -138,7 +150,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -152,12 +164,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "美国总统特朗普：将指示战争部长及其他相关部门和机构，开始识别和公布与外星人及外星生命相关的政府档案。",
+          "url": "https://flash.jin10.com/detail/20260220091509051800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -169,19 +192,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时48分 ~ 09时51分]"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
           "url": "https://wallstreetcn.com/livenews/3056822",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时51分]"
         },
         {
           "title": "印度AI峰会出现尴尬一幕：OpenAI与Anthropic的老板们拒绝牵手",
@@ -194,6 +218,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时29分]"
+        },
+        {
+          "title": "英伟达接近敲定与OpenAI的300亿美元投资，将取代两家公司去年达成的1000亿美元长期承诺。英伟达投资是OpenAI新一轮融资的一部分。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3056832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -225,6 +260,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时48分 ~ 02时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "高盛：若以看涨期权结构来衡量，若私营部门进一步实现多元化，那么黄金价格的预测将面临显著的上涨风险。",
+          "url": "https://flash.jin10.com/detail/20260220093805016800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "高盛：综合来看，各国央行的购金行为和私人投资者为应对美联储降息而增加的黄金敞口，将推动金价在2026年底前缓慢攀升至每盎司5400美元。",
+          "url": "https://flash.jin10.com/detail/20260220093444077800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     }
