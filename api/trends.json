@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-20T13:52:28.500918+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-02-20T14:53:18.094557+08:00",
+  "total_titles_processed": 1127,
   "failed_sources": [],
   "trends": [
     {
@@ -99,7 +99,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -307,8 +307,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 13时52分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 14时53分]"
         },
         {
           "title": "巴克莱调查：谷歌今年发债规模料领跑超大规模云服务商",
