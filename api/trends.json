@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T07:26:31.665865+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2026-02-21T09:46:39.328444+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/livenews/3057138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 09时46分]"
         },
         {
           "title": "OpenAI工作人员针对加拿大枪击案的嫌犯拉响警报。 相关人员在OpenAI的ChatGPT上谈论枪支暴力活动问题。（华尔街日报）",
@@ -24,22 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
-        },
-        {
-          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3057134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时46分]"
         },
         {
           "title": "报道：英伟达接近向OpenAI投资300亿美元",
@@ -47,11 +38,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            22
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时46分]"
+        },
+        {
+          "title": "报道：OpenAI调整支出预期，告知投资者2030年算力目标约为6,000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3057134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
+          "time_info": "[07时26分 ~ 09时46分]"
         },
         {
           "title": "OpenAI创始人点赞中国大模型",
@@ -68,30 +72,43 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
-          "url": "https://wallstreetcn.com/livenews/3057124",
-          "source": "华尔街见闻-快讯",
+          "title": "实测Gemini 3.1 Pro",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
+          "source": "bilibili 热搜",
           "ranks": [
-            5,
-            13
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
           "url": "https://wallstreetcn.com/articles/3765904",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时26分]"
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时46分]"
+        },
+        {
+          "title": "区域银行ETF收涨约1.3%，领跑美股行业ETF，标普电信板块涨超2.6%，谷歌A涨4%",
+          "url": "https://wallstreetcn.com/livenews/3057124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 09时46分]"
         },
         {
           "title": "谷歌公司探索多种方法，从而为自家AI芯片扩大市场。 谷歌考虑将TPU部门重组为一个单独的部门，但还没有相应的计划。 谷歌洽谈对初创公司FluidStack投资大约1亿美元。（华尔街日报）",
@@ -103,6 +120,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国总统特朗普：关税已经被用来结束（多场）战争。",
+          "url": "https://wallstreetcn.com/livenews/3057063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 04时28分]"
+        },
+        {
+          "title": "美伊战争一触即发吗",
+          "url": "https://www.toutiao.com/trending/7608862192707833382/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 03时35分]"
+        },
+        {
+          "title": "人类是否已经输掉气候战争",
+          "url": "https://www.douyin.com/hot/2406485",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
@@ -131,36 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国总统特朗普：关税已经被用来结束（多场）战争。",
-          "url": "https://wallstreetcn.com/livenews/3057063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时28分]"
-        },
-        {
-          "title": "美伊战争一触即发吗",
-          "url": "https://www.toutiao.com/trending/7608862192707833382/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 03时35分]"
         }
       ]
     },
