@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-22T18:22:28.540337+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-02-22T19:19:44.914027+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "战争",
       "match_count": 5,
       "titles": [
+        {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 19时19分]"
+        },
         {
           "title": "美国参议员查克·舒默警告说，特朗普可能会挑起与伊朗的战争，以此“转移人们对一系列国内负面新闻的注意力”。",
           "url": "https://flash.jin10.com/detail/20260221204238285800",
@@ -18,18 +30,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 18时22分]"
         },
         {
           "title": "美国总统特使威特科夫称，关于结束乌克兰战争的新一轮和平会谈将在三周内举行。",
@@ -50,11 +50,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时28分 ~ 18时22分]"
+          "appearance_count": 3,
+          "time_info": "[17时28分 ~ 19时19分]"
         },
         {
           "title": "专家：俄罗斯人的战争逻辑与众不同",
@@ -87,11 +88,12 @@
             13,
             14,
             16,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时25分 ~ 18时22分]"
+          "appearance_count": 23,
+          "time_info": "[00时25分 ~ 19时19分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -136,8 +138,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 18时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 19时19分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -150,8 +152,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 18时22分]"
+          "appearance_count": 5,
+          "time_info": "[15时34分 ~ 19时19分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -183,8 +185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时14分 ~ 18时22分]"
+          "appearance_count": 10,
+          "time_info": "[12时14分 ~ 19时19分]"
         }
       ]
     }
