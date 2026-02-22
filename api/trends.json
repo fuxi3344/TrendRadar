@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T19:19:44.914027+08:00",
-  "total_titles_processed": 1052,
+  "generated_at": "2026-02-22T20:43:00.307283+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "澎湃新闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时15分 ~ 19时19分]"
+          "appearance_count": 9,
+          "time_info": "[12时15分 ~ 20时43分]"
         },
         {
           "title": "美国参议员查克·舒默警告说，特朗普可能会挑起与伊朗的战争，以此“转移人们对一系列国内负面新闻的注意力”。",
@@ -89,11 +90,12 @@
             14,
             16,
             17,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 19时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 20时43分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -138,8 +140,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时26分 ~ 19时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时26分 ~ 20时43分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -152,8 +154,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时34分 ~ 19时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 20时43分]"
         },
         {
           "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
@@ -182,11 +184,12 @@
             6,
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时14分 ~ 19时19分]"
+          "appearance_count": 12,
+          "time_info": "[12时14分 ~ 20时43分]"
         }
       ]
     }
