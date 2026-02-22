@@ -1,176 +1,33 @@
 {
-  "generated_at": "2026-02-22T23:22:24.080574+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-02-23T00:26:41.117099+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "战争",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时15分 ~ 23时22分]"
-        },
-        {
-          "title": "美国参议员查克·舒默警告说，特朗普可能会挑起与伊朗的战争，以此“转移人们对一系列国内负面新闻的注意力”。",
-          "url": "https://flash.jin10.com/detail/20260221204238285800",
-          "source": "金十数据",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 07时21分]"
-        },
-        {
-          "title": "美国总统特使威特科夫称，关于结束乌克兰战争的新一轮和平会谈将在三周内举行。",
-          "url": "https://flash.jin10.com/detail/20260222153439710800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时28分 ~ 18时22分]"
-        },
-        {
-          "title": "伊朗国防消息人士：特朗普在西亚的扩张是针对伊朗和阿拉伯国家的“勒索”；伊朗不会陷入漫长且徒劳的谈判进程；如果美国或以色列发动战争，伊朗的反应将是广泛且无限制的。",
-          "url": "https://flash.jin10.com/detail/20260222162245388800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 19时19分]"
-        },
-        {
-          "title": "专家：俄罗斯人的战争逻辑与众不同",
-          "url": "https://www.toutiao.com/trending/7608857666928148522/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "实测Gemini 3.1 Pro",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BGemini%203.1%20Pro",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22,
-            10,
-            11,
-            9,
-            8,
-            5,
-            13,
-            14,
-            16,
-            17,
-            24,
-            27,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时25分 ~ 23时22分]"
-        },
-        {
-          "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
-          "url": "https://wallstreetcn.com/articles/3765938",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时54分 ~ 18时22分]"
-        },
-        {
-          "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
-          "url": "https://wallstreetcn.com/articles/3765927",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时54分 ~ 12时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "什么信号？OpenAI大幅下调算力支出目标：6000亿美元！",
           "url": "https://www.cls.cn/detail/2292326",
           "source": "财联社热门",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时26分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
           "url": "https://wallstreetcn.com/articles/3765945",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时34分 ~ 23时22分]"
-        },
-        {
-          "title": "传言成真？英伟达对OpenAI的“1000亿美元投资”最终“打了三折”",
-          "url": "https://wallstreetcn.com/articles/3765936",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时50分 ~ 15时34分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     },
@@ -183,17 +40,28 @@
           "url": "https://www.zhihu.com/question/2004982651719812885",
           "source": "知乎",
           "ranks": [
-            16,
-            6,
-            5,
-            4,
-            1,
-            2,
-            3
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时14分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中东睿评｜美以与伊朗博弈的混沌状态只能靠战争才能打破吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32639434",
+          "source": "澎湃新闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
         }
       ]
     }
