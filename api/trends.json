@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T06:22:08.526691+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-02-23T07:23:17.105683+08:00",
+  "total_titles_processed": 471,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时26分 ~ 07时23分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -28,11 +28,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时22分]"
+          "appearance_count": 3,
+          "time_info": "[05时21分 ~ 07时23分]"
         }
       ]
     },
@@ -48,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
         }
       ]
     },
@@ -73,11 +74,12 @@
           "url": "https://www.cls.cn/detail/2292521",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时32分 ~ 06时22分]"
+          "appearance_count": 6,
+          "time_info": "[02时32分 ~ 07时23分]"
         }
       ]
     },
@@ -91,11 +93,12 @@
           "source": "澎湃新闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时26分 ~ 06时22分]"
+          "appearance_count": 8,
+          "time_info": "[00时26分 ~ 07时23分]"
         }
       ]
     }
