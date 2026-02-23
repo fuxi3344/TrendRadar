@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T04:51:19.075770+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-02-24T05:42:07.317165+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -50,7 +50,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         },
@@ -61,7 +61,71 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "战争",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国总统特朗普：如果不达成协议，伊朗来将面临极其糟糕的一天。我希望与伊朗达成协议，而不是发生战争。",
+          "url": "https://flash.jin10.com/detail/20260224051242405800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "中方驳斥美声称“中国全面助长战争”",
+          "url": "https://www.toutiao.com/trending/7609280289860829190/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时36分 ~ 05时42分]"
+        },
+        {
+          "title": "美国总统特朗普：希望与伊朗达成协议，而不是开战。 我才是哪个决定是否发动战争的人。",
+          "url": "https://wallstreetcn.com/livenews/3057661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "据华尔街日报记者：五角大楼向特朗普总统表达了对卷入与伊朗的长期军事行动的担忧，并指出正在考虑的战争计划存在风险，包括美国及其盟国的人员伤亡、防空力量削弱以及军队不堪重负。",
+          "url": "https://flash.jin10.com/detail/20260224045821374800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "泽连斯基为何称乌克兰没输掉战争",
+          "url": "https://www.toutiao.com/trending/7610031399394872875/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
@@ -89,7 +153,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
@@ -107,8 +171,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 04时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 05时42分]"
         },
         {
           "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
@@ -117,37 +181,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "战争",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中方驳斥美声称“中国全面助长战争”",
-          "url": "https://www.toutiao.com/trending/7609280289860829190/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28,
-            24
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时36分 ~ 04时51分]"
-        },
-        {
-          "title": "泽连斯基为何称乌克兰没输掉战争",
-          "url": "https://www.toutiao.com/trending/7610031399394872875/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "04时51分"
         }
