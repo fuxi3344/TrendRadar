@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T18:47:36.160053+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-02-23T19:38:42.538718+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            12
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 18时47分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 19时38分]"
         },
         {
           "title": "苹果(AAPL.O)CEO库克暗示，苹果的下一个重大突破是视觉人工智能。",
@@ -84,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时26分 ~ 18时47分]"
+          "appearance_count": 16,
+          "time_info": "[00时26分 ~ 19时38分]"
         },
         {
           "title": "表面风光之下，OpenAI的“四大困境”",
@@ -116,8 +117,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时32分 ~ 18时47分]"
+          "appearance_count": 14,
+          "time_info": "[02时32分 ~ 19时38分]"
         }
       ]
     },
