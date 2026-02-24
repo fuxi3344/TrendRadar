@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T17:50:20.478756+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-02-24T18:45:18.490784+08:00",
+  "total_titles_processed": 1530,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 人工智能",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "中方回应美称DeepSeek违反美出口管制",
@@ -16,8 +16,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时42分 ~ 17时50分]"
+          "appearance_count": 4,
+          "time_info": "[16时42分 ~ 18时45分]"
+        },
+        {
+          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
+          "url": "https://www.cls.cn/detail/2293337",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 18时45分]"
         },
         {
           "title": "摩根大通CEO戴蒙在摩根大通投资者日发表讲话：考虑到人工智能，已制定重新部署员工的计划。关于AI导致大规模裁员的讨论，目前其实并没有发生。",
@@ -29,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
-        },
-        {
-          "title": "聚焦人工智能、低空经济！解码各地“新春第一会”",
-          "url": "https://www.cls.cn/detail/2293337",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 17时50分]"
         },
         {
           "title": "受Citrini人工智能恐慌报告影响，印度Nifty IT指数下跌2.9%。",
@@ -77,6 +77,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时36分 ~ 03时12分]"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 18时45分]"
+        },
+        {
+          "title": "中方回应美称DeepSeek违反出口管制",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 18时45分]"
         },
         {
           "title": "欧洲央行行长拉加德：欧洲仍可从人工智能中获益。",
@@ -126,26 +149,15 @@
           "time_info": "[15时54分 ~ 16时42分]"
         },
         {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
+          "title": "美称中国一人工智能企业违反美出口管制，外交部：中方已多次表明原则立场",
+          "url": "https://www.cls.cn/detail/2293574",
+          "source": "财联社热门",
           "ranks": [
-            18
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
-        },
-        {
-          "title": "中方回应美称DeepSeek违反出口管制",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E7%A7%B0DeepSeek%E8%BF%9D%E5%8F%8D%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "加拿大人工智能（AI）部长Evan Solomon：加拿大已经传唤OpenAI高级安全团队前来加拿大。 OpenAI并没有针对枪手（在其机器人聊天工具ChatGPT上讨论制造暴力活动的信息）报警，这让人感到厌烦。 2月24日，OpenAI的安全团队将在渥太华面临质询。 就监管AI聊天工具而言，“所有选项”都摆在台面上。",
@@ -173,7 +185,7 @@
     },
     {
       "keyword_group": "战争",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中方驳斥美声称“中国全面助长战争”",
@@ -239,6 +251,17 @@
           "time_info": "[05时42分 ~ 06时38分]"
         },
         {
+          "title": "首次展示！泽连斯基：战争初期，数百人在这里待过(图)",
+          "url": "https://news.ifeng.com/c/8r0aEH6IxnJ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "特朗普释放美伊局势缓和信号：更倾向协议而非战争",
           "url": "https://flash.jin10.com/detail/20260224053130374800",
           "source": "金十数据",
@@ -284,7 +307,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
