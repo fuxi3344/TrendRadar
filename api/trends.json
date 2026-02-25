@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T19:39:08.588967+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-02-25T20:58:29.623509+08:00",
+  "total_titles_processed": 1624,
   "failed_sources": [],
   "trends": [
     {
@@ -158,7 +158,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -282,11 +282,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 19时39分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 20时58分]"
         },
         {
           "title": "首次展示！泽连斯基：战争初期，数百人在这里待过(图)",
@@ -361,6 +362,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     }
